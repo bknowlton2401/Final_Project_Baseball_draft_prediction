@@ -1,0 +1,61 @@
+-- Creating tables for baseball_draft
+CREATE TABLE teams (
+     team_name VARCHAR NOT NULL,
+	abbreviation VARCHAR(3) NOT NULL,
+     PRIMARY KEY (abbreviation),
+     UNIQUE (abbreviation)
+);
+
+CREATE TABLE field_players (
+	player_name VARCHAR NOT NULL,
+	team VARCHAR NOT NULL,
+	Pos VARCHAR NOT NULL,
+	year DATE NOT NULL,
+	First_Round_Pick_Num INT NOT NULL,
+	games_played INT NOT NULL,
+	plate_appearances INT NOT NULL,
+	at_bats INT NOT NULL,
+	runs INT NOT NULL,
+	hits INT NOT NULL,
+	double_hits INT NOT NULL,
+	triple_hits INT NOT NULL,
+	home_runs INT NOT NULL,
+	runs_batted_in INT NOT NULL,
+	FOREIGN KEY (team) REFERENCES teams (abbreviation),
+		PRIMARY KEY (player_name)	
+);
+
+CREATE TABLE Longevity (
+	player_name VARCHAR NOT NULL,
+	position VARCHAR NOT NULL,
+	career_length_seasons INT NOT NULL,
+	FOREIGN KEY (player_name) REFERENCES field_players (player_name)
+);
+
+CREATE TABLE world_series(
+	year DATE NOT NULL,
+	team1 VARCHAR NOT NULL,
+	team2 VARCHAR NOT NULL,
+FOREIGN KEY (team1) REFERENCES teams (abbreviation),
+FOREIGN KEY (team2) REFERENCES teams (abbreviation),
+);
+	
+CREATE TABLE pitchers (
+	player_name VARCHAR NOT NULL,
+	team VARCHAR NOT NULL,
+	Pos VARCHAR NOT NULL,
+	year DATE NOT NULL,
+	First_Round_Pick_Num INT NOT NULL,
+	games_played INT NOT NULL,
+	games_started INT NOT NULL,
+	games_finished INT NOT NULL,
+	complete_games INT NOT NULL,
+	shutouts INT NOT NULL,
+	saves INT NOT NULL,
+	innings_pitched INT NOT NULL,
+	hits_allowed INT NOT NULL,
+	runs_allowed INT NOT NULL,
+	FOREIGN KEY (team) REFERENCES teams (abbreviation),
+		PRIMARY KEY (player_name)	
+);
+
