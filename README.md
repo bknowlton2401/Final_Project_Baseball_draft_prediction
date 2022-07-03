@@ -23,6 +23,17 @@ The data source used is Baseball Reference [link](https://www.baseball-reference
  - What is their overall batting average?
  - What is their overall ERA (for pitchers only)?
  - What is their length per team (as applicable)?
+ 
+ ### Database
+ A data base was created using SQL and pgAdmin. In order to create the database, an ERD was first created to visualize the data tables and how our data is connected. 
+ ![This is an image](https://github.com/bknowlton2401/Final_Project_Baseball_draft_prediction/blob/dsilvaggio/QuickDBD-export.png)
+ 
+ Using pandas, the mock data was cleaned and separate dataframes were created that matched the tables in the ERD. The dataframes were stored as tables in SQL.
+ 
+ ![This is an image](https://github.com/bknowlton2401/Final_Project_Baseball_draft_prediction/blob/dsilvaggio/Resources/Screen%20Shot%202022-07-02%20at%209.54.53%20PM.png)
+ 
+ ![This is an image](https://github.com/bknowlton2401/Final_Project_Baseball_draft_prediction/blob/dsilvaggio/Resources/Screen%20Shot%202022-07-02%20at%209.53.52%20PM.png)
+ 
 
 ## Communication Protocols
  - We will communicate via Slack messaging.
