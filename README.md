@@ -28,7 +28,7 @@ The data source used is Baseball Reference [link](https://www.baseball-reference
  A data base was created using SQL and pgAdmin. In order to create the database, an ERD was first created to visualize the data tables and how our data is connected. 
  ![This is an image](https://github.com/bknowlton2401/Final_Project_Baseball_draft_prediction/blob/dsilvaggio/QuickDBD-export.png)
  
- Using pandas, the mock data was cleaned and separate dataframes were created that matched the tables in the ERD. The dataframes were stored as tables in SQL.
+ Using pandas, the mock data was cleaned and separate dataframes were created that matched the tables in the ERD. The dataframes were stored as tables in SQL. These tables will hold the "ready to use" data for our machine learning models and other analysis.  
  
  ![This is an image](https://github.com/bknowlton2401/Final_Project_Baseball_draft_prediction/blob/dsilvaggio/Resources/Screen%20Shot%202022-07-02%20at%209.54.53%20PM.png)
  
