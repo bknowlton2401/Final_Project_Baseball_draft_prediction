@@ -11,7 +11,7 @@ The data source used is Baseball Reference [link](https://www.baseball-reference
 ## Questions
 ### Correlations
  - Is there a correlation between first round draft picks and the team making it to playoffs?
- - Is there a correlation between second round draft picks and longevity in the MLB?
+ - Is there a correlation between first round draft picks and longevity in the MLB?
  - Is there a correlation between Rookie of the Year and the team making it to the playoffs?
  
  ### Stats to include
