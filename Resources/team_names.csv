@@ -1,31 +1,31 @@
-Team Name,abbreviation_lower,abbreviation_upper
-Arizona Diamondbacks,ari,ARI
-Atlanta Braves,atl,ATL
-Baltimore Orioles,bal,BAL
-Boston Red Sox,bos,BOS
-Chicago White Sox,cws,CWS
-Chicago Cubs,chc,CHC
-Cinncinnati Reds,cin,CIN
-Cleveland Indians,cle,CLE
-Colorado Rockies,col,COL
-Detroit Tigers,det,DET
-Houston Astros,hou,HOU
-Kansas City Royals,kc,KC
-Los Angeles Angels,ana,ANA
-Los Angeles Dodgers,la,LA
-Miami Marlins,mia,MIA
-Milwaukee Brewers,mil,MIL
-Minnesota Twins,min,MIN
-New York Mets,nym,NYM
-New York Yankees,nyy,NYY
-Oakland Athletics,oak,OAK
-Philadelphia Phillies,phi,PHI
-Pittsburgh Pirates,pit,PIT
-San Diego Padres,sd,SD
-San Francisco Giants,sf,SF
-Seattle Mariners,sea,SEA
-St. Louis Cardinals,stl,STL
-Tampa Bay Rays,tb,TB
-Texas Rangers,tex,TEX
-Toronto Blue Jays,tor,TOR
-Washington Nationals,was,WAS
+Team,Name,abbreviation_lower,abbreviation_upper
+Arizona,Diamondbacks,ari,ARI
+Atlanta,Braves,atl,ATL
+Baltimore,Orioles,bal,BAL
+Boston,Red Sox,bos,BOS
+Chicago,White Sox,cws,CWS
+Chicago,Cubs,chc,CHC
+Cinncinnati,Reds,cin,CIN
+Cleveland,Indians,cle,CLE
+Colorado,Rockies,col,COL
+Detroit,Tigers,det,DET
+Houston,Astros,hou,HOU
+Kansas,Royals,kc,KC
+Los,Angels,ana,ANA
+Los,Dodger,la,LA
+Miami,Marlins,mia,MIA
+Milwaukee,Brewers,mil,MIL
+Minnesota,Twins,min,MIN
+New,Mets,nym,NYM
+New,Yankees,nyy,NYY
+Oakland,Athletics,oak,OAK
+Philadelphia,Phillies,phi,PHI
+Pittsburgh,Pirates,pit,PIT
+San,Padres,sd,SD
+San,Giants,sf,SF
+Seattle,Mariners,sea,SEA
+St.,Cardinals,stl,STL
+Tampa,Rays,tb,TB
+Texas,Rangers,tex,TEX
+Toronto,Blue Jays,tor,TOR
+Washington,Nationals,was,WAS
