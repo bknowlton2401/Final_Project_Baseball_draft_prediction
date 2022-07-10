@@ -14,3 +14,11 @@ The purpose of this analysis is to see if there is a correlation between longevi
 ![Histogram of playoff qualifying franchise](https://user-images.githubusercontent.com/96890065/178162390-61d262cf-d2bd-459f-8d57-30aaefbfe94e.JPG)
 
 ### First Round Draft picks 2000-2015
+- I updated the AllFirstRoundDraft.csv to include the fanchise_id and renamed it AllFirstRoundDraftwithfranchise_id.csv. 
+- I then narrowed down the dataframe to indclude the top 5 round picks in the First Round per team per year.
+- I created a histogram to show which teams had the most top 5 picks in the First Round.
+![top five in First Round](https://user-images.githubusercontent.com/96890065/178162538-321d7ae3-4637-4cf1-ae27-a96b62739bda.JPG)
+- I created a table to indicate if the team had a top 5 pick in the First Round. 
+![top five table](https://user-images.githubusercontent.com/96890065/178163228-2744c531-19f1-499f-a2d2-1edfd81531d3.JPG)
+- I created a histogram to show the number of occurances each team had a top 5 First Round pick.
+ ![top five teams 2000-2015](https://user-images.githubusercontent.com/96890065/178163223-6ea21f2a-30b3-49b0-a149-aaf6e6e66788.JPG)
