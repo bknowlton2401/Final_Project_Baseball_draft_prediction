@@ -22,3 +22,6 @@ The purpose of this analysis is to see if there is a correlation between longevi
 ![top five table](https://user-images.githubusercontent.com/96890065/178163228-2744c531-19f1-499f-a2d2-1edfd81531d3.JPG)
 - I created a histogram to show the number of occurances each team had a top 5 First Round pick.
  ![top five teams 2000-2015](https://user-images.githubusercontent.com/96890065/178163223-6ea21f2a-30b3-49b0-a149-aaf6e6e66788.JPG)
+
+### Top 5 First Round Draft picks vs Making the Playoffs
+- I combined the 2 histograms into 1 to show that there is no correlation between a team having the top 5 first round picks and their team making the playoffs. 
