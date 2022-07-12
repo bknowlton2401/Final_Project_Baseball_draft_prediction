@@ -25,3 +25,16 @@ The purpose of this analysis is to see if there is a correlation between longevi
 
 ### Top 5 First Round Draft picks vs Making the Playoffs
 - I combined the 2 histograms into 1 to show that there is no correlation between a team having the top 5 first round picks and their team making the playoffs. 
+
+### Career Lengths 2000-2015
+- After importing the career_lengths CSV, I cleaned it up to remove players who started after 2015 and to round the years played to a whole number. 
+- I created a histogram to show career lengths from 2000-2015. 
+![careerlength](https://user-images.githubusercontent.com/96890065/178385389-5e8d4c46-7b5a-4e92-8140-ebdf3b701555.png)
+- The average career length during that time was about 5 years.
+
+### Match First Round picks to career length
+- after reading in the AllFirstRoundDraftswithfranchise_id CSV, I cleaned up the names to eliminate an astrick before any names and '(minors)' after any name.  
+- I merged this new dataframe with players career lengths and created a new CSV
+- I calculaged the average years played by a first round draft pick with their team.
+- Using Seagrams, I created a box plot.
+![careerlgth_player_team](https://user-images.githubusercontent.com/96890065/178385746-263b0736-b43a-4a1d-887e-d1878782e945.png)
