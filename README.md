@@ -5,7 +5,9 @@ The purpose of this analysis is to see if there is a correlation between longevi
 
 
 ## Data Source
-The data source used is Baseball Reference [link](https://www.baseball-reference.com/).  This source was used because it gives statistics on every major league baseball player since the inception of the MLB in 1876.  The site has statistics on first round draft picks dating back to 1965, that includes the player, the selecting team, position and signing bonus [link](https://www.baseball-reference.com/draft/).  The site also shows each rookie of the year dating back to 1947.  This includes their team, league, and batting statistics [link](https://www.baseball-reference.com/awards/roy.shtml). 
+The data sources used are Baseball Reference [link](https://www.baseball-reference.com/) and Kaggle [link](https://www.kaggle.com/code/rmbright/baseball-hr-player-demographics-career-length).  
+ - Baseball Reference was used because it gives statistics on every major league baseball player since the inception of the MLB in 1876.  The site has statistics on first round draft picks dating back to 1965, that includes the player, the selecting team, position and signing bonus [link](https://www.baseball-reference.com/draft/).  The site also shows each rookie of the year dating back to 1947.  This includes their team, league, and batting statistics [link](https://www.baseball-reference.com/awards/roy.shtml). 
+  - Kaggle was used to gather sorted data files for teams, players, career lengths, and playoff information.
 
 
 ## Questions
@@ -26,3 +28,6 @@ The data source used is Baseball Reference [link](https://www.baseball-reference
 
 ## Communication Protocols
  - We will communicate via Slack messaging.
+
+## Outline
+____________________________________________________________________________________________________________________________________________________________
