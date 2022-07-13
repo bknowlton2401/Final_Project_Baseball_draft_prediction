@@ -1,0 +1,43 @@
+Year,Rnd,DT,OvPck,FrRnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G,W,L,ERA,WHIP,SV,Type,Drafted Out of,Team Made Playoffs
+2015,1,,1,FrRnd,1,Diamondbacks,Y,"$6,500,000 ",Dansby Swanson (minors),SS,12.3,746,2709,91,0.255,0.743,,,,,,,4Yr,"Vanderbilt University (Nashville, TN)",0
+2015,1,,2,FrRnd,2,Astros,Y,"$5,900,000 ",Alex Bregman (minors),SS,27.4,726,2672,126,0.277,0.871,,,,,,,4Yr,"Louisiana State University (Baton Rouge, LA)",1
+2015,1,,3,FrRnd,3,Rockies,Y,"$5,500,000 ",Brendan Rodgers (minors),SS,2.4,203,755,23,0.265,0.738,,,,,,,HS,"Lake Mary HS (Lake Mary, FL)",0
+2015,1,,4,FrRnd,4,Rangers,Y,"$4,200,000 ",Dillon Tate (minors),RHP,2.2,5,0,0,,,124,1,12,3.95,1.15,5,4Yr,"University of California, Santa Barbara (Santa Barbara, CA)",1
+2015,1,,5,FrRnd,5,Astros,Y,"$4,000,000 ",Kyle Tucker (minors),OF,11.5,322,1105,59,0.271,0.853,,,,,,,HS,"H. B. Plant HS (Tampa, FL)",1
+2015,1,,6,FrRnd,6,Twins,Y,"$3,889,500 ",Tyler Jay (minors),LHP,,,,,,,,,,,,,4Yr,"University of Illinois at Urbana-Champaign (Champaign, IL)",0
+2015,1,,7,FrRnd,7,Red Sox,Y,"$3,590,400 ",Andrew Benintendi (minors),OF,14.5,696,2620,71,0.278,0.784,,,,,,,4Yr,"University of Arkansas (Fayetteville, AR)",0
+2015,1,,8,FrRnd,8,White Sox,Y,"$3,470,600 ",Carson Fulmer (minors),RHP,-1.2,22,3,0,0,0,74,6,9,6.41,1.58,0,4Yr,"Vanderbilt University (Nashville, TN)",0
+2015,1,,9,FrRnd,9,Cubs,Y,"$3,000,000 ",Ian Happ (minors),OF,9.2,598,1826,95,0.248,0.81,1,0,0,0,1,0,4Yr,"University of Cincinnati (Cincinnati, OH)",1
+2015,1,,10,FrRnd,10,Phillies,Y,"$3,231,300 ",Cornelius Randolph (minors),SS,,,,,,,,,,,,,HS,"Griffin HS (Griffin, GA)",0
+2015,1,,11,FrRnd,11,Reds,Y,"$3,141,600 ",Tyler Stephenson (minors),C,3.7,182,508,17,0.291,0.815,,,,,,,HS,"Kennesaw Mountain HS (Kennesaw, GA)",0
+2015,1,,12,FrRnd,12,Marlins,Y,"$2,200,000 ",Josh Naylor (minors),1B,1,257,779,27,0.257,0.732,,,,,,,HS,"St. Joan of Arc Catholic SS (Mississauga, ON)",0
+2015,1,,13,FrRnd,13,Rays,Y,"$2,959,600 ",Garrett Whitley (minors),OF,,,,,,,,,,,,,HS,"Niskayuna HS (Niskayuna, NY)",0
+2015,1,,14,FrRnd,14,Braves,Y,"$3,042,400 ",Kolby Allard (minors),LHP,-1,5,5,0,0.2,0.4,62,8,23,5.89,1.41,1,HS,"San Clemente HS (San Clemente, CA)",0
+2015,1,,15,FrRnd,15,Brewers,Y,"$2,700,000 ",Trent Grisham (minors),OF,7.5,321,1093,39,0.23,0.725,,,,,,,HS,"Richland HS (North Richland Hills, TX)",0
+2015,1,,16,FrRnd,16,Yankees,Y,"$2,650,000 ",James Kaprielian (minors),RHP,1.1,3,3,0,0.333,0.667,38,9,10,4.57,1.28,0,4Yr,"University of California, Los Angeles (Los Angeles, CA)",1
+2015,1,,17,FrRnd,17,Indians,Y,"$2,513,280 ",Brady Aiken (minors),LHP,,,,,,,,,,,,,HS,"IMG Academy (Bradenton, FL)",0
+2015,1,,18,FrRnd,18,Giants,Y,"$2,333,800 ",Phil Bickford (minors),RHP,0.9,57,3,0,0.333,0.667,85,4,3,3.84,1.1,1,JC,"College of Southern Nevada (Henderson, NV)",0
+2015,1,,19,FrRnd,19,Pirates,Y,"$2,175,000 ",Kevin Newman (minors),SS,2,367,1305,18,0.257,0.655,,,,,,,4Yr,"University of Arizona (Tucson, AZ)",1
+2015,1,,20,FrRnd,20,Athletics,Y,"$1,950,000 ",Richie Martin (minors),SS,-2,170,411,7,0.212,0.572,,,,,,,4Yr,"University of Florida (Gainesville, FL)",0
+2015,1,,21,FrRnd,21,Royals,Y,"$2,190,200 ",Ashe Russell (minors),RHP,,,,,,,,,,,,,HS,"Cathedral HS (Indianapolis, IN)",1
+2015,1,,22,FrRnd,22,Tigers,Y,"$2,154,200 ",Beau Burrows (minors),RHP,-0.7,2,0,0,,,11,0,1,10.7,1.98,0,HS,"Weatherford HS (Weatherford, TX)",0
+2015,1,,23,FrRnd,23,Cardinals,Y,"$2,124,400 ",Nick Plummer (minors),OF,-0.1,14,29,2,0.138,0.573,,,,,,,HS,"Brother Rice HS (Bloomfield Hills, MI)",1
+2015,1,,24,FrRnd,24,Dodgers,Y,"$1,777,500 ",Walker Buehler (minors),RHP,13.2,93,171,1,0.111,0.305,115,46,16,3.02,1.04,0,4Yr,"Vanderbilt University (Nashville, TN)",1
+2015,1,,25,FrRnd,25,Orioles,Y,"$2,064,500 ",DJ Stewart (minors),OF,0.5,195,527,26,0.213,0.728,,,,,,,4Yr,"Florida State University (Tallahassee, FL)",0
+2015,1,,26,FrRnd,26,Angels,Y,"$1,670,000 ",Taylor Ward (minors),C,2.3,216,687,27,0.253,0.771,,,,,,,4Yr,"California State University, Fresno (Fresno, CA)",0
+2015,1,,27,FrRnd,27,Rockies,Y,"$2,300,000 ",Mike Nikorak (minors),RHP,,,,,,,,,,,,,HS,"Stroudsburg HS (Stroudsburg, PA)",0
+2015,1,,28,FrRnd,28,Braves,Y,"$1,974,700 ",Mike Soroka (minors),RHP,6.1,31,60,0,0.083,0.224,37,15,6,2.86,1.16,0,HS,"Bishop Carroll HS (Calgary, AB)",0
+2015,1,,29,FrRnd,29,Blue Jays,Y,"$1,944,800 ",Jon Harris (minors),RHP,,,,,,,,,,,,,4Yr,"Missouri State University (Springfield, MO)",1
+2015,1,,30,FrRnd,30,Yankees,Y,"$1,800,000 ",Kyle Holder (minors),SS,,,,,,,,,,,,,4Yr,"University of San Diego (San Diego, CA)",1
+2015,1,,31,FrRnd,31,Giants,Y,"$1,400,000 ",Chris Shaw (minors),1B,-0.9,38,72,1,0.153,0.466,,,,,,,4Yr,"Boston College (Chestnut Hill, MA)",0
+2015,1,,32,FrRnd,32,Pirates,Y,"$1,855,000 ",Ke'Bryan Hayes (minors),3B,6.9,191,717,14,0.271,0.741,,,,,,,HS,"Concordia Lutheran HS (Tomball, TX)",1
+2015,1,,33,FrRnd,33,Royals,Y,"$1,825,200 ",Nolan Watson (minors),RHP,,,,,,,,,,,,,HS,"Lawrence North HS (Indianapolis, IN)",1
+2015,1,,34,FrRnd,34,Tigers,Y,"$1,795,100 ",Christin Stewart (minors),OF,-1.2,157,519,15,0.225,0.676,,,,,,,4Yr,"University of Tennessee (Knoxville, TN)",0
+2015,1,,35,FrRnd,35,Dodgers,N,,Kyle Funkhouser (minors),RHP,0.7,4,0,0,,,70,8,5,4.2,1.51,1,4Yr,"University of Louisville (Louisville, KY)",1
+2015,1,,36,FrRnd,36,Orioles,Y,"$1,300,000 ",Ryan Mountcastle (minors),SS,3.3,248,934,52,0.272,0.812,,,,,,,HS,"Paul J. Hagerty HS (Oviedo, FL)",0
+2015,1,,37,FrRnd,37,Astros,Y,"$4,000,000 ",Daz Cameron (minors),OF,-0.4,70,216,5,0.204,0.606,,,,,,,HS,"Eagle's Landing Christian Academy (McDonough, GA)",1
+2015,1,,38,FrRnd,38,Rockies,Y,"$2,000,000 ",Tyler Nevin (minors),3B,0,48,138,3,0.196,0.615,,,,,,,HS,"Poway HS (Poway, CA)",0
+2015,1,,39,FrRnd,39,Cardinals,Y,"$1,800,000 ",Jake Woodford (minors),RHP,0.2,25,18,0,0.111,0.222,49,5,4,4.12,1.3,0,HS,"H. B. Plant HS (Tampa, FL)",1
+2015,1,,40,FrRnd,40,Brewers,Y,"$1,250,000 ",Nathan Kirby (minors),LHP,,,,,,,,,,,,,4Yr,"University of Virginia (Charlottesville, VA)",0
+2015,1,,41,FrRnd,41,Braves,Y,"$1,600,000 ",Austin Riley (minors),3B,7.8,370,1360,79,0.27,0.834,,,,,,,HS,"DeSoto Central HS (Southaven, MS)",0
+2015,1,,42,FrRnd,42,Indians,Y,"$2,302,500 ",Triston McKenzie (minors),RHP,2.8,1,2,0,0.5,1,48,12,16,4.26,1.07,0,HS,"Royal Palm Beach HS (Royal Palm Beach, FL)",0

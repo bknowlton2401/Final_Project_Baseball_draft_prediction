@@ -1,0 +1,40 @@
+Year,Rnd,DT,OvPck,FrRnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G,W,L,ERA,WHIP,SV,Type,Drafted Out of,Team Made Playoffs
+2013,1,,1,FrRnd,1,Astros,Y,"$6,350,000 ",Mark Appel (minors),RHP,0.1,0,0,,,,2,0,0,0,0.5,0,4Yr,"Stanford University (Palo Alto, CA)",0
+2013,1,,2,FrRnd,2,Cubs,Y,"$6,708,400 ",Kris Bryant (minors),3B,28.5,907,3375,167,0.278,0.875,,,,,,,4Yr,"University of San Diego (San Diego, CA)",0
+2013,1,,3,FrRnd,3,Rockies,Y,"$4,800,000 ",Jon Gray (minors),RHP,11.3,140,242,1,0.091,0.25,166,57,53,4.54,1.32,0,4Yr,"University of Oklahoma (Norman, OK)",0
+2013,1,,4,FrRnd,4,Twins,Y,"$4,544,400 ",Kohl Stewart (minors),RHP,0.2,4,3,0,0.333,0.667,21,5,4,4.88,1.48,0,HS,"St. Pius X HS (Houston, TX)",0
+2013,1,,5,FrRnd,5,Indians,Y,"$3,500,000 ",Jackson Frazier (minors),3B,0.2,247,744,29,0.238,0.756,,,,,,,HS,"Loganville HS (Loganville, GA)",1
+2013,1,,6,FrRnd,6,Marlins,Y,"$3,516,500 ",Colin Moran (minors),3B,-0.2,497,1511,49,0.263,0.742,,,,,,,4Yr,"University of North Carolina at Chapel Hill (Chapel Hill, NC)",0
+2013,1,,7,FrRnd,7,Red Sox,Y,"$2,750,000 ",Trey Ball (minors),LHP,,,,,,,,,,,,,HS,"New Castle Chrysler HS (New Castle, IN)",1
+2013,1,,8,FrRnd,8,Royals,Y,"$2,200,000 ",Hunter Dozier (minors),SS,-1.4,506,1804,67,0.244,0.748,,,,,,,4Yr,"Stephen F. Austin State University (Nacogdoches, TX)",0
+2013,1,,9,FrRnd,9,Pirates,Y,"$3,029,600 ",*Austin Meadows (minors),CF,6.7,411,1486,70,0.259,0.809,,,,,,,HS,"Grayson HS (Loganville, GA)",1
+2013,1,,10,FrRnd,10,Blue Jays,N,,Phil Bickford (minors),RHP,0.9,57,3,0,0.333,0.667,85,4,3,3.84,1.1,1,HS,"Oaks Christian HS (Westlake, CA)",0
+2013,1,,11,FrRnd,11,Mets,Y,"$2,600,000 ",Dominic Smith (minors),1B,0.6,437,1217,46,0.249,0.74,,,,,,,HS,"Junipero Serra HS (Gardena, CA)",0
+2013,1,,12,FrRnd,12,Mariners,Y,"$2,759,100 ",D.J. Peterson (minors),3B,,,,,,,,,,,,,4Yr,"University of New Mexico (Albuquerque, NM)",0
+2013,1,,13,FrRnd,13,Padres,Y,"$2,678,000 ",Hunter Renfroe (minors),RF,9.5,630,2164,141,0.238,0.787,,,,,,,4Yr,"Mississippi State University (Mississippi State, MS)",0
+2013,1,,14,FrRnd,14,Pirates,Y,"$2,369,800 ",Reese McGuire (minors),C,1.6,186,495,9,0.24,0.647,,,,,,,HS,"Kentwood HS (Covington, WA)",1
+2013,1,,15,FrRnd,15,Diamondbacks,Y,"$2,250,000 ",Braden Shipley (minors),RHP,-0.1,25,34,0,0.088,0.206,26,4,6,5.49,1.6,0,4Yr,"University of Nevada, Reno (Reno, NV)",0
+2013,1,,16,FrRnd,16,Phillies,Y,"$2,299,300 ",J.P. Crawford (minors),SS,10.4,451,1628,26,0.253,0.703,,,,,,,HS,"Lakewood HS (Lakewood, CA)",0
+2013,1,,17,FrRnd,17,White Sox,Y,"$2,164,000 ",Tim Anderson (minors),SS,18.6,745,3015,96,0.289,0.765,,,,,,,JC,"East Central Community College (Decatur, MS)",0
+2013,1,,18,FrRnd,18,Dodgers,Y,"$2,109,900 ",Chris Anderson (minors),RHP,,,,,,,,,,,,,4Yr,"Jacksonville University (Jacksonville, FL)",1
+2013,1,,19,FrRnd,19,Cardinals,Y,"$1,850,000 ",Marco Gonzales (minors),LHP,9.7,18,23,0,0.217,0.565,137,55,42,3.97,1.27,0,4Yr,"Gonzaga University (Spokane, WA)",1
+2013,1,,20,FrRnd,20,Tigers,Y,"$2,001,700 ",Jonathon Crawford (minors),RHP,,,,,,,,,,,,,4Yr,"University of Florida (Gainesville, FL)",1
+2013,1,,21,FrRnd,21,Rays,Y,"$1,972,200 ",Nick Ciuffo (minors),C,-0.2,21,48,1,0.188,0.551,,,,,,,HS,"Lexington HS (Lexington, SC)",1
+2013,1,,22,FrRnd,22,Orioles,Y,"$1,947,600 ",Hunter Harvey (minors),RHP,0.6,1,0,0,,,30,1,2,3.08,1.14,0,HS,"Bandys HS (Catawba, NC)",0
+2013,1,,23,FrRnd,23,Rangers,Y,"$2,215,000 ",Chi Chi Gonzalez (minors),RHP,-0.2,37,55,0,0.109,0.252,66,9,24,5.66,1.48,0,4Yr,"Oral Roberts University (Tulsa, OK)",0
+2013,1,,24,FrRnd,24,Athletics,Y,"$1,800,000 ",Billy McKinney (minors),CF,-0.3,263,690,28,0.206,0.664,,,,,,,HS,"Plano West Senior HS (Plano, TX)",1
+2013,1,,25,FrRnd,25,Giants,Y,"$1,866,500 ",Christian Arroyo (minors),SS,1.3,181,547,19,0.234,0.685,1,0,0,0,2,0,HS,"Hernando HS (Brooksville, FL)",0
+2013,1,,26,FrRnd,26,Yankees,Y,"$1,839,400 ",Eric Jagielo (minors),3B,,,,,,,,,,,,,4Yr,"University of Notre Dame (South Bend, IN)",0
+2013,1,,27,FrRnd,27,Reds,Y,"$1,812,400 ",Phil Ervin (minors),CF,0.4,237,586,17,0.247,0.728,1,0,0,0,0,0,4Yr,"Samford University (Homewood, AL)",1
+2013,1,,28,FrRnd,28,Cardinals via Brewers,Y,"$1,785,300 ",*Rob Kaminsky (minors),LHP,-0.1,0,0,0,,,5,0,0,1.93,1.07,0,HS,"St. Joseph Regional HS (Montvale, NJ)",1
+2013,1,,29,FrRnd,29,Rays via Braves,Y,"$1,755,800 ",*Ryne Stanek (minors),RHP,3.1,35,0,0,,,254,6,12,3.52,1.27,4,4Yr,"University of Arkansas (Fayetteville, AR)",1
+2013,1,,30,FrRnd,30,Rangers via Angels,Y,"$1,900,000 ",*Travis Demeritte (minors),SS,-1.8,92,287,6,0.216,0.605,1,0,0,36,4,0,HS,"Winder-Barrow HS (Winder, GA)",0
+2013,1,,31,FrRnd,31,Braves via Indians,Y,"$1,704,200 ",*Jason Hursh (minors),RHP,-0.2,11,0,0,,,11,1,0,8.25,2,0,4Yr,"Oklahoma State University (Stillwater, OK)",1
+2013,1,,32,FrRnd,32,Yankees via Indians,Y,"$1,800,000 ",*Aaron Judge (minors),CF,29.9,650,2362,187,0.277,0.945,,,,,,,4Yr,"California State University, Fresno (Fresno, CA)",0
+2013,1,,33,FrRnd,33,Yankees via Nationals,Y,"$1,650,100 ",*Ian Clarkin (minors),LHP,,,,,,,,,,,,,HS,"Madison HS (San Diego, CA)",0
+2013,1,,34,FrRnd,34,Royals,Y,"$3,550,000 ",Sean Manaea (minors),LHP,12.8,8,14,0,0.214,0.552,144,53,45,3.9,1.21,0,4Yr,"Indiana State University (Terre Haute, IN)",0
+2013,1,,35,FrRnd,35,Marlins,N,,Matt Krook (minors),LHP,,,,,,,,,,,,,HS,"St. Ignatius College Preparatory (San Francisco, CA)",0
+2013,1,,36,FrRnd,36,Diamondbacks,Y,"$1,435,000 ",Aaron Blair (minors),RHP,-2,16,22,0,0.091,0.221,16,2,8,7.89,1.73,0,4Yr,"Marshall University (Huntington, WV)",0
+2013,1,,37,FrRnd,37,Orioles,Y,"$1,450,000 ",Josh Hart (minors),CF,,,,,,,,,,,,,HS,"Parkview HS (Lilburn, GA)",0
+2013,1,,38,FrRnd,38,Reds,Y,"$1,500,000 ",Michael Lorenzen (minors),RHP,6.6,321,133,7,0.233,0.71,308,29,29,4.18,1.37,14,4Yr,"California State University, Fullerton (Fullerton, CA)",1
+2013,1,,39,FrRnd,39,Tigers,Y,"$1,433,400 ",Corey Knebel (minors),RHP,5.4,231,2,0,0,0,300,12,16,3.23,1.23,71,4Yr,"University of Texas at Austin (Austin, TX)",1

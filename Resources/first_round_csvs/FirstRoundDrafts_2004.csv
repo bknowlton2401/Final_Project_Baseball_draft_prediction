@@ -1,0 +1,42 @@
+Year,Rnd,DT,OvPck,FrRnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G,W,L,ERA,WHIP,SV,Type,Drafted Out of,Team Made Playoffs
+2004,1,,1,FrRnd,1,Padres,Y,"$3,150,000 ",Matt Bush (minors),SS,2.6,8,0,0,,,170,12,7,3.54,1.23,12,HS,"Mission Bay HS (San Diego, CA)",0
+2004,1,,2,FrRnd,2,Tigers,Y,"$3,120,000 ",Justin Verlander (minors),RHP,74.1,24,50,0,0.1,0.2,469,236,132,3.29,1.12,0,4Yr,"Old Dominion University (Norfolk, VA)",0
+2004,1,,3,FrRnd,3,Mets,Y,"$3,000,000 ",Philip Humber (minors),RHP,0.9,9,11,0,0.091,0.182,97,16,23,5.31,1.42,0,4Yr,"Rice University (Houston, TX)",0
+2004,1,,4,FrRnd,4,Devil Rays,Y,"$3,200,000 ",Jeff Niemann (minors),RHP,4.3,9,13,0,0.077,0.154,97,40,26,4.08,1.29,0,4Yr,"Rice University (Houston, TX)",0
+2004,1,,5,FrRnd,5,Brewers,Y,"$2,200,000 ",Mark Rogers (minors),RHP,1.1,12,16,0,0.25,0.625,11,3,1,3.49,1.12,0,HS,"Mount Ararat School (Topsham, ME)",0
+2004,1,,6,FrRnd,6,Indians,Y,"$2,475,000 ",Jeremy Sowers (minors),LHP,1.6,4,4,0,0.25,0.75,72,18,30,5.18,1.44,0,4Yr,"Vanderbilt University (Nashville, TN)",0
+2004,1,,7,FrRnd,7,Reds,Y,"$2,300,000 ",Homer Bailey (minors),RHP,6.2,208,373,0,0.164,0.375,245,81,86,4.56,1.37,0,HS,"La Grange HS (La Grange, TX)",0
+2004,1,,8,FrRnd,8,Orioles,N,,Wade Townsend (minors),RHP,,,,,,,,,,,,,4Yr,"Rice University (Houston, TX)",0
+2004,1,,9,FrRnd,9,Rockies,Y,"$2,150,000 ",Chris Nelson (minors),SS,-2.6,282,834,16,0.265,0.699,,,,,,,HS,"Redan HS (Stone Mountain, GA)",0
+2004,1,,10,FrRnd,10,Rangers,Y,"$2,025,000 ",Thomas Diamond (minors),RHP,-0.5,16,7,0,0,0.125,16,1,3,6.83,1.76,0,4Yr,"University of New Orleans (New Orleans, LA)",0
+2004,1,,11,FrRnd,11,Pirates,Y,"$1,950,000 ",Neil Walker (minors),C,19.6,1306,4583,149,0.267,0.764,1,0,0,0,1.5,0,HS,"Pine-Richland HS (Gibsonia, PA)",0
+2004,1,,12,FrRnd,12,Angels,Y,"$4,000,000 ",Jered Weaver (minors),RHP,34.6,28,55,0,0.073,0.178,331,150,98,3.63,1.19,0,4Yr,"California State University, Long Beach (Long Beach, CA)",1
+2004,1,,13,FrRnd,13,Expos,Y,"$1,750,000 ",Bill Bray (minors),LHP,2.3,243,1,0,0,0,258,13,12,3.74,1.38,3,4Yr,"College of William and Mary (Williamsburg, VA)",0
+2004,1,,14,FrRnd,14,Royals,Y,"$1,450,000 ",Billy Butler (minors),3B,11.9,1414,5105,147,0.29,0.795,,,,,,,HS,"Wolfson HS (Jacksonville, FL)",0
+2004,1,,15,FrRnd,15,Diamondbacks,Y,"$4,000,000 ",Stephen Drew (minors),SS,15.9,1268,4403,123,0.252,0.741,,,,,,,4Yr,"Florida State University (Tallahassee, FL)",0
+2004,1,,16,FrRnd,16,Blue Jays,Y,"$1,600,000 ",David Purcey (minors),LHP,0.1,7,1,0,0,0,111,7,13,4.98,1.54,1,4Yr,"University of Oklahoma (Norman, OK)",0
+2004,1,,17,FrRnd,17,Dodgers,Y,"$1,575,000 ",Scott Elbert (minors),LHP,1.5,120,6,0,0.167,0.5,127,4,3,3.54,1.33,2,HS,"Seneca HS (Seneca, MO)",1
+2004,1,,18,FrRnd,18,White Sox,Y,"$1,550,000 ",Josh Fields (minors),3B,-1.1,217,713,34,0.234,0.724,,,,,,,4Yr,"Oklahoma State University (Stillwater, OK)",0
+2004,1,,19,FrRnd,19,Cardinals,Y,"$1,525,000 ",Chris Lambert (minors),RHP,-0.8,0,0,0,,,14,1,3,7.36,1.97,0,4Yr,"Boston College (Chestnut Hill, MA)",1
+2004,1,,20,FrRnd,20,Twins,Y,"$1,500,000 ",Trevor Plouffe (minors),SS,7.3,830,2933,106,0.242,0.714,,,,,,,HS,"Crespi Carmelite HS (Encino, CA)",1
+2004,1,,21,FrRnd,21,Phillies,Y,"$1,475,000 ",Greg Golson (minors),OF,-0.6,40,41,0,0.195,0.458,,,,,,,HS,"John B. Connally HS (Austin, TX)",0
+2004,1,,22,FrRnd,22,Twins via Mariners,Y,"$1,425,000 ",*Glen Perkins (minors),LHP,8.9,24,4,0,0,0,409,35,25,3.88,1.29,120,4Yr,"University of Minnesota (Minneapolis, MN)",1
+2004,1,,23,FrRnd,23,Yankees via Astros,Y,"$1,400,000 ",*Phil Hughes (minors),RHP,11,32,18,0,0,0,290,88,79,4.52,1.31,3,HS,"Foothill HS (Santa Ana, CA)",1
+2004,1,,24,FrRnd,24,Athletics via Red Sox,Y,"$1,000,000 ",*Landon Powell (minors),C,0.2,123,363,10,0.207,0.612,,,,,,,4Yr,"University of South Carolina (Columbia, SC)",0
+2004,1,,25,FrRnd,25,Twins via Cubs,Y,"$1,000,000 ",*Kyle Waldrop (minors),RHP,0.5,0,0,0,,,24,1,1,3.62,1.52,0,HS,"Farragut HS (Knoxville, TN)",1
+2004,1,,26,FrRnd,26,Athletics,Y,"$1,325,000 ",Richie Robnett (minors),OF,,,,,,,,,,,,,4Yr,"California State University, Fresno (Fresno, CA)",0
+2004,1,,27,FrRnd,27,Marlins,Y,"$1,300,000 ",Taylor Tankersley (minors),LHP,0.6,160,2,0,0,0,168,8,3,4.58,1.52,4,4Yr,"University of Alabama (Tuscaloosa, AL)",0
+2004,1,,28,FrRnd,28,Dodgers via Yankees,Y,"$1,200,000 ",*Blake DeWitt (minors),2B,1.9,426,1119,21,0.257,0.705,,,,,,,HS,"Sikeston HS (Sikeston, MO)",1
+2004,1,,29,FrRnd,29,Royals via Giants,Y,"$1,100,000 ",*Matt Campbell (minors),lHP,,,,,,,,,,,,,4Yr,"University of South Carolina (Columbia, SC)",0
+2004,1,,30,FrRnd,30,Rangers via Braves,Y,"$1,050,000 ",*Eric Hurley (minors),RHP,0.1,1,2,0,0.5,1,5,1,2,5.47,1.42,0,HS,"Wolfson HS (Jacksonville, FL)",0
+2004,1s,,31,FrRnd,31,Royals,Y,"$1,000,000 ",*J.P. Howell (minors),LHP,7.8,273,13,0,0.154,0.308,547,36,30,3.83,1.34,22,4Yr,"University of Texas at Austin (Austin, TX)",0
+2004,1s,,32,FrRnd,32,Blue Jays,Y,"$1,017,500 ",*Zach Jackson (minors),LHP,-0.8,8,9,0,0.111,0.222,22,4,5,5.81,1.57,0,4Yr,"Texas A&M University (College Station, TX)",0
+2004,1s,,33,FrRnd,33,Dodgers,Y,"$1,000,000 ",*Justin Orenduff (minors),RHP,,,,,,,,,,,,,4Yr,"Virginia Commonwealth University (Richmond, VA)",1
+2004,1s,,34,FrRnd,34,White Sox,Y,"$975,000 ",*Tyler Lumsden (minors),LHP,,,,,,,,,,,,,4Yr,"Clemson University (Clemson, SC)",0
+2004,1s,,35,FrRnd,35,Twins,Y,"$950,000 ",*Matt Fox (minors),RHP,0,0,0,0,,,4,0,0,4.91,1.36,0,4Yr,"University of Central Florida (Orlando, FL)",1
+2004,1s,,36,FrRnd,36,Athletics,Y,"$950,000 ",*Danny Putnam (minors),OF,-0.2,11,28,1,0.214,0.612,,,,,,,4Yr,"Stanford University (Palo Alto, CA)",0
+2004,1s,,37,FrRnd,37,Yankees,Y,"$925,000 ",*Jon Poterson (minors),C,,,,,,,,,,,,,HS,"Chandler HS (Chandler, AZ)",1
+2004,1s,,38,FrRnd,38,White Sox,Y,"$850,000 ",*Gio Gonzalez (minors),lHP,28.3,221,410,3,0.09,0.247,344,131,101,3.7,1.32,0,HS,"Monsignor Edward Pace HS (Miami Gardens, FL)",0
+2004,1s,,39,FrRnd,39,Twins,Y,"$875,000 ",*Jay Rainville (minors),RHP,,,,,,,,,,,,,HS,"Bishop Hendricken HS (Warwick, RI)",1
+2004,1s,,40,FrRnd,40,Athletics,Y,"$800,000 ",*Huston Street (minors),RHP,14.5,304,2,0,0,0,668,42,34,2.95,1.07,324,4Yr,"University of Texas at Austin (Austin, TX)",0
+2004,1s,,41,FrRnd,41,Yankees,Y,"$790,000 ",*Jeff Marquez (minors),RHP,0,1,0,0,,,4,0,0,5.4,1.4,0,JC,"Sacramento City College (Sacramento, CA)",1
