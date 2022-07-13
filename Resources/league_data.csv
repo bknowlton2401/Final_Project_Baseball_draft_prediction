@@ -1,5 +1,5 @@
 ,Year,RdPck,franchise_id,Name,debut,finalGame,player_name,years_played,team_name,team_color,primary_color,secondary_color,league,division
-0,2000,20,ANA,Chris Bootcheck,2003-09-09,2013-06-14,Chris Bootcheck,10.0,,,,,,
+0,2000,20,ANA,Chris Bootcheck,2003-09-09,2013-06-14,Chris Bootcheck,10.0,Los Angeles Angels of Anaheim,#B71234,#B71234,#000000,AL,AL West
 1,2000,33,TOR,Dustin McGowan,2005-07-30,2017-10-01,Dustin McGowan,12.0,Toronto Blue Jays,#003DA5,#003DA5,#041E42,AL,AL East
 2,2000,30,ATL,Scott Thorman,2006-06-18,2007-09-30,Scott Thorman,1.0,Atlanta Braves,#B71234,#002F5F,#B71234,NL,NL East
 3,2000,38,ATL,Kelly Johnson,2005-05-29,2016-10-02,Kelly Johnson,11.0,Atlanta Braves,#B71234,#002F5F,#B71234,NL,NL East
@@ -23,8 +23,8 @@
 21,2000,31,MIN,Aaron Heilman,2003-06-26,2011-07-15,Aaron Heilman,8.0,Minnesota Twins,#072754,#072754,#C6011F,AL,AL Central
 22,2001,18,NYM,Aaron Heilman,2003-06-26,2011-07-15,Aaron Heilman,8.0,New York Mets,#002C77,#002C77,#FB4F14,NL,NL East
 23,2000,12,CHW,Joe Borchard,2002-09-02,2007-08-05,Joe Borchard,5.0,Chicago White Sox,#000000,#C0C0C0,#000000,AL,AL Central
-24,2001,13,ANA,Casey Kotchman,2004-05-09,2013-06-08,Casey Kotchman,9.0,,,,,,
-25,2001,33,ANA,Jeff Mathis,2005-08-12,2021-05-17,Jeff Mathis,16.0,,,,,,
+24,2001,13,ANA,Casey Kotchman,2004-05-09,2013-06-08,Casey Kotchman,9.0,Los Angeles Angels of Anaheim,#B71234,#B71234,#000000,AL,AL West
+25,2001,33,ANA,Jeff Mathis,2005-08-12,2021-05-17,Jeff Mathis,16.0,Los Angeles Angels of Anaheim,#B71234,#B71234,#000000,AL,AL West
 26,2001,10,HOU,Chris Burke,2004-07-04,2009-06-07,Chris Burke,5.0,Houston Astros,#FF7F00,#072854,#FF7F00,AL,AL West
 27,2001,25,OAK,Bobby Crosby,2003-09-02,2010-08-21,Bobby Crosby,7.0,Oakland Athletics,#003831,#003831,#FFD800,AL,AL West
 28,2001,37,OAK,John Rheinecker,2006-04-22,2007-09-28,John Rheinecker,1.0,Oakland Athletics,#003831,#003831,#FFD800,AL,AL West
@@ -49,7 +49,7 @@
 47,2001,1,MIN,Joe Mauer,2004-04-05,2018-09-30,Joe Mauer,14.0,Minnesota Twins,#072754,#072754,#C6011F,AL,AL Central
 48,2001,34,NYY,Bronson Sardinha,2007-09-15,2007-09-30,Bronson Sardinha,0.0,New York Yankees,#1C2841,#1C2841,#808080,AL,AL East
 49,2001,23,NYY,John-Ford Griffin,2005-09-06,2007-09-30,John-Ford Griffin,2.0,New York Yankees,#1C2841,#1C2841,#808080,AL,AL East
-50,2002,12,ANA,Joe Saunders,2005-08-16,2014-09-26,Joe Saunders,9.0,,,,,,
+50,2002,12,ANA,Joe Saunders,2005-08-16,2014-09-26,Joe Saunders,9.0,Los Angeles Angels of Anaheim,#B71234,#B71234,#000000,AL,AL West
 51,2002,35,OAK,Jeremy Brown,2006-09-03,2006-10-01,Jeremy Brown,0.0,Oakland Athletics,#003831,#003831,#FFD800,AL,AL West
 52,2002,39,OAK,Mark Teahen,2005-04-04,2011-09-28,Mark Teahen,6.0,Oakland Athletics,#003831,#003831,#FFD800,AL,AL West
 53,2002,16,OAK,Nick Swisher,2004-09-03,2015-10-02,Nick Swisher,11.0,Oakland Athletics,#003831,#003831,#FFD800,AL,AL West
@@ -76,7 +76,7 @@
 74,2002,8,DET,Scott Moore,2006-09-04,2012-10-02,Scott Moore,6.0,Detroit Tigers,#DE4406,#001742,#DE4406,AL,AL Central
 75,2002,20,MIN,Denard Span,2008-04-06,2018-09-30,Denard Span,10.0,Minnesota Twins,#072754,#072754,#C6011F,AL,AL Central
 76,2002,18,CHW,Royce Ring,2005-04-29,2010-10-03,Royce Ring,5.0,Chicago White Sox,#000000,#C0C0C0,#000000,AL,AL Central
-77,2003,23,ANA,Brandon Wood,2007-04-26,2011-09-25,Brandon Wood,4.0,,,,,,
+77,2003,23,ANA,Brandon Wood,2007-04-26,2011-09-25,Brandon Wood,4.0,Los Angeles Angels of Anaheim,#B71234,#B71234,#000000,AL,AL West
 78,2003,33,OAK,Omar Quintanilla,2005-07-31,2014-05-07,Omar Quintanilla,9.0,Oakland Athletics,#003831,#003831,#FFD800,AL,AL West
 79,2003,13,TOR,Aaron Hill,2005-05-20,2017-06-23,Aaron Hill,12.0,Toronto Blue Jays,#003DA5,#003DA5,#041E42,AL,AL East
 80,2003,35,ATL,Luis Atilano,2010-04-23,2010-07-20,Luis Atilano,0.0,Atlanta Braves,#B71234,#002F5F,#B71234,NL,NL East
@@ -103,7 +103,7 @@
 101,2003,10,COL,Ian Stewart,2007-08-11,2014-05-11,Ian Stewart,7.0,Colorado Rockies,#333366,#000000,#333366,NL,NL West
 102,2003,30,KCR,Mitch Maier,2006-09-23,2012-06-30,Mitch Maier,6.0,Kansas City Royals,#15317E,#15317E,#74B4FA,AL,AL Central
 103,2003,15,CHW,Brian Anderson,2005-08-16,2009-10-04,Brian Anderson,4.0,Chicago White Sox,#000000,#C0C0C0,#000000,AL,AL Central
-104,2004,12,ANA,Jered Weaver,2006-05-27,2017-05-19,Jered Weaver,11.0,,,,,,
+104,2004,12,ANA,Jered Weaver,2006-05-27,2017-05-19,Jered Weaver,11.0,Los Angeles Angels of Anaheim,#B71234,#B71234,#000000,AL,AL West
 105,2004,36,OAK,Danny Putnam,2007-04-23,2007-05-10,Danny Putnam,0.0,Oakland Athletics,#003831,#003831,#FFD800,AL,AL West
 106,2004,40,OAK,Huston Street,2005-04-06,2017-07-02,Huston Street,12.0,Oakland Athletics,#003831,#003831,#FFD800,AL,AL West
 107,2004,24,OAK,Landon Powell,2009-04-11,2011-09-28,Landon Powell,2.0,Oakland Athletics,#003831,#003831,#FFD800,AL,AL West
@@ -137,7 +137,7 @@
 135,2004,38,CHW,Gio Gonzalez,2008-08-06,2020-09-27,Gio Gonzalez,12.0,Chicago White Sox,#000000,#C0C0C0,#000000,AL,AL Central
 136,2004,41,NYY,Jeff Marquez,2010-07-09,2011-06-19,Jeff Marquez,1.0,New York Yankees,#1C2841,#1C2841,#808080,AL,AL East
 137,2004,23,NYY,Phil Hughes,2007-04-26,2018-08-08,Phil Hughes,11.0,New York Yankees,#1C2841,#1C2841,#808080,AL,AL East
-138,2005,37,ANA,Trevor Bell,2009-08-12,2014-04-07,Trevor Bell,5.0,,,,,,
+138,2005,37,ANA,Trevor Bell,2009-08-12,2014-04-07,Trevor Bell,5.0,Los Angeles Angels of Anaheim,#B71234,#B71234,#000000,AL,AL West
 139,2005,24,HOU,Brian Bogusevic,2010-09-01,2015-10-03,Brian Bogusevic,5.0,Houston Astros,#FF7F00,#072854,#FF7F00,AL,AL West
 140,2005,21,OAK,Cliff Pennington,2008-08-12,2018-04-25,Cliff Pennington,10.0,Oakland Athletics,#003831,#003831,#FFD800,AL,AL West
 141,2005,36,OAK,Travis Buck,2007-04-02,2012-05-28,Travis Buck,5.0,Oakland Athletics,#003831,#003831,#FFD800,AL,AL West
@@ -175,7 +175,7 @@
 173,2005,10,DET,Cameron Maybin,2007-08-17,2021-05-29,Cameron Maybin,14.0,Detroit Tigers,#DE4406,#001742,#DE4406,AL,AL Central
 174,2005,25,MIN,Matt Garza,2006-08-11,2017-09-27,Matt Garza,11.0,Minnesota Twins,#072754,#072754,#C6011F,AL,AL Central
 175,2005,15,CHW,Lance Broadway,2007-09-07,2009-09-26,Lance Broadway,2.0,Chicago White Sox,#000000,#C0C0C0,#000000,AL,AL Central
-176,2006,25,ANA,Hank Conger,2010-09-11,2016-07-08,Hank Conger,6.0,,,,,,
+176,2006,25,ANA,Hank Conger,2010-09-11,2016-07-08,Hank Conger,6.0,Los Angeles Angels of Anaheim,#B71234,#B71234,#000000,AL,AL West
 177,2006,14,TOR,Travis Snider,2008-08-29,2015-10-04,Travis Snider,7.0,Toronto Blue Jays,#003DA5,#003DA5,#041E42,AL,AL East
 178,2006,38,ATL,Cory Rasmus,2013-05-22,2016-10-01,Cory Rasmus,3.0,Atlanta Braves,#B71234,#002F5F,#B71234,NL,NL East
 179,2006,16,MIL,Jeremy Jeffress,2010-09-01,2020-09-26,Jeremy Jeffress,10.0,Milwaukee Brewers,#182B49,#182B49,#92754C,NL,NL Central
@@ -282,10 +282,10 @@
 280,2008,8,CHW,Gordon Beckham,2009-06-04,2019-09-28,Gordon Beckham,10.0,Chicago White Sox,#000000,#C0C0C0,#000000,AL,AL Central
 281,2008,28,NYY,Gerrit Cole,2013-06-11,2021-09-29,Gerrit Cole,8.0,New York Yankees,#1C2841,#1C2841,#808080,AL,AL East
 282,2011,1,PIT,Gerrit Cole,2013-06-11,2021-09-29,Gerrit Cole,8.0,Pittsburgh Pirates,#000000,#000000,#fdb829,NL,NL Central
-283,2009,40,ANA,Tyler Skaggs,2012-08-22,2019-06-29,Tyler Skaggs,7.0,,,,,,
-284,2009,42,ANA,Garrett Richards,2011-08-10,2021-10-03,Garrett Richards,10.0,,,,,,
-285,2009,24,ANA,Randal Grichuk,2014-04-28,2021-10-03,Randal Grichuk,7.0,,,,,,
-286,2009,25,ANA,Mike Trout,2011-07-08,2021-05-17,Mike Trout,10.0,,,,,,
+283,2009,40,ANA,Tyler Skaggs,2012-08-22,2019-06-29,Tyler Skaggs,7.0,Los Angeles Angels of Anaheim,#B71234,#B71234,#000000,AL,AL West
+284,2009,42,ANA,Garrett Richards,2011-08-10,2021-10-03,Garrett Richards,10.0,Los Angeles Angels of Anaheim,#B71234,#B71234,#000000,AL,AL West
+285,2009,24,ANA,Randal Grichuk,2014-04-28,2021-10-03,Randal Grichuk,7.0,Los Angeles Angels of Anaheim,#B71234,#B71234,#000000,AL,AL West
+286,2009,25,ANA,Mike Trout,2011-07-08,2021-05-17,Mike Trout,10.0,Los Angeles Angels of Anaheim,#B71234,#B71234,#000000,AL,AL West
 287,2009,13,OAK,Grant Green,2013-07-08,2017-04-20,Grant Green,4.0,Oakland Athletics,#003831,#003831,#FFD800,AL,AL West
 288,2009,20,TOR,Chad Jenkins,2012-08-07,2015-10-01,Chad Jenkins,3.0,Toronto Blue Jays,#003DA5,#003DA5,#041E42,AL,AL East
 289,2009,37,TOR,James Paxton,2013-09-07,2021-04-06,James Paxton,8.0,Toronto Blue Jays,#003DA5,#003DA5,#041E42,AL,AL East
@@ -313,7 +313,7 @@
 311,2009,9,DET,Jacob Turner,2011-07-30,2018-08-07,Jacob Turner,7.0,Detroit Tigers,#DE4406,#001742,#DE4406,AL,AL Central
 312,2009,22,MIN,Kyle Gibson,2013-06-29,2021-09-30,Kyle Gibson,8.0,Minnesota Twins,#072754,#072754,#C6011F,AL,AL Central
 313,2009,38,CHW,Josh Phegley,2013-07-05,2020-08-25,Josh Phegley,7.0,Chicago White Sox,#000000,#C0C0C0,#000000,AL,AL Central
-314,2010,29,ANA,Cam Bedrosian,2014-06-03,2021-10-03,Cam Bedrosian,7.0,,,,,,
+314,2010,29,ANA,Cam Bedrosian,2014-06-03,2021-10-03,Cam Bedrosian,7.0,Los Angeles Angels of Anaheim,#B71234,#B71234,#000000,AL,AL West
 315,2010,19,HOU,Mike Foltynewicz,2014-08-02,2021-10-03,Mike Foltynewicz,7.0,Houston Astros,#FF7F00,#072854,#FF7F00,AL,AL West
 316,2010,10,OAK,Michael Choice,2013-09-02,2015-06-24,Michael Choice,2.0,Oakland Athletics,#003831,#003831,#FFD800,AL,AL West
 317,2010,34,TOR,Aaron Sanchez,2014-07-23,2021-08-07,Aaron Sanchez,7.0,Toronto Blue Jays,#003DA5,#003DA5,#041E42,AL,AL East
