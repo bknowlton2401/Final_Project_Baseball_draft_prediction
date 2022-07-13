@@ -1,6 +1,13 @@
 # Final_Project_Baseball_draft_prediction
 The purpose of this analysis is to see if there is a correlation between longevity and the draft round pick of a major league baseball player.
 
+## Platforms used
+- Jupyter Notebook
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+
 ## Outline
 ### Playoff Appearances 2000-2015
 - First I imported all MLB teams since the creation of Major League Baseball in 1871, through 2015.  Then I removed all teams previous to the year 2000. 
