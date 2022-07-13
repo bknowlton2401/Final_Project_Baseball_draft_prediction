@@ -44,4 +44,4 @@ The purpose of this analysis is to see if there is a correlation between longevi
 - I merged this new dataframe with players career lengths and created a new CSV
 - I calculaged the average years played by a first round draft pick with their team.
 - Using Seagrams, I created a box plot.
-![careerlgth_player_team](https://user-images.githubusercontent.com/96890065/178385746-263b0736-b43a-4a1d-887e-d1878782e945.png)
+![roundpick_yearsplayed_team](https://user-images.githubusercontent.com/96890065/178658381-3a5a7427-1518-47c9-80f4-372a87f01252.png)
