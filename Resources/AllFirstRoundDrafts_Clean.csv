@@ -14,31 +14,31 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2000,1,13,Cardinals,Y,1750000.0,Shaun Boyd,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Vista HS (Vista, CA)",1
 2000,1,14,Orioles,Y,2250000.0,Beau Hale,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Texas at Austin (Austin, TX)",0
 2000,1,15,Phillies,Y,1780000.0,Chase Utley,2B,64.5,1937.0,6857.0,259.0,0.275,0.823,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Los Angeles (Los Angeles, CA)",0
-2000,1,16,Mets ,Y,400000.0,*Billy Traber,LHP,-0.7,41.0,21.0,0.0,0.048,0.139,96.0,12.0,14.0,5.65,1.59,0.0,4Yr,"Loyola Marymount University (Los Angeles, CA)",1
+2000,1,16,Mets ,Y,400000.0,Billy Traber,LHP,-0.7,41.0,21.0,0.0,0.048,0.139,96.0,12.0,14.0,5.65,1.59,0.0,4Yr,"Loyola Marymount University (Los Angeles, CA)",1
 2000,1,17,Dodgers,Y,2200000.0,Ben Diggins,RHP,-0.7,5.0,7.0,0.0,0.143,0.286,5.0,0.0,4.0,8.63,1.92,0.0,4Yr,"University of Arizona (Tucson, AZ)",0
 2000,1,18,Blue Jays,Y,950000.0,Miguel Negron,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Manuela Toro HS (Caguas, Puerto Rico)",0
 2000,1,19,Pirates,Y,1650000.0,Sean Burnett,LHP,5.9,351.0,29.0,0.0,0.069,0.285,380.0,15.0,23.0,3.52,1.34,10.0,HS,"Wellington Community HS (Wellington, FL)",0
-2000,1,20,Angels ,Y,1800000.0,*Chris Bootcheck,RHP,-1.6,15.0,2.0,0.0,0.0,0.0,91.0,3.0,7.0,6.55,1.66,1.0,4Yr,"Auburn University (Auburn, AL)",0
+2000,1,20,Angels ,Y,1800000.0,Chris Bootcheck,RHP,-1.6,15.0,2.0,0.0,0.0,0.0,91.0,3.0,7.0,6.55,1.66,1.0,4Yr,"Auburn University (Auburn, AL)",0
 2000,1,21,Giants,Y,1245000.0,Boof Bonser,RHP,-0.5,6.0,6.0,0.0,0.0,0.0,111.0,19.0,25.0,5.18,1.46,0.0,HS,"Gibbs HS (St. Petersburg, FL)",1
 2000,1,22,Red Sox,Y,1275000.0,Phil Dumatrait,LHP,-1.8,44.0,27.0,0.0,0.037,0.074,87.0,4.0,13.0,6.2,1.78,1.0,JC,"Bakersfield College (Bakersfield, CA)",0
 2000,1,23,Reds,Y,0.0,David Espinosa,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Gulliver Prep HS (Coral Gables, FL)",0
-2000,1,24,Cardinals ,Y,1375000.0,*Blake Williams,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Texas State University (San Marcos, TX)",0
-2000,1,25,Rangers ,Y,1475000.0,*Scott Heard,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Rancho Bernardo HS (San Diego, CA)",0
+2000,1,24,Cardinals ,Y,1375000.0,Blake Williams,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Texas State University (San Marcos, TX)",0
+2000,1,25,Rangers ,Y,1475000.0,Scott Heard,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Rancho Bernardo HS (San Diego, CA)",0
 2000,1,26,Indians,Y,1375000.0,Corey Smith,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Piscataway HS (Piscataway, NJ)",0
 2000,1,27,Astros,Y,1250000.0,Rob Stiehl,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"El Camino College (Torrance, CA)",0
 2000,1,28,Yankees,Y,1425000.0,Dave Parrish,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Michigan (Ann Arbor, MI)",1
-2000,1,29,Braves ,Y,1250000.0,*Adam Wainwright,RHP,46.6,424.0,742.0,10.0,0.193,0.511,440.0,190.0,110.0,3.34,1.21,3.0,HS,"Glynn Academy HS (Brunswick, GA)",1
+2000,1,29,Braves ,Y,1250000.0,Adam Wainwright,RHP,46.6,424.0,742.0,10.0,0.193,0.511,440.0,190.0,110.0,3.34,1.21,3.0,HS,"Glynn Academy HS (Brunswick, GA)",1
 2000,1,30,Braves,Y,1225000.0,Scott Thorman,3B,-1.0,175.0,415.0,16.0,0.222,0.667,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Preston HS (Cambridge, ON)",1
-2000,1,31,Twins,N,0.0,*Aaron Heilman,RHP,1.6,456.0,47.0,0.0,0.021,0.083,477.0,35.0,46.0,4.4,1.36,16.0,4Yr,"University of Notre Dame (South Bend, IN)",0
-2000,1,32,Orioles,Y,1050000.0,*Tripper Johnson,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Newport HS (Bellevue, WA)",0
-2000,1,33,Blue Jays,Y,950000.0,*Dustin McGowan,RHP,1.6,135.0,27.0,0.0,0.074,0.148,290.0,35.0,34.0,4.5,1.38,2.0,HS,"Long County HS (Ludowici, GA)",0
-2000,1,34,Reds,Y,900000.0,*Dustin Moseley,RHP,0.7,24.0,30.0,0.0,0.133,0.295,101.0,15.0,21.0,4.67,1.43,0.0,HS,"Arkansas HS (Texarkana, AR)",0
-2000,1,35,Rangers,N,0.0,*Tyrell Godwin,OF,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of North Carolina at Chapel Hill (Chapel Hill, NC)",0
-2000,1,36,Mets,Y,895000.0,*Bobby Keppel,RHP,0.2,7.0,2.0,0.0,0.0,0.333,49.0,1.0,5.0,5.36,1.66,0.0,HS,"De Smet Jesuit HS (Creve Coeur, MO)",1
-2000,1,37,Indians,Y,850000.0,*Derek Thompson,LHP,0.2,4.0,4.0,0.0,0.0,0.0,4.0,0.0,0.0,3.5,1.44,0.0,HS,"Land O'Lakes HS (Land O'Lakes, FL)",0
-2000,1,38,Braves,Y,790000.0,*Kelly Johnson,SS,16.6,1399.0,4543.0,155.0,0.251,0.751,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Westwood HS (Austin, TX)",1
-2000,1,39,Rangers,Y,625000.0,*Chad Hawkins,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Baylor University (Waco, TX)",0
-2000,1,40,Braves,Y,850000.0,*Aaron Herr,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Hempfield HS (Landisville, PA)",1
+2000,1,31,Twins,N,0.0,Aaron Heilman,RHP,1.6,456.0,47.0,0.0,0.021,0.083,477.0,35.0,46.0,4.4,1.36,16.0,4Yr,"University of Notre Dame (South Bend, IN)",0
+2000,1,32,Orioles,Y,1050000.0,Tripper Johnson,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Newport HS (Bellevue, WA)",0
+2000,1,33,Blue Jays,Y,950000.0,Dustin McGowan,RHP,1.6,135.0,27.0,0.0,0.074,0.148,290.0,35.0,34.0,4.5,1.38,2.0,HS,"Long County HS (Ludowici, GA)",0
+2000,1,34,Reds,Y,900000.0,Dustin Moseley,RHP,0.7,24.0,30.0,0.0,0.133,0.295,101.0,15.0,21.0,4.67,1.43,0.0,HS,"Arkansas HS (Texarkana, AR)",0
+2000,1,35,Rangers,N,0.0,Tyrell Godwin,OF,0.0,3.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of North Carolina at Chapel Hill (Chapel Hill, NC)",0
+2000,1,36,Mets,Y,895000.0,Bobby Keppel,RHP,0.2,7.0,2.0,0.0,0.0,0.333,49.0,1.0,5.0,5.36,1.66,0.0,HS,"De Smet Jesuit HS (Creve Coeur, MO)",1
+2000,1,37,Indians,Y,850000.0,Derek Thompson,LHP,0.2,4.0,4.0,0.0,0.0,0.0,4.0,0.0,0.0,3.5,1.44,0.0,HS,"Land O'Lakes HS (Land O'Lakes, FL)",0
+2000,1,38,Braves,Y,790000.0,Kelly Johnson,SS,16.6,1399.0,4543.0,155.0,0.251,0.751,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Westwood HS (Austin, TX)",1
+2000,1,39,Rangers,Y,625000.0,Chad Hawkins,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Baylor University (Waco, TX)",0
+2000,1,40,Braves,Y,850000.0,Aaron Herr,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Hempfield HS (Landisville, PA)",1
 2001,1,1,Twins,Y,5150000.0,Joe Mauer,C,55.2,1858.0,6930.0,143.0,0.306,0.827,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Cretin HS (St. Paul, MN)",0
 2001,1,2,Cubs,Y,4000000.0,Mark Prior,RHP,16.6,102.0,204.0,1.0,0.201,0.496,106.0,42.0,29.0,3.51,1.23,0.0,4Yr,"University of Southern California (Los Angeles, CA)",0
 2001,1,3,Devil Rays,Y,4200000.0,Dewon Brazelton,RHP,-3.1,11.0,6.0,0.0,0.167,0.5,63.0,8.0,25.0,6.38,1.68,0.0,4Yr,"Middle Tennessee State University (Murfreesboro, TN)",0
@@ -54,35 +54,35 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2001,1,13,Angels,Y,2075000.0,Casey Kotchman,1B,7.5,939.0,3071.0,71.0,0.26,0.711,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Seminole HS (Seminole, FL)",0
 2001,1,14,Padres,Y,1875000.0,Jake Gautreau,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Tulane University (New Orleans, LA)",0
 2001,1,15,Blue Jays,Y,1865000.0,Gabe Gross,OF,4.6,657.0,1461.0,40.0,0.239,0.716,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Auburn University (Auburn, AL)",0
-2001,1,16,White Sox ,Y,1500000.0,*Kris Honel,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Providence Catholic HS (New Lenox, IL)",0
-2001,1,17,Indians ,Y,1860000.0,*Dan Denham,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Deer Valley HS (Antioch, CA)",1
-2001,1,18,Mets ,Y,1508750.0,*Aaron Heilman,RHP,1.6,456.0,47.0,0.0,0.021,0.083,477.0,35.0,46.0,4.4,1.36,16.0,4Yr,"University of Notre Dame (South Bend, IN)",0
-2001,1,19,Orioles ,Y,1300000.0,*Mike Fontenot,2B,4.2,582.0,1413.0,27.0,0.265,0.734,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Louisiana State University (Baton Rouge, LA)",0
+2001,1,16,White Sox ,Y,1500000.0,Kris Honel,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Providence Catholic HS (New Lenox, IL)",0
+2001,1,17,Indians ,Y,1860000.0,Dan Denham,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Deer Valley HS (Antioch, CA)",1
+2001,1,18,Mets ,Y,1508750.0,Aaron Heilman,RHP,1.6,456.0,47.0,0.0,0.021,0.083,477.0,35.0,46.0,4.4,1.36,16.0,4Yr,"University of Notre Dame (South Bend, IN)",0
+2001,1,19,Orioles ,Y,1300000.0,Mike Fontenot,2B,4.2,582.0,1413.0,27.0,0.265,0.734,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Louisiana State University (Baton Rouge, LA)",0
 2001,1,20,Reds,N,0.0,Jeremy Sowers,LHP,1.6,4.0,4.0,0.0,0.25,0.75,72.0,18.0,30.0,5.18,1.44,0.0,HS,"Ballard HS (Louisville, KY)",0
-2001,1,21,Giants ,Y,1380000.0,*Brad Hennessey,RHP,2.6,149.0,88.0,2.0,0.227,0.563,148.0,17.0,23.0,4.69,1.49,20.0,4Yr,"Youngstown State University (Youngstown, OH)",0
+2001,1,21,Giants ,Y,1380000.0,Brad Hennessey,RHP,2.6,149.0,88.0,2.0,0.227,0.563,148.0,17.0,23.0,4.69,1.49,20.0,4Yr,"Youngstown State University (Youngstown, OH)",0
 2001,1,22,Diamondbacks,Y,937000.0,Jason Bulger,RHP,0.7,18.0,0.0,0.0,0.0,0.0,125.0,7.0,2.0,4.33,1.41,1.0,4Yr,"Valdosta State University (Valdosta, GA)",1
-2001,1,23,Yankees ,Y,1200000.0,*John-Ford Griffin,OF,0.2,13.0,23.0,2.0,0.304,1.066,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Florida State University (Tallahassee, FL)",1
-2001,1,24,Braves ,Y,1340000.0,*Macay McBride,LHP,-0.2,104.0,0.0,0.0,0.0,0.0,132.0,6.0,2.0,4.35,1.63,2.0,HS,"Screven County HS (Sylvania, GA)",1
+2001,1,23,Yankees ,Y,1200000.0,John-Ford Griffin,OF,0.2,13.0,23.0,2.0,0.304,1.066,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Florida State University (Tallahassee, FL)",1
+2001,1,24,Braves ,Y,1340000.0,Macay McBride,LHP,-0.2,104.0,0.0,0.0,0.0,0.0,132.0,6.0,2.0,4.35,1.63,2.0,HS,"Screven County HS (Sylvania, GA)",1
 2001,1,25,Athletics,Y,1350000.0,Bobby Crosby,SS,5.4,747.0,2559.0,62.0,0.236,0.677,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California State University, Long Beach (Long Beach, CA)",1
-2001,1,26,Athletics ,Y,1350000.0,*Jeremy Bonderman,RHP,4.9,15.0,30.0,0.0,0.033,0.067,225.0,69.0,81.0,4.91,1.41,0.0,HS,"Pasco HS (Pasco, WA)",1
-2001,1,27,Indians ,N,0.0,*Alan Horne,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Marianna HS (Marianna, FL)",1
+2001,1,26,Athletics ,Y,1350000.0,Jeremy Bonderman,RHP,4.9,15.0,30.0,0.0,0.033,0.067,225.0,69.0,81.0,4.91,1.41,0.0,HS,"Pasco HS (Pasco, WA)",1
+2001,1,27,Indians ,N,0.0,Alan Horne,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Marianna HS (Marianna, FL)",1
 2001,1,28,Cardinals,Y,900000.0,Justin Pope,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Central Florida (Orlando, FL)",1
 2001,1,29,Braves,Y,1250000.0,Josh Burrus,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Wheeler HS (Marietta, GA)",1
 2001,1,30,Giants,Y,1175000.0,Noah Lowry,LHP,10.0,110.0,197.0,2.0,0.178,0.464,106.0,40.0,31.0,4.03,1.38,0.0,4Yr,"Pepperdine University (Malibu, CA)",0
-2001,1,31,Orioles,Y,1150000.0,*Bryan Bass,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Seminole HS (Seminole, FL)",0
-2001,1,32,Tigers,Y,1100000.0,*Michael Woods,2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Southern University and A&M College (Baton Rouge, LA)",0
-2001,1,33,Angels,Y,850000.0,*Jeff Mathis,C,0.2,948.0,2718.0,53.0,0.194,0.551,5.0,0.0,1.0,9.0,1.8,0.0,HS,"Marianna HS (Marianna, FL)",0
-2001,1,34,Yankees,Y,1000000.0,*Bronson Sardinha,SS,0.0,10.0,9.0,0.0,0.333,0.75,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Kamehameha HS (Honolulu, HI)",1
-2001,1,35,Indians,Y,975000.0,*J.D. Martin,RHP,0.7,24.0,37.0,0.0,0.162,0.373,24.0,6.0,9.0,4.32,1.41,0.0,HS,"Sherman E. Burroughs HS (Ridgecrest, CA)",1
-2001,1,36,Mariners,Y,2000000.0,*Michael Garciaparra,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Don Bosco Technical Institute (Rosemead, CA)",1
-2001,1,37,Athletics,Y,600000.0,*John Rheinecker,LHP,-0.3,1.0,0.0,0.0,0.0,0.0,44.0,8.0,9.0,5.65,1.75,0.0,4Yr,"Missouri State University (Springfield, MO)",1
-2001,1,38,Mets,Y,960000.0,*David Wright,3B,49.2,1585.0,5998.0,242.0,0.296,0.867,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Hickory HS (Chesapeake, VA)",0
-2001,1,39,White Sox,Y,872500.0,*Wyatt Allen,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Tennessee (Knoxville, TN)",0
-2001,1,40,Braves,Y,850000.0,*Richard Lewis,2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Georgia Institute of Technology (Atlanta, GA)",1
-2001,1,41,Giants,Y,750000.0,*Todd Linden,OF,-1.8,270.0,502.0,8.0,0.231,0.638,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Louisiana State University (Baton Rouge, LA)",0
-2001,1,42,Yankees,Y,600000.0,*Jon Skaggs,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Rice University (Houston, TX)",1
-2001,1,43,Indians,Y,870000.0,*Mike Conroy,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Boston College HS (Boston, MA)",1
-2001,1,44,Rockies,Y,925000.0,*Jayson Nix,SS,1.6,466.0,1305.0,38.0,0.212,0.627,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Midland HS (Midland, TX)",0
+2001,1,31,Orioles,Y,1150000.0,Bryan Bass,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Seminole HS (Seminole, FL)",0
+2001,1,32,Tigers,Y,1100000.0,Michael Woods,2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Southern University and A&M College (Baton Rouge, LA)",0
+2001,1,33,Angels,Y,850000.0,Jeff Mathis,C,0.2,948.0,2718.0,53.0,0.194,0.551,5.0,0.0,1.0,9.0,1.8,0.0,HS,"Marianna HS (Marianna, FL)",0
+2001,1,34,Yankees,Y,1000000.0,Bronson Sardinha,SS,0.0,10.0,9.0,0.0,0.333,0.75,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Kamehameha HS (Honolulu, HI)",1
+2001,1,35,Indians,Y,975000.0,J.D. Martin,RHP,0.7,24.0,37.0,0.0,0.162,0.373,24.0,6.0,9.0,4.32,1.41,0.0,HS,"Sherman E. Burroughs HS (Ridgecrest, CA)",1
+2001,1,36,Mariners,Y,2000000.0,Michael Garciaparra,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Don Bosco Technical Institute (Rosemead, CA)",1
+2001,1,37,Athletics,Y,600000.0,John Rheinecker,LHP,-0.3,1.0,0.0,0.0,0.0,0.0,44.0,8.0,9.0,5.65,1.75,0.0,4Yr,"Missouri State University (Springfield, MO)",1
+2001,1,38,Mets,Y,960000.0,David Wright,3B,49.2,1585.0,5998.0,242.0,0.296,0.867,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Hickory HS (Chesapeake, VA)",0
+2001,1,39,White Sox,Y,872500.0,Wyatt Allen,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Tennessee (Knoxville, TN)",0
+2001,1,40,Braves,Y,850000.0,Richard Lewis,2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Georgia Institute of Technology (Atlanta, GA)",1
+2001,1,41,Giants,Y,750000.0,Todd Linden,OF,-1.8,270.0,502.0,8.0,0.231,0.638,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Louisiana State University (Baton Rouge, LA)",0
+2001,1,42,Yankees,Y,600000.0,Jon Skaggs,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Rice University (Houston, TX)",1
+2001,1,43,Indians,Y,870000.0,Mike Conroy,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Boston College HS (Boston, MA)",1
+2001,1,44,Rockies,Y,925000.0,Jayson Nix,SS,1.6,466.0,1305.0,38.0,0.212,0.627,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Midland HS (Midland, TX)",0
 2002,1,1,Pirates,Y,4000000.0,Bryan Bullington,RHP,-0.2,6.0,3.0,0.0,0.333,0.667,26.0,1.0,9.0,5.62,1.58,0.0,4Yr,"Ball State University (Muncie, IN)",0
 2002,1,2,Devil Rays,Y,4600000.0,B.J. Upton,SS,16.8,1469.0,5175.0,164.0,0.244,0.723,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Greenbrier Christian Academy (Chesapeake, VA)",0
 2002,1,3,Reds,Y,2500000.0,Chris Gruler,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Liberty HS (Brentwood, CA)",0
@@ -98,7 +98,7 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2002,1,13,Padres,Y,1500000.0,Khalil Greene,SS,8.5,736.0,2567.0,90.0,0.245,0.723,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Clemson University (Clemson, SC)",0
 2002,1,14,Blue Jays,Y,1785000.0,Russ Adams,SS,0.0,286.0,884.0,17.0,0.247,0.685,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of North Carolina at Chapel Hill (Chapel Hill, NC)",0
 2002,1,15,Mets,Y,2150000.0,Scott Kazmir,LHP,22.4,45.0,72.0,0.0,0.111,0.234,303.0,108.0,97.0,4.02,1.35,0.0,HS,"Cypress Falls HS (Houston, TX)",0
-2002,1,16,Athletics ,Y,1780000.0,*Nick Swisher,1B,21.5,1527.0,5369.0,245.0,0.249,0.799,1.0,0.0,0.0,0.0,2.0,0.0,4Yr,"The Ohio State University (Columbus, OH)",1
+2002,1,16,Athletics ,Y,1780000.0,Nick Swisher,1B,21.5,1527.0,5369.0,245.0,0.249,0.799,1.0,0.0,0.0,0.0,2.0,0.0,4Yr,"The Ohio State University (Columbus, OH)",1
 2002,1,17,Phillies,Y,2000000.0,Cole Hamels,LHP,59.0,331.0,688.0,2.0,0.169,0.401,423.0,163.0,122.0,3.43,1.18,0.0,HS,"Rancho Bernardo HS (San Diego, CA)",0
 2002,1,18,White Sox,Y,1600000.0,Royce Ring,LHP,-0.9,87.0,0.0,0.0,0.0,0.0,99.0,3.0,3.0,5.29,1.57,0.0,4Yr,"San Diego State University (San Diego, CA)",0
 2002,1,19,Dodgers,Y,1500000.0,James Loney,1B,11.3,1443.0,5023.0,108.0,0.284,0.746,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Lawrence E Elkins HS (Missouri City, TX)",0
@@ -106,24 +106,24 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2002,1,21,Cubs,Y,2500000.0,Bobby Brownlie,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Rutgers, the State University of New Jersey (New Brunswick, NJ)",0
 2002,1,22,Indians,Y,3000000.0,Jeremy Guthrie,RHP,18.4,42.0,60.0,0.0,0.1,0.262,306.0,91.0,109.0,4.42,1.34,0.0,4Yr,"Stanford University (Palo Alto, CA)",0
 2002,1,23,Braves,Y,2200000.0,Jeff Francoeur,OF,6.8,1480.0,5260.0,160.0,0.261,0.72,1.0,0.0,0.0,9.0,2.0,0.0,HS,"Parkview HS (Lilburn, GA)",1
-2002,1,24,Athletics ,Y,1400000.0,*Joe Blanton,RHP,11.8,262.0,216.0,0.0,0.107,0.263,427.0,101.0,97.0,4.38,1.34,2.0,4Yr,"University of Kentucky (Lexington, KY)",1
+2002,1,24,Athletics ,Y,1400000.0,Joe Blanton,RHP,11.8,262.0,216.0,0.0,0.107,0.263,427.0,101.0,97.0,4.38,1.34,2.0,4Yr,"University of Kentucky (Lexington, KY)",1
 2002,1,25,Giants,Y,1375000.0,Matt Cain,RHP,29.1,332.0,611.0,7.0,0.121,0.331,342.0,104.0,118.0,3.68,1.23,0.0,HS,"Houston HS (Germantown, TN)",1
 2002,1,26,Athletics,Y,1375000.0,John McCurdy,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Maryland (College Park, MD)",1
 2002,1,27,Diamondbacks,Y,1400000.0,Sergio Santos,SS,2.0,27.0,1.0,0.0,0.0,0.0,194.0,7.0,12.0,3.98,1.33,39.0,HS,"Mater Dei HS (Santa Ana, CA)",1
 2002,1,28,Mariners,N,0.0,John Mayberry,OF,1.5,574.0,1386.0,56.0,0.235,0.72,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Rockhurst HS (Kansas City, MO)",0
 2002,1,29,Astros,Y,1125000.0,Derick Grigsby,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"Northeast Texas Community College (Mount Pleasant, TX)",0
-2002,1,30,Athletics ,Y,1200000.0,*Ben Fritz,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California State University, Fresno (Fresno, CA)",1
-2002,1,31,Dodgers,Y,1200000.0,*Greg Miller,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Esperanza HS (Anaheim, CA)",0
-2002,1,32,Cubs,Y,1150000.0,*Luke Hagerty,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Ball State University (Muncie, IN)",0
-2002,1,33,Indians,Y,1125000.0,*Matt Whitney,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Palm Beach Gardens HS (Palm Beach Gardens, FL)",0
-2002,1,34,Braves,Y,1000000.0,*Dan Meyer,LHP,-0.9,82.0,2.0,0.0,0.0,0.0,103.0,3.0,9.0,5.46,1.55,2.0,4Yr,"James Madison University (Harrisonburg, VA)",1
-2002,1,35,Athletics,Y,350000.0,*Jeremy Brown,C,0.1,5.0,10.0,0.0,0.3,0.864,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Alabama (Tuscaloosa, AL)",1
-2002,1,36,Cubs,Y,1050000.0,*Chadd Blasko,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Purdue University (West Lafayette, IN)",0
-2002,1,37,Athletics,Y,750000.0,*Steve Obenchain,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Evansville (Evansville, IN)",1
-2002,1,38,Cubs,Y,875000.0,*Matt Clanton,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"Orange Coast College (Costa Mesa, CA)",0
-2002,1,39,Athletics,Y,725000.0,*Mark Teahen,3B,2.6,831.0,2873.0,67.0,0.264,0.736,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Saint Mary's College of California (Moraga, CA)",1
-2002,1,40,Reds,Y,200000.0,*Mark Schramek,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Texas at San Antonio (San Antonio, TX)",0
-2002,1,41,Indians,Y,915000.0,*Micah Schilling,2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Silliman Institute (Clinton, LA)",0
+2002,1,30,Athletics ,Y,1200000.0,Ben Fritz,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California State University, Fresno (Fresno, CA)",1
+2002,1,31,Dodgers,Y,1200000.0,Greg Miller,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Esperanza HS (Anaheim, CA)",0
+2002,1,32,Cubs,Y,1150000.0,Luke Hagerty,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Ball State University (Muncie, IN)",0
+2002,1,33,Indians,Y,1125000.0,Matt Whitney,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Palm Beach Gardens HS (Palm Beach Gardens, FL)",0
+2002,1,34,Braves,Y,1000000.0,Dan Meyer,LHP,-0.9,82.0,2.0,0.0,0.0,0.0,103.0,3.0,9.0,5.46,1.55,2.0,4Yr,"James Madison University (Harrisonburg, VA)",1
+2002,1,35,Athletics,Y,350000.0,Jeremy Brown,C,0.1,5.0,10.0,0.0,0.3,0.864,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Alabama (Tuscaloosa, AL)",1
+2002,1,36,Cubs,Y,1050000.0,Chadd Blasko,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Purdue University (West Lafayette, IN)",0
+2002,1,37,Athletics,Y,750000.0,Steve Obenchain,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Evansville (Evansville, IN)",1
+2002,1,38,Cubs,Y,875000.0,Matt Clanton,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"Orange Coast College (Costa Mesa, CA)",0
+2002,1,39,Athletics,Y,725000.0,Mark Teahen,3B,2.6,831.0,2873.0,67.0,0.264,0.736,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Saint Mary's College of California (Moraga, CA)",1
+2002,1,40,Reds,Y,200000.0,Mark Schramek,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Texas at San Antonio (San Antonio, TX)",0
+2002,1,41,Indians,Y,915000.0,Micah Schilling,2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Silliman Institute (Clinton, LA)",0
 2003,1,1,Devil Rays,Y,3700000.0,Delmon Young,OF,3.2,1118.0,4108.0,109.0,0.283,0.737,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Adolfo Camarillo HS (Camarillo, CA)",0
 2003,1,2,Brewers,Y,3600000.0,Rickie Weeks,2B,11.5,1324.0,4417.0,161.0,0.246,0.764,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Southern University and A&M College (Baton Rouge, LA)",0
 2003,1,3,Tigers,Y,3350000.0,Kyle Sleeth,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Wake Forest University (Winston-Salem, NC)",0
@@ -141,26 +141,26 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2003,1,15,White Sox,Y,1600000.0,Brian Anderson,OF,-0.2,355.0,799.0,22.0,0.227,0.661,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Arizona (Tucson, AZ)",0
 2003,1,16,Marlins,Y,1850000.0,Jeff Allison,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Veterans Memorial HS (Peabody, MA)",1
 2003,1,17,Red Sox,Y,1525000.0,David Murphy,OF,9.9,1110.0,3467.0,104.0,0.274,0.765,2.0,0.0,0.0,0.0,3.0,0.0,4Yr,"Baylor University (Waco, TX)",1
-2003,1,18,Indians ,Y,1525000.0,*Brad Snyder,OF,-0.1,30.0,66.0,2.0,0.167,0.513,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Ball State University (Muncie, IN)",0
-2003,1,19,Diamondbacks ,Y,1500000.0,*Conor Jackson,1B,2.2,658.0,2184.0,52.0,0.271,0.757,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Berkeley (Berkeley, CA)",0
+2003,1,18,Indians ,Y,1525000.0,Brad Snyder,OF,-0.1,30.0,66.0,2.0,0.167,0.513,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Ball State University (Muncie, IN)",0
+2003,1,19,Diamondbacks ,Y,1500000.0,Conor Jackson,1B,2.2,658.0,2184.0,52.0,0.271,0.757,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Berkeley (Berkeley, CA)",0
 2003,1,20,Expos,Y,1350000.0,Chad Cordero,RHP,7.3,295.0,5.0,0.0,0.0,0.0,314.0,20.0,15.0,2.89,1.21,128.0,4Yr,"California State University, Fullerton (Fullerton, CA)",0
 2003,1,21,Twins,Y,1450000.0,Matt Moses,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Mills E. Godwin HS (Henrico, VA)",1
-2003,1,22,Giants ,Y,1425000.0,*David Aardsma,RHP,1.8,139.0,4.0,0.0,0.0,0.0,331.0,16.0,18.0,4.27,1.42,69.0,4Yr,"Rice University (Houston, TX)",1
+2003,1,22,Giants ,Y,1425000.0,David Aardsma,RHP,1.8,139.0,4.0,0.0,0.0,0.0,331.0,16.0,18.0,4.27,1.42,69.0,4Yr,"Rice University (Houston, TX)",1
 2003,1,23,Angels,Y,1300000.0,Brandon Wood,SS,-3.8,272.0,700.0,18.0,0.186,0.513,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Horizon HS (Scottsdale, AZ)",0
 2003,1,24,Dodgers,Y,1375000.0,Chad Billingsley,RHP,17.2,215.0,355.0,3.0,0.138,0.369,226.0,83.0,64.0,3.72,1.37,0.0,HS,"Defiance HS (Defiance, OH)",0
 2003,1,25,Athletics,Y,1360000.0,Brad Sullivan,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Houston (Houston, TX)",1
-2003,1,26,Athletics ,Y,1325000.0,*Brian Snyder,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Stetson University (DeLand, FL)",1
+2003,1,26,Athletics ,Y,1325000.0,Brian Snyder,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Stetson University (DeLand, FL)",1
 2003,1,27,Yankees,Y,1250000.0,Eric Duncan,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Seton Hall Preparatory School (West Orange, NJ)",1
 2003,1,28,Cardinals,Y,975000.0,Daric Barton,C,8.9,551.0,1744.0,30.0,0.247,0.721,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Marina HS (Huntington Beach, CA)",0
 2003,1,29,Diamondbacks,Y,1100000.0,Carlos Quentin,OF,10.5,834.0,2790.0,154.0,0.252,0.831,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Stanford University (Palo Alto, CA)",0
-2003,1,30,Royals ,Y,900000.0,*Mitch Maier,C,1.5,359.0,977.0,10.0,0.248,0.671,2.0,0.0,0.0,0.0,1.0,0.0,4Yr,"University of Toledo (Toledo, OH)",0
-2003,1,31,Indians,Y,1025000.0,*Adam Miller,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"McKinney HS (McKinney, TX)",0
-2003,1,32,Red Sox,Y,1010000.0,*Matt Murton,OF,3.3,346.0,952.0,29.0,0.286,0.788,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Georgia Institute of Technology (Atlanta, GA)",1
-2003,1,33,Athletics,Y,992500.0,*Omar Quintanilla,SS,-0.9,402.0,1035.0,8.0,0.22,0.582,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Texas at Austin (Austin, TX)",1
-2003,1,34,Giants,Y,975000.0,*Craig Whitaker,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Lufkin HS (Lufkin, TX)",1
-2003,1,35,Braves,Y,950000.0,*Luis Atilano,RHP,-0.9,13.0,25.0,0.0,0.04,0.08,16.0,6.0,7.0,5.15,1.49,0.0,HS,"Gabriela Mistral HS (San Juan, Puerto Rico)",1
-2003,1,36,Braves,Y,950000.0,*Jarrod Saltalamacchia,C,5.9,895.0,2852.0,110.0,0.232,0.715,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Royal Palm Beach HS (Royal Palm Beach, FL)",1
-2003,1,37,Mariners,Y,925000.0,*Adam Jones,SS,32.6,1823.0,7009.0,282.0,0.277,0.771,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Samuel F. B. Morse HS (San Diego, CA)",0
+2003,1,30,Royals ,Y,900000.0,Mitch Maier,C,1.5,359.0,977.0,10.0,0.248,0.671,2.0,0.0,0.0,0.0,1.0,0.0,4Yr,"University of Toledo (Toledo, OH)",0
+2003,1,31,Indians,Y,1025000.0,Adam Miller,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"McKinney HS (McKinney, TX)",0
+2003,1,32,Red Sox,Y,1010000.0,Matt Murton,OF,3.3,346.0,952.0,29.0,0.286,0.788,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Georgia Institute of Technology (Atlanta, GA)",1
+2003,1,33,Athletics,Y,992500.0,Omar Quintanilla,SS,-0.9,402.0,1035.0,8.0,0.22,0.582,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Texas at Austin (Austin, TX)",1
+2003,1,34,Giants,Y,975000.0,Craig Whitaker,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Lufkin HS (Lufkin, TX)",1
+2003,1,35,Braves,Y,950000.0,Luis Atilano,RHP,-0.9,13.0,25.0,0.0,0.04,0.08,16.0,6.0,7.0,5.15,1.49,0.0,HS,"Gabriela Mistral HS (San Juan, Puerto Rico)",1
+2003,1,36,Braves,Y,950000.0,Jarrod Saltalamacchia,C,5.9,895.0,2852.0,110.0,0.232,0.715,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Royal Palm Beach HS (Royal Palm Beach, FL)",1
+2003,1,37,Mariners,Y,925000.0,Adam Jones,SS,32.6,1823.0,7009.0,282.0,0.277,0.771,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Samuel F. B. Morse HS (San Diego, CA)",0
 2004,1,1,Padres,Y,3150000.0,Matt Bush,SS,2.6,8.0,0.0,0.0,0.0,0.0,170.0,12.0,7.0,3.54,1.23,12.0,HS,"Mission Bay HS (San Diego, CA)",0
 2004,1,2,Tigers,Y,3120000.0,Justin Verlander,RHP,74.1,24.0,50.0,0.0,0.1,0.2,469.0,236.0,132.0,3.29,1.12,0.0,4Yr,"Old Dominion University (Norfolk, VA)",0
 2004,1,3,Mets,Y,3000000.0,Philip Humber,RHP,0.9,9.0,11.0,0.0,0.091,0.182,97.0,16.0,23.0,5.31,1.42,0.0,4Yr,"Rice University (Houston, TX)",0
@@ -182,26 +182,26 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2004,1,19,Cardinals,Y,1525000.0,Chris Lambert,RHP,-0.8,0.0,0.0,0.0,0.0,0.0,14.0,1.0,3.0,7.36,1.97,0.0,4Yr,"Boston College (Chestnut Hill, MA)",1
 2004,1,20,Twins,Y,1500000.0,Trevor Plouffe,SS,7.3,830.0,2933.0,106.0,0.242,0.714,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Crespi Carmelite HS (Encino, CA)",1
 2004,1,21,Phillies,Y,1475000.0,Greg Golson,OF,-0.6,40.0,41.0,0.0,0.195,0.458,0.0,0.0,0.0,0.0,0.0,0.0,HS,"John B. Connally HS (Austin, TX)",0
-2004,1,22,Twins ,Y,1425000.0,*Glen Perkins,LHP,8.9,24.0,4.0,0.0,0.0,0.0,409.0,35.0,25.0,3.88,1.29,120.0,4Yr,"University of Minnesota (Minneapolis, MN)",1
-2004,1,23,Yankees ,Y,1400000.0,*Phil Hughes,RHP,11.0,32.0,18.0,0.0,0.0,0.0,290.0,88.0,79.0,4.52,1.31,3.0,HS,"Foothill HS (Santa Ana, CA)",1
-2004,1,24,Athletics ,Y,1000000.0,*Landon Powell,C,0.2,123.0,363.0,10.0,0.207,0.612,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of South Carolina (Columbia, SC)",0
-2004,1,25,Twins ,Y,1000000.0,*Kyle Waldrop,RHP,0.5,0.0,0.0,0.0,0.0,0.0,24.0,1.0,1.0,3.62,1.52,0.0,HS,"Farragut HS (Knoxville, TN)",1
+2004,1,22,Twins ,Y,1425000.0,Glen Perkins,LHP,8.9,24.0,4.0,0.0,0.0,0.0,409.0,35.0,25.0,3.88,1.29,120.0,4Yr,"University of Minnesota (Minneapolis, MN)",1
+2004,1,23,Yankees ,Y,1400000.0,Phil Hughes,RHP,11.0,32.0,18.0,0.0,0.0,0.0,290.0,88.0,79.0,4.52,1.31,3.0,HS,"Foothill HS (Santa Ana, CA)",1
+2004,1,24,Athletics ,Y,1000000.0,Landon Powell,C,0.2,123.0,363.0,10.0,0.207,0.612,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of South Carolina (Columbia, SC)",0
+2004,1,25,Twins ,Y,1000000.0,Kyle Waldrop,RHP,0.5,0.0,0.0,0.0,0.0,0.0,24.0,1.0,1.0,3.62,1.52,0.0,HS,"Farragut HS (Knoxville, TN)",1
 2004,1,26,Athletics,Y,1325000.0,Richie Robnett,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California State University, Fresno (Fresno, CA)",0
 2004,1,27,Marlins,Y,1300000.0,Taylor Tankersley,LHP,0.6,160.0,2.0,0.0,0.0,0.0,168.0,8.0,3.0,4.58,1.52,4.0,4Yr,"University of Alabama (Tuscaloosa, AL)",0
-2004,1,28,Dodgers ,Y,1200000.0,*Blake DeWitt,2B,1.9,426.0,1119.0,21.0,0.257,0.705,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Sikeston HS (Sikeston, MO)",1
-2004,1,29,Royals ,Y,1100000.0,*Matt Campbell,lHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of South Carolina (Columbia, SC)",0
-2004,1,30,Rangers ,Y,1050000.0,*Eric Hurley,RHP,0.1,1.0,2.0,0.0,0.5,1.0,5.0,1.0,2.0,5.47,1.42,0.0,HS,"Wolfson HS (Jacksonville, FL)",0
-2004,1,31,Royals,Y,1000000.0,*J.P. Howell,LHP,7.8,273.0,13.0,0.0,0.154,0.308,547.0,36.0,30.0,3.83,1.34,22.0,4Yr,"University of Texas at Austin (Austin, TX)",0
-2004,1,32,Blue Jays,Y,1017500.0,*Zach Jackson,LHP,-0.8,8.0,9.0,0.0,0.111,0.222,22.0,4.0,5.0,5.81,1.57,0.0,4Yr,"Texas A&M University (College Station, TX)",0
-2004,1,33,Dodgers,Y,1000000.0,*Justin Orenduff,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Virginia Commonwealth University (Richmond, VA)",1
-2004,1,34,White Sox,Y,975000.0,*Tyler Lumsden,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Clemson University (Clemson, SC)",0
-2004,1,35,Twins,Y,950000.0,*Matt Fox,RHP,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4.91,1.36,0.0,4Yr,"University of Central Florida (Orlando, FL)",1
-2004,1,36,Athletics,Y,950000.0,*Danny Putnam,OF,-0.2,11.0,28.0,1.0,0.214,0.612,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Stanford University (Palo Alto, CA)",0
-2004,1,37,Yankees,Y,925000.0,*Jon Poterson,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Chandler HS (Chandler, AZ)",1
-2004,1,38,White Sox,Y,850000.0,*Gio Gonzalez,lHP,28.3,221.0,410.0,3.0,0.09,0.247,344.0,131.0,101.0,3.7,1.32,0.0,HS,"Monsignor Edward Pace HS (Miami Gardens, FL)",0
-2004,1,39,Twins,Y,875000.0,*Jay Rainville,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Bishop Hendricken HS (Warwick, RI)",1
-2004,1,40,Athletics,Y,800000.0,*Huston Street,RHP,14.5,304.0,2.0,0.0,0.0,0.0,668.0,42.0,34.0,2.95,1.07,324.0,4Yr,"University of Texas at Austin (Austin, TX)",0
-2004,1,41,Yankees,Y,790000.0,*Jeff Marquez,RHP,0.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,5.4,1.4,0.0,JC,"Sacramento City College (Sacramento, CA)",1
+2004,1,28,Dodgers ,Y,1200000.0,Blake DeWitt,2B,1.9,426.0,1119.0,21.0,0.257,0.705,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Sikeston HS (Sikeston, MO)",1
+2004,1,29,Royals ,Y,1100000.0,Matt Campbell,lHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of South Carolina (Columbia, SC)",0
+2004,1,30,Rangers ,Y,1050000.0,Eric Hurley,RHP,0.1,1.0,2.0,0.0,0.5,1.0,5.0,1.0,2.0,5.47,1.42,0.0,HS,"Wolfson HS (Jacksonville, FL)",0
+2004,1,31,Royals,Y,1000000.0,J.P. Howell,LHP,7.8,273.0,13.0,0.0,0.154,0.308,547.0,36.0,30.0,3.83,1.34,22.0,4Yr,"University of Texas at Austin (Austin, TX)",0
+2004,1,32,Blue Jays,Y,1017500.0,Zach Jackson,LHP,-0.8,8.0,9.0,0.0,0.111,0.222,22.0,4.0,5.0,5.81,1.57,0.0,4Yr,"Texas A&M University (College Station, TX)",0
+2004,1,33,Dodgers,Y,1000000.0,Justin Orenduff,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Virginia Commonwealth University (Richmond, VA)",1
+2004,1,34,White Sox,Y,975000.0,Tyler Lumsden,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Clemson University (Clemson, SC)",0
+2004,1,35,Twins,Y,950000.0,Matt Fox,RHP,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,4.91,1.36,0.0,4Yr,"University of Central Florida (Orlando, FL)",1
+2004,1,36,Athletics,Y,950000.0,Danny Putnam,OF,-0.2,11.0,28.0,1.0,0.214,0.612,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Stanford University (Palo Alto, CA)",0
+2004,1,37,Yankees,Y,925000.0,Jon Poterson,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Chandler HS (Chandler, AZ)",1
+2004,1,38,White Sox,Y,850000.0,Gio Gonzalez,lHP,28.3,221.0,410.0,3.0,0.09,0.247,344.0,131.0,101.0,3.7,1.32,0.0,HS,"Monsignor Edward Pace HS (Miami Gardens, FL)",0
+2004,1,39,Twins,Y,875000.0,Jay Rainville,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Bishop Hendricken HS (Warwick, RI)",1
+2004,1,40,Athletics,Y,800000.0,Huston Street,RHP,14.5,304.0,2.0,0.0,0.0,0.0,668.0,42.0,34.0,2.95,1.07,324.0,4Yr,"University of Texas at Austin (Austin, TX)",0
+2004,1,41,Yankees,Y,790000.0,Jeff Marquez,RHP,0.0,1.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,5.4,1.4,0.0,JC,"Sacramento City College (Sacramento, CA)",1
 2005,1,1,Diamondbacks,Y,6100000.0,Justin Upton,SS,32.3,1842.0,6714.0,325.0,0.261,0.812,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Great Bridge HS (Chesapeake, VA)",0
 2005,1,2,Royals,Y,4000000.0,Alex Gordon,3B,34.4,1753.0,6391.0,190.0,0.257,0.749,2.0,0.0,0.0,19.29,4.29,0.0,4Yr,"University of Nebraska-Lincoln (Lincoln, NE)",0
 2005,1,3,Mariners,Y,3400000.0,Jeff Clement,C,-1.2,152.0,385.0,14.0,0.218,0.648,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Southern California (Los Angeles, CA)",0
@@ -218,38 +218,38 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2005,1,14,Indians,Y,1695000.0,Trevor Crowe,OF,0.2,265.0,818.0,4.0,0.24,0.615,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Arizona (Tucson, AZ)",0
 2005,1,15,White Sox,Y,1570000.0,Lance Broadway,RHP,0.3,8.0,0.0,0.0,0.0,0.0,27.0,2.0,2.0,5.24,1.6,0.0,4Yr,"Texas Christian University (Fort Worth, TX)",1
 2005,1,16,Marlins,Y,1600000.0,Chris Volstad,RHP,2.0,130.0,201.0,0.0,0.139,0.317,170.0,37.0,58.0,5.0,1.45,0.0,HS,"Palm Beach Gardens HS (Palm Beach Gardens, FL)",0
-2005,1,17,Yankees ,Y,1575000.0,*C.J. Henry,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Putnam City HS (Oklahoma City, OK)",1
+2005,1,17,Yankees ,Y,1575000.0,C.J. Henry,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Putnam City HS (Oklahoma City, OK)",1
 2005,1,18,Padres,Y,1550000.0,Cesar Carrillo,RHP,-0.7,3.0,3.0,0.0,0.0,0.0,3.0,1.0,2.0,13.06,2.71,0.0,4Yr,"University of Miami (Coral Gables, FL)",1
 2005,1,19,Rangers,Y,1525000.0,John Mayberry,OF,1.5,574.0,1386.0,56.0,0.235,0.72,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Stanford University (Palo Alto, CA)",0
 2005,1,20,Cubs,Y,1750000.0,Mark Pawelek,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Springville HS (Springville, UT)",0
 2005,1,21,Athletics,Y,1475000.0,Cliff Pennington,SS,10.1,971.0,2799.0,36.0,0.242,0.648,1.0,0.0,0.0,9.0,3.0,0.0,4Yr,"Texas A&M University (College Station, TX)",0
-2005,1,22,Marlins ,Y,1225000.0,*Aaron Thompson,LHP,-0.1,10.0,0.0,0.0,0.0,0.0,52.0,1.0,3.0,4.94,1.52,0.0,HS,"Second Baptist School (Houston, TX)",0
-2005,1,23,Red Sox ,Y,1400000.0,*Jacoby Ellsbury,OF,31.2,1235.0,4846.0,104.0,0.284,0.76,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Oregon State University (Corvallis, OR)",1
+2005,1,22,Marlins ,Y,1225000.0,Aaron Thompson,LHP,-0.1,10.0,0.0,0.0,0.0,0.0,52.0,1.0,3.0,4.94,1.52,0.0,HS,"Second Baptist School (Houston, TX)",0
+2005,1,23,Red Sox ,Y,1400000.0,Jacoby Ellsbury,OF,31.2,1235.0,4846.0,104.0,0.284,0.76,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Oregon State University (Corvallis, OR)",1
 2005,1,24,Astros,Y,1375000.0,Brian Bogusevic,LHP,2.1,321.0,748.0,19.0,0.238,0.684,1.0,0.0,0.0,18.0,3.0,0.0,4Yr,"Tulane University (New Orleans, LA)",1
 2005,1,25,Twins,Y,1350000.0,Matt Garza,RHP,12.5,152.0,274.0,0.0,0.08,0.201,290.0,93.0,106.0,4.09,1.32,1.0,4Yr,"California State University, Fresno (Fresno, CA)",0
-2005,1,26,Red Sox ,Y,1325000.0,*Craig Hansen,RHP,-1.9,27.0,0.0,0.0,0.0,0.0,95.0,4.0,9.0,6.34,1.72,3.0,4Yr,"St. John's University (Queens, NY)",1
+2005,1,26,Red Sox ,Y,1325000.0,Craig Hansen,RHP,-1.9,27.0,0.0,0.0,0.0,0.0,95.0,4.0,9.0,6.34,1.72,3.0,4Yr,"St. John's University (Queens, NY)",1
 2005,1,27,Braves,Y,1300000.0,Joey Devine,RHP,2.0,30.0,1.0,0.0,0.0,0.0,93.0,8.0,3.0,2.75,1.25,1.0,4Yr,"North Carolina State University (Raleigh, NC)",1
-2005,1,28,Cardinals ,Y,1000000.0,*Colby Rasmus,OF,20.2,1092.0,3704.0,166.0,0.241,0.745,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Russell County HS (Seale, AL)",1
-2005,1,29,Marlins ,Y,1000000.0,*Jacob Marceaux,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"McNeese State University (Lake Charles, LA)",0
+2005,1,28,Cardinals ,Y,1000000.0,Colby Rasmus,OF,20.2,1092.0,3704.0,166.0,0.241,0.745,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Russell County HS (Seale, AL)",1
+2005,1,29,Marlins ,Y,1000000.0,Jacob Marceaux,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"McNeese State University (Lake Charles, LA)",0
 2005,1,30,Cardinals,Y,1100000.0,Tyler Greene,SS,-0.4,288.0,675.0,17.0,0.224,0.645,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Georgia Institute of Technology (Atlanta, GA)",1
-2005,1,31,Diamondbacks,Y,1025000.0,*Matt Torra,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Massachusetts Amherst (Amherst, MA)",0
-2005,1,32,Rockies,Y,1025000.0,*Chaz Roe,RHP,1.2,62.0,1.0,0.0,0.0,0.0,245.0,11.0,8.0,3.89,1.34,3.0,HS,"Lafayette HS (Lexington, KY)",0
-2005,1,33,Indians,Y,1000000.0,*Johnny Drennen,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Rancho Bernardo HS (San Diego, CA)",0
-2005,1,34,Marlins,Y,975000.0,*Ryan Tucker,RHP,-1.3,11.0,7.0,0.0,0.0,0.0,18.0,2.0,3.0,8.14,1.88,0.0,HS,"Temple City HS (Temple City, CA)",0
-2005,1,35,Padres,Y,950000.0,*Cesar Ramos,LHP,1.4,43.0,6.0,0.0,0.0,0.0,267.0,10.0,15.0,4.02,1.4,2.0,4Yr,"California State University, Long Beach (Long Beach, CA)",1
-2005,1,36,Athletics,Y,950000.0,*Travis Buck,OF,2.8,253.0,810.0,20.0,0.243,0.715,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Arizona State University (Tempe, AZ)",0
-2005,1,37,Angels,Y,925000.0,*Trevor Bell,RHP,-1.2,8.0,1.0,0.0,0.0,0.0,54.0,4.0,8.0,5.57,1.76,0.0,HS,"Crescenta Valley HS (La Crescenta, CA)",1
-2005,1,38,Astros,Y,900000.0,*Eli Iorg,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Tennessee (Knoxville, TN)",1
-2005,1,39,Twins,Y,900000.0,*Hank Sanchez,1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Mission Bay HS (San Diego, CA)",0
-2005,1,40,Dodgers,N,0.0,*Luke Hochevar,RHP,3.7,18.0,16.0,0.0,0.063,0.125,279.0,46.0,65.0,4.98,1.34,3.0,4Yr,"University of Tennessee (Knoxville, TN)",0
-2005,1,41,Braves,Y,825000.0,*Beau Jones,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Destrehan HS (Destrehan, LA)",1
-2005,1,42,Red Sox,Y,800000.0,*Clay Buchholz,RHP,16.8,29.0,46.0,0.0,0.087,0.234,236.0,90.0,69.0,3.98,1.3,0.0,JC,"Angelina College (Lufkin, TX)",1
-2005,1,43,Cardinals,Y,800000.0,*Mark McCormick,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Baylor University (Waco, TX)",1
-2005,1,44,Marlins,Y,775000.0,*Sean West,LHP,-0.1,21.0,34.0,0.0,0.059,0.147,22.0,8.0,8.0,5.03,1.58,0.0,HS,"Captain Shreve HS (Shreveport, LA)",0
-2005,1,45,Red Sox,Y,762000.0,*Jed Lowrie,2B,16.0,1303.0,4599.0,121.0,0.257,0.737,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Stanford University (Palo Alto, CA)",1
-2005,1,46,Cardinals,Y,675000.0,*Tyler Herron,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Wellington Community HS (Wellington, FL)",1
-2005,1,47,Red Sox,Y,730000.0,*Michael Bowden,RHP,0.8,64.0,2.0,0.0,0.0,0.0,103.0,3.0,5.0,4.51,1.4,0.0,HS,"Waubonsie Valley HS (Aurora, IL)",1
-2005,1,48,Orioles,Y,650000.0,*Garrett Olson,LHP,-2.7,11.0,6.0,0.0,0.167,0.31,104.0,14.0,22.0,6.26,1.67,1.0,4Yr,"California Polytechnic State University, San Luis Obispo (San Luis Obispo, CA)",0
+2005,1,31,Diamondbacks,Y,1025000.0,Matt Torra,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Massachusetts Amherst (Amherst, MA)",0
+2005,1,32,Rockies,Y,1025000.0,Chaz Roe,RHP,1.2,62.0,1.0,0.0,0.0,0.0,245.0,11.0,8.0,3.89,1.34,3.0,HS,"Lafayette HS (Lexington, KY)",0
+2005,1,33,Indians,Y,1000000.0,Johnny Drennen,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Rancho Bernardo HS (San Diego, CA)",0
+2005,1,34,Marlins,Y,975000.0,Ryan Tucker,RHP,-1.3,11.0,7.0,0.0,0.0,0.0,18.0,2.0,3.0,8.14,1.88,0.0,HS,"Temple City HS (Temple City, CA)",0
+2005,1,35,Padres,Y,950000.0,Cesar Ramos,LHP,1.4,43.0,6.0,0.0,0.0,0.0,267.0,10.0,15.0,4.02,1.4,2.0,4Yr,"California State University, Long Beach (Long Beach, CA)",1
+2005,1,36,Athletics,Y,950000.0,Travis Buck,OF,2.8,253.0,810.0,20.0,0.243,0.715,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Arizona State University (Tempe, AZ)",0
+2005,1,37,Angels,Y,925000.0,Trevor Bell,RHP,-1.2,8.0,1.0,0.0,0.0,0.0,54.0,4.0,8.0,5.57,1.76,0.0,HS,"Crescenta Valley HS (La Crescenta, CA)",1
+2005,1,38,Astros,Y,900000.0,Eli Iorg,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Tennessee (Knoxville, TN)",1
+2005,1,39,Twins,Y,900000.0,Hank Sanchez,1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Mission Bay HS (San Diego, CA)",0
+2005,1,40,Dodgers,N,0.0,Luke Hochevar,RHP,3.7,18.0,16.0,0.0,0.063,0.125,279.0,46.0,65.0,4.98,1.34,3.0,4Yr,"University of Tennessee (Knoxville, TN)",0
+2005,1,41,Braves,Y,825000.0,Beau Jones,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Destrehan HS (Destrehan, LA)",1
+2005,1,42,Red Sox,Y,800000.0,Clay Buchholz,RHP,16.8,29.0,46.0,0.0,0.087,0.234,236.0,90.0,69.0,3.98,1.3,0.0,JC,"Angelina College (Lufkin, TX)",1
+2005,1,43,Cardinals,Y,800000.0,Mark McCormick,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Baylor University (Waco, TX)",1
+2005,1,44,Marlins,Y,775000.0,Sean West,LHP,-0.1,21.0,34.0,0.0,0.059,0.147,22.0,8.0,8.0,5.03,1.58,0.0,HS,"Captain Shreve HS (Shreveport, LA)",0
+2005,1,45,Red Sox,Y,762000.0,Jed Lowrie,2B,16.0,1303.0,4599.0,121.0,0.257,0.737,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Stanford University (Palo Alto, CA)",1
+2005,1,46,Cardinals,Y,675000.0,Tyler Herron,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Wellington Community HS (Wellington, FL)",1
+2005,1,47,Red Sox,Y,730000.0,Michael Bowden,RHP,0.8,64.0,2.0,0.0,0.0,0.0,103.0,3.0,5.0,4.51,1.4,0.0,HS,"Waubonsie Valley HS (Aurora, IL)",1
+2005,1,48,Orioles,Y,650000.0,Garrett Olson,LHP,-2.7,11.0,6.0,0.0,0.167,0.31,104.0,14.0,22.0,6.26,1.67,1.0,4Yr,"California Polytechnic State University, San Luis Obispo (San Luis Obispo, CA)",0
 2006,1,1,Royals,Y,3500000.0,Luke Hochevar,RHP,3.7,18.0,16.0,0.0,0.063,0.125,279.0,46.0,65.0,4.98,1.34,3.0,None,,0
 2006,1,2,Rockies,Y,3250000.0,Greg Reynolds,RHP,-1.5,31.0,30.0,0.0,0.167,0.46,33.0,6.0,11.0,7.01,1.65,0.0,4Yr,"Stanford University (Palo Alto, CA)",0
 2006,1,3,Devil Rays,Y,3000000.0,Evan Longoria,3B,57.6,1866.0,6958.0,325.0,0.266,0.808,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California State University, Long Beach (Long Beach, CA)",0
@@ -267,33 +267,33 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2006,1,15,Nationals,Y,1625000.0,Chris Marrero,OF,-1.5,54.0,163.0,1.0,0.209,0.493,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Monsignor Edward Pace HS (Miami Gardens, FL)",0
 2006,1,16,Brewers,Y,1550000.0,Jeremy Jeffress,RHP,8.8,290.0,3.0,0.0,0.0,0.0,414.0,32.0,12.0,3.08,1.32,52.0,HS,"Halifax County HS (South Boston, VA)",0
 2006,1,17,Padres,Y,1575000.0,Matt Antonelli,3B,-0.3,21.0,57.0,1.0,0.193,0.573,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Wake Forest University (Winston-Salem, NC)",1
-2006,1,18,Phillies ,Y,1550000.0,*Kyle Drabek,RHP,-0.1,3.0,2.0,0.0,0.0,0.0,43.0,8.0,15.0,5.26,1.7,0.0,HS,"The Woodlands HS (The Woodlands, TX)",0
+2006,1,18,Phillies ,Y,1550000.0,Kyle Drabek,RHP,-0.1,3.0,2.0,0.0,0.0,0.0,43.0,8.0,15.0,5.26,1.7,0.0,HS,"The Woodlands HS (The Woodlands, TX)",0
 2006,1,19,Marlins,Y,1525000.0,Brett Sinkbeil,RHP,-0.2,3.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,13.5,3.5,0.0,4Yr,"Missouri State University (Springfield, MO)",0
 2006,1,20,Twins,Y,1500000.0,Chris Parmelee,OF,0.0,311.0,917.0,30.0,0.248,0.717,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Chino Hills HS (Chino Hills, CA)",1
-2006,1,21,Yankees ,Y,2250000.0,*Ian Kennedy,RHP,18.5,215.0,321.0,1.0,0.131,0.394,456.0,103.0,110.0,4.1,1.28,60.0,4Yr,"University of Southern California (Los Angeles, CA)",1
-2006,1,22,Nationals ,Y,1425000.0,*Colton Willems,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"John Carroll Catholic HS (Fort Pierce, FL)",0
+2006,1,21,Yankees ,Y,2250000.0,Ian Kennedy,RHP,18.5,215.0,321.0,1.0,0.131,0.394,456.0,103.0,110.0,4.1,1.28,60.0,4Yr,"University of Southern California (Los Angeles, CA)",1
+2006,1,22,Nationals ,Y,1425000.0,Colton Willems,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"John Carroll Catholic HS (Fort Pierce, FL)",0
 2006,1,23,Astros,Y,1400000.0,Maxwell Sapp,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Bishop Moore HS (Orlando, FL)",0
 2006,1,24,Braves,Y,1375000.0,Cody Johnson,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"A. Crawford Mosley HS (Lynn Haven, FL)",0
-2006,1,25,Angels ,Y,1350000.0,*Hank Conger,C,2.0,373.0,1013.0,31.0,0.221,0.66,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Huntington Beach HS (Huntington Beach, CA)",0
-2006,1,26,Dodgers ,Y,1325000.0,*Bryan Morris,RHP,2.7,219.0,7.0,0.0,0.143,0.286,231.0,20.0,12.0,3.13,1.37,1.0,JC,"Motlow State Community College (Lynchburg, TN)",1
+2006,1,25,Angels ,Y,1350000.0,Hank Conger,C,2.0,373.0,1013.0,31.0,0.221,0.66,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Huntington Beach HS (Huntington Beach, CA)",0
+2006,1,26,Dodgers ,Y,1325000.0,Bryan Morris,RHP,2.7,219.0,7.0,0.0,0.143,0.286,231.0,20.0,12.0,3.13,1.37,1.0,JC,"Motlow State Community College (Lynchburg, TN)",1
 2006,1,27,Red Sox,Y,1300000.0,Jason Place,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Wren HS (Piedmont, SC)",0
-2006,1,28,Red Sox ,Y,1550000.0,*Daniel Bard,RHP,6.3,80.0,3.0,0.0,0.333,0.667,330.0,24.0,31.0,3.81,1.27,47.0,4Yr,"University of North Carolina at Chapel Hill (Chapel Hill, NC)",0
+2006,1,28,Red Sox ,Y,1550000.0,Daniel Bard,RHP,6.3,80.0,3.0,0.0,0.333,0.667,330.0,24.0,31.0,3.81,1.27,47.0,4Yr,"University of North Carolina at Chapel Hill (Chapel Hill, NC)",0
 2006,1,29,White Sox,Y,1050000.0,Kyle McCulloch,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Texas at Austin (Austin, TX)",0
 2006,1,30,Cardinals,Y,950000.0,Adam Ottavino,RHP,12.4,354.0,24.0,0.0,0.083,0.203,565.0,34.0,33.0,3.55,1.31,30.0,4Yr,"Northeastern University (Boston, MA)",1
-2006,1,31,Dodgers,Y,1000000.0,*Preston Mattingly,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Central HS (Evansville, IN)",1
-2006,1,32,Orioles,Y,1000000.0,*Pedro Beato,RHP,-1.0,67.0,0.0,0.0,0.0,0.0,85.0,4.0,2.0,4.31,1.3,0.0,JC,"St. Petersburg College (St. Petersburg, FL)",0
-2006,1,33,Giants,Y,1000000.0,*Emmanuel Burriss,SS,-2.7,325.0,768.0,1.0,0.237,0.565,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Kent State University (Kent, OH)",0
-2006,1,34,Diamondbacks,Y,900000.0,*Brooks Brown,RHP,0.9,63.0,1.0,0.0,0.0,0.0,64.0,1.0,4.0,3.97,1.24,0.0,4Yr,"University of Georgia (Athens, GA)",0
-2006,1,35,Padres,Y,950000.0,*Kyler Burke,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Ooltewah HS (Ooltewah, TN)",1
-2006,1,36,Marlins,Y,950000.0,*Chris Coghlan,3B,1.1,801.0,2580.0,53.0,0.258,0.731,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Mississippi (Oxford, MS)",0
-2006,1,37,Phillies,Y,925000.0,*Adrian Cardenas,SS,-0.3,45.0,60.0,0.0,0.183,0.552,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Monsignor Edward Pace HS (Miami Gardens, FL)",0
-2006,1,38,Braves,Y,900000.0,*Cory Rasmus,RHP,0.5,10.0,1.0,0.0,0.0,0.0,84.0,4.0,5.0,4.17,1.33,0.0,HS,"Russell County HS (Seale, AL)",0
-2006,1,39,Indians,Y,900000.0,*David Huff,LHP,-1.8,22.0,8.0,0.0,0.125,0.25,120.0,25.0,30.0,5.17,1.51,0.0,4Yr,"University of California, Los Angeles (Los Angeles, CA)",0
-2006,1,40,Red Sox,Y,850000.0,*Kris Johnson,LHP,0.0,5.0,3.0,0.0,0.0,0.0,7.0,0.0,3.0,5.32,1.77,0.0,4Yr,"Wichita State University (Wichita, KS)",0
-2006,1,41,Yankees,Y,1150000.0,*Joba Chamberlain,RHP,7.6,24.0,6.0,0.0,0.0,0.143,385.0,25.0,21.0,3.81,1.38,7.0,4Yr,"University of Nebraska-Lincoln (Lincoln, NE)",1
-2006,1,42,Cardinals,Y,800000.0,*Chris Perez,RHP,4.7,125.0,2.0,0.0,0.0,0.0,393.0,16.0,24.0,3.51,1.24,133.0,4Yr,"University of Miami (Coral Gables, FL)",1
-2006,1,43,Braves,Y,800000.0,*Steve Evarts,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"T. R. Robinson HS (Tampa, FL)",0
-2006,1,44,Red Sox,Y,775000.0,*Caleb Clay,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Cullman HS (Cullman, AL)",0
+2006,1,31,Dodgers,Y,1000000.0,Preston Mattingly,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Central HS (Evansville, IN)",1
+2006,1,32,Orioles,Y,1000000.0,Pedro Beato,RHP,-1.0,67.0,0.0,0.0,0.0,0.0,85.0,4.0,2.0,4.31,1.3,0.0,JC,"St. Petersburg College (St. Petersburg, FL)",0
+2006,1,33,Giants,Y,1000000.0,Emmanuel Burriss,SS,-2.7,325.0,768.0,1.0,0.237,0.565,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Kent State University (Kent, OH)",0
+2006,1,34,Diamondbacks,Y,900000.0,Brooks Brown,RHP,0.9,63.0,1.0,0.0,0.0,0.0,64.0,1.0,4.0,3.97,1.24,0.0,4Yr,"University of Georgia (Athens, GA)",0
+2006,1,35,Padres,Y,950000.0,Kyler Burke,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Ooltewah HS (Ooltewah, TN)",1
+2006,1,36,Marlins,Y,950000.0,Chris Coghlan,3B,1.1,801.0,2580.0,53.0,0.258,0.731,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Mississippi (Oxford, MS)",0
+2006,1,37,Phillies,Y,925000.0,Adrian Cardenas,SS,-0.3,45.0,60.0,0.0,0.183,0.552,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Monsignor Edward Pace HS (Miami Gardens, FL)",0
+2006,1,38,Braves,Y,900000.0,Cory Rasmus,RHP,0.5,10.0,1.0,0.0,0.0,0.0,84.0,4.0,5.0,4.17,1.33,0.0,HS,"Russell County HS (Seale, AL)",0
+2006,1,39,Indians,Y,900000.0,David Huff,LHP,-1.8,22.0,8.0,0.0,0.125,0.25,120.0,25.0,30.0,5.17,1.51,0.0,4Yr,"University of California, Los Angeles (Los Angeles, CA)",0
+2006,1,40,Red Sox,Y,850000.0,Kris Johnson,LHP,0.0,5.0,3.0,0.0,0.0,0.0,7.0,0.0,3.0,5.32,1.77,0.0,4Yr,"Wichita State University (Wichita, KS)",0
+2006,1,41,Yankees,Y,1150000.0,Joba Chamberlain,RHP,7.6,24.0,6.0,0.0,0.0,0.143,385.0,25.0,21.0,3.81,1.38,7.0,4Yr,"University of Nebraska-Lincoln (Lincoln, NE)",1
+2006,1,42,Cardinals,Y,800000.0,Chris Perez,RHP,4.7,125.0,2.0,0.0,0.0,0.0,393.0,16.0,24.0,3.51,1.24,133.0,4Yr,"University of Miami (Coral Gables, FL)",1
+2006,1,43,Braves,Y,800000.0,Steve Evarts,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"T. R. Robinson HS (Tampa, FL)",0
+2006,1,44,Red Sox,Y,775000.0,Caleb Clay,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Cullman HS (Cullman, AL)",0
 2007,1,1,Devil Rays,Y,5600000.0,David Price,LHP,39.6,58.0,65.0,0.0,0.123,0.298,379.0,155.0,82.0,3.33,1.16,1.0,4Yr,"Vanderbilt University (Nashville, TN)",0
 2007,1,2,Royals,Y,4000000.0,Mike Moustakas,SS,13.2,1291.0,4633.0,199.0,0.248,0.744,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Chatsworth Charter HS (Chatsworth, CA)",0
 2007,1,3,Cubs,Y,3200000.0,Josh Vitters,3B,-1.3,36.0,99.0,2.0,0.121,0.395,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Cypress HS (Cypress, CA)",1
@@ -309,55 +309,55 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2007,1,13,Indians,Y,1575000.0,Beau Mills,1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Lewis-Clark State College (Lewiston, ID)",1
 2007,1,14,Braves,Y,1700000.0,Jason Heyward,OF,38.6,1579.0,5527.0,159.0,0.257,0.746,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Henry County HS (McDonough, GA)",0
 2007,1,15,Reds,Y,1400000.0,Devin Mesoraco,C,4.7,468.0,1402.0,58.0,0.232,0.715,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Punxsutawney HS (Punxsutawney, PA)",0
-2007,1,16,Blue Jays ,Y,1440000.0,*Kevin Ahrens,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Memorial HS (Houston, TX)",0
-2007,1,17,Rangers ,Y,1497000.0,*Blake Beavan,RHP,1.7,1.0,2.0,0.0,0.0,0.0,54.0,16.0,20.0,4.61,1.27,0.0,HS,"Irving HS (Irving, TX)",0
+2007,1,16,Blue Jays ,Y,1440000.0,Kevin Ahrens,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Memorial HS (Houston, TX)",0
+2007,1,17,Rangers ,Y,1497000.0,Blake Beavan,RHP,1.7,1.0,2.0,0.0,0.0,0.0,54.0,16.0,20.0,4.61,1.27,0.0,HS,"Irving HS (Irving, TX)",0
 2007,1,18,Cardinals,Y,1395000.0,Pete Kozma,SS,-0.5,344.0,746.0,5.0,0.213,0.564,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Owasso HS (Owasso, OK)",0
 2007,1,19,Phillies,Y,1372500.0,Joe Savery,LHP,-0.1,37.0,2.0,0.0,0.0,0.0,44.0,3.0,2.0,3.83,1.26,0.0,4Yr,"Rice University (Houston, TX)",1
-2007,1,20,Dodgers ,Y,1350000.0,*Chris Withrow,RHP,1.4,84.0,1.0,0.0,0.0,0.0,92.0,6.0,0.0,3.07,1.14,1.0,HS,"Midland HS (Midland, TX)",0
+2007,1,20,Dodgers ,Y,1350000.0,Chris Withrow,RHP,1.4,84.0,1.0,0.0,0.0,0.0,92.0,6.0,0.0,3.07,1.14,1.0,HS,"Midland HS (Midland, TX)",0
 2007,1,21,Blue Jays,Y,1372500.0,J.P. Arencibia,C,1.9,466.0,1573.0,80.0,0.212,0.67,1.0,0.0,0.0,0.0,1.0,0.0,4Yr,"University of Tennessee (Knoxville, TN)",0
-2007,1,22,Giants ,Y,1290000.0,*Tim Alderson,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Horizon HS (Scottsdale, AZ)",0
+2007,1,22,Giants ,Y,1290000.0,Tim Alderson,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Horizon HS (Scottsdale, AZ)",0
 2007,1,23,Padres,Y,1260000.0,Nick Schmidt,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Arkansas (Fayetteville, AR)",0
-2007,1,24,Rangers ,Y,1237500.0,*Michael Main,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"DeLand HS (DeLand, FL)",0
+2007,1,24,Rangers ,Y,1237500.0,Michael Main,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"DeLand HS (DeLand, FL)",0
 2007,1,25,White Sox,Y,1200000.0,Aaron Poreda,LHP,0.2,9.0,0.0,0.0,0.0,0.0,40.0,3.0,1.0,4.67,1.73,0.0,4Yr,"University of San Francisco (San Francisco, CA)",0
 2007,1,26,Athletics,Y,1192500.0,James Simmons,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Riverside (Riverside, CA)",0
 2007,1,27,Tigers,Y,3580000.0,Rick Porcello,RHP,18.8,24.0,45.0,0.0,0.178,0.4,355.0,150.0,125.0,4.4,1.32,0.0,HS,"Seton Hall Preparatory School (West Orange, NJ)",0
 2007,1,28,Twins,Y,750000.0,Ben Revere,OF,7.9,857.0,3138.0,7.0,0.284,0.662,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Lexington Catholic HS (Lexington, KY)",0
-2007,1,29,Giants ,Y,1000000.0,*Wendell Fairley,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"George County HS (Lucedale, MS)",0
+2007,1,29,Giants ,Y,1000000.0,Wendell Fairley,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"George County HS (Lucedale, MS)",0
 2007,1,30,Yankees,Y,3350000.0,Andrew Brackman,RHP,0.1,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,0.0,1.71,0.0,4Yr,"North Carolina State University (Raleigh, NC)",1
-2007,1,31,Nationals,Y,1000000.0,*Josh Smoker,LHP,-0.7,75.0,4.0,0.0,0.0,0.0,82.0,4.0,2.0,5.35,1.7,0.0,HS,"Calhoun HS (Calhoun, GA)",0
-2007,1,32,Giants,Y,915750.0,*Nick Noonan,2B,-1.2,83.0,145.0,1.0,0.193,0.473,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Parker HS (San Diego, CA)",0
-2007,1,33,Braves,Y,900000.0,*Jon Gilmore,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Iowa City HS (Iowa City, IA)",0
-2007,1,34,Reds,Y,825000.0,*Todd Frazier,3B,25.3,1244.0,4392.0,218.0,0.241,0.763,1.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Rutgers, the State University of New Jersey (New Brunswick, NJ)",0
-2007,1,35,Rangers,Y,800000.0,*Julio Borbon,OF,1.7,294.0,802.0,8.0,0.273,0.665,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Tennessee (Knoxville, TN)",0
-2007,1,36,Cardinals,Y,650000.0,*Clayton Mortensen,RHP,-0.5,19.0,16.0,0.0,0.0,0.056,74.0,6.0,11.0,4.68,1.44,0.0,4Yr,"Gonzaga University (Spokane, WA)",0
-2007,1,37,Phillies,Y,832500.0,*Travis d'Arnaud,C,5.1,659.0,2278.0,90.0,0.251,0.736,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Lakewood HS (Lakewood, CA)",1
-2007,1,38,Blue Jays,Y,810000.0,*Brett Cecil,LHP,6.7,122.0,7.0,0.0,0.0,0.0,443.0,44.0,47.0,4.29,1.36,12.0,4Yr,"University of Maryland (College Park, MD)",0
-2007,1,39,Dodgers,Y,787500.0,*James Adkins,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Tennessee (Knoxville, TN)",0
-2007,1,40,Padres,Y,765000.0,*Kellen Kulbacki,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"James Madison University (Harrisonburg, VA)",0
-2007,1,41,Athletics,Y,742500.0,*Sean Doolittle,1B,10.0,189.0,4.0,0.0,0.0,0.0,463.0,26.0,24.0,3.2,1.01,112.0,4Yr,"University of Virginia (Charlottesville, VA)",0
-2007,1,42,Mets,Y,720000.0,*Eddie Kunz,RHP,-0.2,4.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,13.5,2.25,0.0,4Yr,"Oregon State University (Corvallis, OR)",0
-2007,1,43,Giants,Y,708750.0,*Jackson Williams,C,0.1,14.0,24.0,1.0,0.208,0.742,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Oklahoma (Norman, OK)",0
-2007,1,44,Rangers,Y,1000000.0,*Neil Ramirez,RHP,0.3,109.0,2.0,0.0,0.0,0.0,185.0,4.0,8.0,4.46,1.42,3.0,HS,"Kempsville HS (Virginia Beach, VA)",0
-2007,1,45,Blue Jays,Y,675000.0,*Justin Jackson,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"T. C. Roberson HS (Asheville, NC)",0
-2007,1,46,Padres,Y,661500.0,*Drew Cumberland,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Pace HS (Pace, FL)",0
-2007,1,47,Mets,Y,657000.0,*Nathan Vineyard,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Woodland HS (Cartersville, GA)",0
-2007,1,48,Cubs,Y,652500.0,*Josh Donaldson,C,46.2,1262.0,4600.0,257.0,0.267,0.863,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Auburn University (Auburn, AL)",1
-2007,1,49,Nationals,Y,630000.0,*Michael Burgess,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Hillsborough HS (Tampa, FL)",0
-2007,1,50,Diamondbacks,Y,620000.0,*Wes Roemer,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California State University, Fullerton (Fullerton, CA)",1
-2007,1,51,Giants,Y,607500.0,*Charlie Culberson,2B,-0.4,558.0,1163.0,28.0,0.248,0.676,7.0,0.0,0.0,1.42,1.26,0.0,HS,"Calhoun HS (Calhoun, GA)",0
-2007,1,52,Mariners,Y,603000.0,*Matt Mangini,3B,-0.2,11.0,38.0,0.0,0.211,0.461,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Oklahoma State University (Stillwater, OK)",0
-2007,1,53,Reds,Y,594000.0,*Kyle Lotzkar,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None,,0
-2007,1,54,Rangers,Y,585000.0,*Tommy Hunter,RHP,11.2,105.0,5.0,0.0,0.2,0.4,480.0,56.0,45.0,4.02,1.24,22.0,4Yr,"University of Alabama (Tuscaloosa, AL)",0
-2007,1,55,Red Sox,Y,571500.0,*Nick Hagadone,LHP,-0.2,7.0,0.0,0.0,0.0,0.0,143.0,3.0,2.0,4.72,1.37,1.0,4Yr,"University of Washington (Seattle, WA)",1
-2007,1,56,Blue Jays,Y,462500.0,*Trystan Magnuson,RHP,-0.2,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,6.14,1.36,0.0,4Yr,"University of Louisville (Louisville, KY)",0
-2007,1,57,Padres,Y,552500.0,*Mitch Canham,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Oregon State University (Corvallis, OR)",0
-2007,1,58,Angels,Y,553300.0,*Jon Bachanov,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"University HS (Orlando, FL)",1
-2007,1,59,Athletics,Y,544500.0,*Corey Brown,OF,0.4,39.0,41.0,2.0,0.171,0.635,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Oklahoma State University (Stillwater, OK)",0
-2007,1,60,Tigers,Y,540000.0,*Brandon Hamilton,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Stanhope Elmore HS (Millbrook, AL)",0
-2007,1,61,Diamondbacks,Y,531000.0,*Ed Easley,C,-0.1,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Mississippi State University (Mississippi State, MS)",1
-2007,1,62,Red Sox,Y,571000.0,*Ryan Dent,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Woodrow Wilson HS (Long Beach, CA)",1
-2007,1,63,Padres,Y,515000.0,*Cory Luebke,LHP,2.4,61.0,49.0,0.0,0.143,0.319,64.0,10.0,13.0,3.52,1.19,0.0,4Yr,"The Ohio State University (Columbus, OH)",0
-2007,1,64,Padres,Y,517500.0,*Danny Payne,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Georgia Institute of Technology (Atlanta, GA)",0
+2007,1,31,Nationals,Y,1000000.0,Josh Smoker,LHP,-0.7,75.0,4.0,0.0,0.0,0.0,82.0,4.0,2.0,5.35,1.7,0.0,HS,"Calhoun HS (Calhoun, GA)",0
+2007,1,32,Giants,Y,915750.0,Nick Noonan,2B,-1.2,83.0,145.0,1.0,0.193,0.473,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Parker HS (San Diego, CA)",0
+2007,1,33,Braves,Y,900000.0,Jon Gilmore,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Iowa City HS (Iowa City, IA)",0
+2007,1,34,Reds,Y,825000.0,Todd Frazier,3B,25.3,1244.0,4392.0,218.0,0.241,0.763,1.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Rutgers, the State University of New Jersey (New Brunswick, NJ)",0
+2007,1,35,Rangers,Y,800000.0,Julio Borbon,OF,1.7,294.0,802.0,8.0,0.273,0.665,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Tennessee (Knoxville, TN)",0
+2007,1,36,Cardinals,Y,650000.0,Clayton Mortensen,RHP,-0.5,19.0,16.0,0.0,0.0,0.056,74.0,6.0,11.0,4.68,1.44,0.0,4Yr,"Gonzaga University (Spokane, WA)",0
+2007,1,37,Phillies,Y,832500.0,Travis d'Arnaud,C,5.1,659.0,2278.0,90.0,0.251,0.736,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Lakewood HS (Lakewood, CA)",1
+2007,1,38,Blue Jays,Y,810000.0,Brett Cecil,LHP,6.7,122.0,7.0,0.0,0.0,0.0,443.0,44.0,47.0,4.29,1.36,12.0,4Yr,"University of Maryland (College Park, MD)",0
+2007,1,39,Dodgers,Y,787500.0,James Adkins,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Tennessee (Knoxville, TN)",0
+2007,1,40,Padres,Y,765000.0,Kellen Kulbacki,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"James Madison University (Harrisonburg, VA)",0
+2007,1,41,Athletics,Y,742500.0,Sean Doolittle,1B,10.0,189.0,4.0,0.0,0.0,0.0,463.0,26.0,24.0,3.2,1.01,112.0,4Yr,"University of Virginia (Charlottesville, VA)",0
+2007,1,42,Mets,Y,720000.0,Eddie Kunz,RHP,-0.2,4.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,13.5,2.25,0.0,4Yr,"Oregon State University (Corvallis, OR)",0
+2007,1,43,Giants,Y,708750.0,Jackson Williams,C,0.1,14.0,24.0,1.0,0.208,0.742,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Oklahoma (Norman, OK)",0
+2007,1,44,Rangers,Y,1000000.0,Neil Ramirez,RHP,0.3,109.0,2.0,0.0,0.0,0.0,185.0,4.0,8.0,4.46,1.42,3.0,HS,"Kempsville HS (Virginia Beach, VA)",0
+2007,1,45,Blue Jays,Y,675000.0,Justin Jackson,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"T. C. Roberson HS (Asheville, NC)",0
+2007,1,46,Padres,Y,661500.0,Drew Cumberland,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Pace HS (Pace, FL)",0
+2007,1,47,Mets,Y,657000.0,Nathan Vineyard,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Woodland HS (Cartersville, GA)",0
+2007,1,48,Cubs,Y,652500.0,Josh Donaldson,C,46.2,1262.0,4600.0,257.0,0.267,0.863,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Auburn University (Auburn, AL)",1
+2007,1,49,Nationals,Y,630000.0,Michael Burgess,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Hillsborough HS (Tampa, FL)",0
+2007,1,50,Diamondbacks,Y,620000.0,Wes Roemer,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California State University, Fullerton (Fullerton, CA)",1
+2007,1,51,Giants,Y,607500.0,Charlie Culberson,2B,-0.4,558.0,1163.0,28.0,0.248,0.676,7.0,0.0,0.0,1.42,1.26,0.0,HS,"Calhoun HS (Calhoun, GA)",0
+2007,1,52,Mariners,Y,603000.0,Matt Mangini,3B,-0.2,11.0,38.0,0.0,0.211,0.461,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Oklahoma State University (Stillwater, OK)",0
+2007,1,53,Reds,Y,594000.0,Kyle Lotzkar,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,None,,0
+2007,1,54,Rangers,Y,585000.0,Tommy Hunter,RHP,11.2,105.0,5.0,0.0,0.2,0.4,480.0,56.0,45.0,4.02,1.24,22.0,4Yr,"University of Alabama (Tuscaloosa, AL)",0
+2007,1,55,Red Sox,Y,571500.0,Nick Hagadone,LHP,-0.2,7.0,0.0,0.0,0.0,0.0,143.0,3.0,2.0,4.72,1.37,1.0,4Yr,"University of Washington (Seattle, WA)",1
+2007,1,56,Blue Jays,Y,462500.0,Trystan Magnuson,RHP,-0.2,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0,6.14,1.36,0.0,4Yr,"University of Louisville (Louisville, KY)",0
+2007,1,57,Padres,Y,552500.0,Mitch Canham,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Oregon State University (Corvallis, OR)",0
+2007,1,58,Angels,Y,553300.0,Jon Bachanov,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"University HS (Orlando, FL)",1
+2007,1,59,Athletics,Y,544500.0,Corey Brown,OF,0.4,39.0,41.0,2.0,0.171,0.635,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Oklahoma State University (Stillwater, OK)",0
+2007,1,60,Tigers,Y,540000.0,Brandon Hamilton,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Stanhope Elmore HS (Millbrook, AL)",0
+2007,1,61,Diamondbacks,Y,531000.0,Ed Easley,C,-0.1,4.0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Mississippi State University (Mississippi State, MS)",1
+2007,1,62,Red Sox,Y,571000.0,Ryan Dent,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Woodrow Wilson HS (Long Beach, CA)",1
+2007,1,63,Padres,Y,515000.0,Cory Luebke,LHP,2.4,61.0,49.0,0.0,0.143,0.319,64.0,10.0,13.0,3.52,1.19,0.0,4Yr,"The Ohio State University (Columbus, OH)",0
+2007,1,64,Padres,Y,517500.0,Danny Payne,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Georgia Institute of Technology (Atlanta, GA)",0
 2008,1,1,Rays,Y,6150000.0,Tim Beckham,SS,3.8,472.0,1614.0,63.0,0.249,0.733,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Griffin HS (Griffin, GA)",1
 2008,1,2,Pirates,Y,6000000.0,Pedro Alvarez,3B,5.0,910.0,2980.0,162.0,0.236,0.757,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Vanderbilt University (Nashville, TN)",0
 2008,1,3,Royals,Y,6000000.0,Eric Hosmer,1B,18.9,1628.0,6154.0,194.0,0.277,0.765,0.0,0.0,0.0,0.0,0.0,0.0,HS,"American Heritage HS (Plantation, FL)",0
@@ -375,7 +375,7 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2008,1,15,Dodgers,Y,1730000.0,Ethan Martin,RHP,-0.6,17.0,9.0,0.0,0.0,0.0,17.0,2.0,5.0,5.93,1.64,0.0,HS,"Stephens County School (Toccoa, GA)",1
 2008,1,16,Brewers,Y,1700000.0,Brett Lawrie,3B,15.6,588.0,2217.0,71.0,0.261,0.734,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Brookswood SS (Langley, BC)",1
 2008,1,17,Blue Jays,Y,1500000.0,David Cooper,1B,0.1,72.0,211.0,6.0,0.27,0.751,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Berkeley (Berkeley, CA)",0
-2008,1,18,Mets ,Y,1575000.0,*Ike Davis,1B,5.8,665.0,2076.0,81.0,0.239,0.746,2.0,0.0,0.0,0.0,1.0,0.0,4Yr,"Arizona State University (Tempe, AZ)",0
+2008,1,18,Mets ,Y,1575000.0,Ike Davis,1B,5.8,665.0,2076.0,81.0,0.239,0.746,2.0,0.0,0.0,0.0,1.0,0.0,4Yr,"Arizona State University (Tempe, AZ)",0
 2008,1,19,Cubs,Y,1540000.0,Andrew Cashner,RHP,10.9,216.0,203.0,1.0,0.158,0.377,300.0,57.0,87.0,4.1,1.36,1.0,4Yr,"Texas Christian University (Fort Worth, TX)",1
 2008,1,20,Mariners,Y,1750000.0,Josh Fields,RHP,1.8,133.0,1.0,0.0,0.0,0.0,288.0,17.0,12.0,3.71,1.17,13.0,4Yr,"University of Georgia (Athens, GA)",0
 2008,1,21,Tigers,Y,1480000.0,Ryan Perry,RHP,0.2,11.0,0.0,0.0,0.0,0.0,156.0,6.0,6.0,4.36,1.45,2.0,4Yr,"University of Arizona (Tucson, AZ)",0
@@ -384,26 +384,26 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2008,1,24,Phillies,Y,1380000.0,Anthony Hewitt,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Salisbury Prep (Salisbury, CT)",1
 2008,1,25,Rockies,Y,1350000.0,Christian Friedrich,LHP,-0.7,117.0,70.0,0.0,0.071,0.216,124.0,10.0,28.0,5.37,1.52,0.0,4Yr,"Eastern Kentucky University (Richmond, KY)",0
 2008,1,26,Diamondbacks,Y,1330000.0,Daniel Schlereth,LHP,0.0,25.0,0.0,0.0,0.0,0.0,94.0,5.0,6.0,4.35,1.57,1.0,4Yr,"University of Arizona (Tucson, AZ)",0
-2008,1,27,Twins ,Y,1290000.0,*Carlos Gutierrez,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Miami (Coral Gables, FL)",0
+2008,1,27,Twins ,Y,1290000.0,Carlos Gutierrez,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Miami (Coral Gables, FL)",0
 2008,1,28,Yankees,N,0.0,Gerrit Cole,RHP,33.3,128.0,251.0,3.0,0.163,0.393,250.0,124.0,65.0,3.19,1.11,0.0,HS,"Orange Lutheran HS (Orange, CA)",0
 2008,1,29,Indians,Y,1100000.0,Lonnie Chisenhall,3B,9.0,688.0,2159.0,64.0,0.268,0.747,0.0,0.0,0.0,0.0,0.0,0.0,JC,"Pitt Community College (Winterville, NC)",0
 2008,1,30,Red Sox,Y,3000000.0,Casey Kelly,SS,-1.4,27.0,18.0,0.0,0.111,0.222,26.0,2.0,11.0,5.46,1.65,0.0,HS,"Sarasota HS (Sarasota, FL)",1
-2008,1,31,Twins,Y,1080000.0,*Shooter Hunt,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Tulane University (New Orleans, LA)",0
-2008,1,32,Brewers,Y,1060000.0,*Jake Odorizzi,RHP,13.4,16.0,24.0,0.0,0.083,0.203,227.0,71.0,65.0,3.95,1.24,1.0,HS,"Highland HS (Highland, IL)",1
+2008,1,31,Twins,Y,1080000.0,Shooter Hunt,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Tulane University (New Orleans, LA)",0
+2008,1,32,Brewers,Y,1060000.0,Jake Odorizzi,RHP,13.4,16.0,24.0,0.0,0.083,0.203,227.0,71.0,65.0,3.95,1.24,1.0,HS,"Highland HS (Highland, IL)",1
 2008,1,33,Mets,Y,1040000.0,Bradley Holt,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of North Carolina at Wilmington (Wilmington, NC)",0
-2008,1,34,Phillies,Y,1020000.0,*Zach Collier,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Chino Hills HS (Chino Hills, CA)",1
-2008,1,35,Brewers,Y,1010000.0,*Evan Frederickson,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of San Francisco (San Francisco, CA)",1
+2008,1,34,Phillies,Y,1020000.0,Zach Collier,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Chino Hills HS (Chino Hills, CA)",1
+2008,1,35,Brewers,Y,1010000.0,Evan Frederickson,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of San Francisco (San Francisco, CA)",1
 2008,1,36,Royals,Y,988000.0,Mike Montgomery,LHP,5.9,117.0,80.0,1.0,0.125,0.311,183.0,23.0,34.0,3.84,1.35,3.0,HS,"William S. Hart HS (Santa Clarita, CA)",0
-2008,1,37,Giants,Y,970000.0,*Conor Gillaspie,3B,2.2,513.0,1424.0,33.0,0.251,0.695,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Wichita State University (Wichita, KS)",0
-2008,1,38,Astros,Y,930000.0,*Jordan Lyles,RHP,-2.4,218.0,223.0,2.0,0.112,0.314,305.0,58.0,86.0,5.17,1.43,2.0,HS,"Hartsville HS (Hartsville, SC)",0
-2008,1,39,Cardinals,Y,938000.0,*Lance Lynn,RHP,29.5,176.0,283.0,0.0,0.085,0.23,293.0,116.0,78.0,3.51,1.27,1.0,4Yr,"University of Mississippi (Oxford, MS)",0
-2008,1,40,Braves,Y,1000000.0,*Brett DeVall,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Niceville HS (Niceville, FL)",0
-2008,1,41,Cubs,Y,906000.0,*Ryan Flaherty,SS,1.1,547.0,1324.0,37.0,0.215,0.629,1.0,0.0,0.0,18.0,3.0,0.0,4Yr,"Vanderbilt University (Nashville, TN)",1
+2008,1,37,Giants,Y,970000.0,Conor Gillaspie,3B,2.2,513.0,1424.0,33.0,0.251,0.695,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Wichita State University (Wichita, KS)",0
+2008,1,38,Astros,Y,930000.0,Jordan Lyles,RHP,-2.4,218.0,223.0,2.0,0.112,0.314,305.0,58.0,86.0,5.17,1.43,2.0,HS,"Hartsville HS (Hartsville, SC)",0
+2008,1,39,Cardinals,Y,938000.0,Lance Lynn,RHP,29.5,176.0,283.0,0.0,0.085,0.23,293.0,116.0,78.0,3.51,1.27,1.0,4Yr,"University of Mississippi (Oxford, MS)",0
+2008,1,40,Braves,Y,1000000.0,Brett DeVall,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Niceville HS (Niceville, FL)",0
+2008,1,41,Cubs,Y,906000.0,Ryan Flaherty,SS,1.1,547.0,1324.0,37.0,0.215,0.629,1.0,0.0,0.0,18.0,3.0,0.0,4Yr,"Vanderbilt University (Nashville, TN)",1
 2008,1,42,Padres,Y,892000.0,Jaff Decker,OF,-1.5,77.0,161.0,1.0,0.174,0.51,1.0,0.0,0.0,0.0,2.0,0.0,HS,"Sunrise Mountain HS (Peoria, AZ)",0
-2008,1,43,Diamondbacks,Y,877000.0,*Wade Miley,LHP,17.0,157.0,297.0,1.0,0.158,0.389,287.0,98.0,92.0,4.13,1.38,0.0,4Yr,"Southeastern Louisiana University (Hammond, LA)",0
-2008,1,44,Yankees,Y,700000.0,*Jeremy Bleich,LHP,-0.1,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,54.0,6.0,0.0,4Yr,"Stanford University (Palo Alto, CA)",0
-2008,1,45,Red Sox,Y,849000.0,*Bryan Price,RHP,-0.2,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,20.25,3.38,0.0,4Yr,"Rice University (Houston, TX)",1
-2008,1,46,Padres,Y,835000.0,*Logan Forsythe,3B,12.1,970.0,3120.0,71.0,0.244,0.695,1.0,0.0,0.0,9.0,3.0,0.0,4Yr,"University of Arkansas (Fayetteville, AR)",0
+2008,1,43,Diamondbacks,Y,877000.0,Wade Miley,LHP,17.0,157.0,297.0,1.0,0.158,0.389,287.0,98.0,92.0,4.13,1.38,0.0,4Yr,"Southeastern Louisiana University (Hammond, LA)",0
+2008,1,44,Yankees,Y,700000.0,Jeremy Bleich,LHP,-0.1,1.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,54.0,6.0,0.0,4Yr,"Stanford University (Palo Alto, CA)",0
+2008,1,45,Red Sox,Y,849000.0,Bryan Price,RHP,-0.2,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,20.25,3.38,0.0,4Yr,"Rice University (Houston, TX)",1
+2008,1,46,Padres,Y,835000.0,Logan Forsythe,3B,12.1,970.0,3120.0,71.0,0.244,0.695,1.0,0.0,0.0,9.0,3.0,0.0,4Yr,"University of Arkansas (Fayetteville, AR)",0
 2009,1,1,Nationals,Y,7500000.0,Stephen Strasburg,RHP,32.3,233.0,440.0,4.0,0.152,0.4,247.0,113.0,62.0,3.24,1.1,0.0,4Yr,"San Diego State University (San Diego, CA)",0
 2009,1,2,Mariners,Y,6000000.0,Dustin Ackley,CF,7.7,635.0,2125.0,46.0,0.241,0.672,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of North Carolina at Chapel Hill (Chapel Hill, NC)",0
 2009,1,3,Padres,Y,6250000.0,Donavan Tate,CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Cartersville HS (Cartersville, GA)",0
@@ -413,46 +413,46 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2009,1,7,Braves,Y,2420000.0,Mike Minor,LHP,19.2,115.0,217.0,2.0,0.115,0.321,282.0,80.0,83.0,4.18,1.23,6.0,4Yr,"Vanderbilt University (Nashville, TN)",0
 2009,1,8,Reds,Y,2270000.0,Mike Leake,RHP,16.2,269.0,485.0,6.0,0.192,0.491,301.0,105.0,98.0,4.05,1.28,0.0,4Yr,"Arizona State University (Tempe, AZ)",0
 2009,1,9,Tigers,Y,4700000.0,Jacob Turner,RHP,-2.6,73.0,77.0,0.0,0.091,0.257,102.0,14.0,31.0,5.37,1.54,0.0,HS,"Westminster Christian Academy (Town and Country, MO)",0
-2009,1,10,Nationals,Y,1600000.0,*Drew Storen,RHP,4.8,399.0,3.0,0.0,0.333,0.667,470.0,29.0,18.0,3.45,1.19,99.0,4Yr,"Stanford University (Palo Alto, CA)",0
+2009,1,10,Nationals,Y,1600000.0,Drew Storen,RHP,4.8,399.0,3.0,0.0,0.333,0.667,470.0,29.0,18.0,3.45,1.19,99.0,4Yr,"Stanford University (Palo Alto, CA)",0
 2009,1,11,Rockies,Y,3900000.0,Tyler Matzek,LHP,5.5,91.0,46.0,0.0,0.217,0.511,129.0,12.0,20.0,3.55,1.36,0.0,HS,"Capistrano Valley HS (Mission Viejo, CA)",1
 2009,1,12,Royals,Y,1500000.0,Aaron Crow,RHP,2.7,17.0,0.0,0.0,0.0,0.0,254.0,20.0,11.0,3.43,1.32,6.0,None,,0
 2009,1,13,Athletics,Y,2750000.0,Grant Green,SS,-1.7,129.0,330.0,4.0,0.249,0.62,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Southern California (Los Angeles, CA)",0
 2009,1,14,Rangers,N,0.0,Matt Purke,LHP,-0.1,0.0,0.0,0.0,0.0,0.0,12.0,0.0,1.0,5.5,1.78,0.0,HS,"Klein HS (Klein, TX)",0
 2009,1,15,Indians,Y,2250000.0,Alex White,RHP,-0.4,34.0,41.0,2.0,0.146,0.484,33.0,5.0,13.0,6.03,1.69,0.0,4Yr,"University of North Carolina at Chapel Hill (Chapel Hill, NC)",0
 2009,1,16,Diamondbacks,Y,1800000.0,Bobby Borchering,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Bishop Verot HS (Fort Myers, FL)",0
-2009,1,17,Diamondbacks ,Y,1400000.0,*AJ Pollock,CF,22.8,959.0,3388.0,130.0,0.279,0.808,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Notre Dame (South Bend, IN)",0
+2009,1,17,Diamondbacks ,Y,1400000.0,AJ Pollock,CF,22.8,959.0,3388.0,130.0,0.279,0.808,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Notre Dame (South Bend, IN)",0
 2009,1,18,Marlins,Y,1700000.0,Chad James,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Yukon HS (Yukon, OK)",0
 2009,1,19,Cardinals,Y,2875000.0,Shelby Miller,RHP,7.6,141.0,203.0,1.0,0.108,0.347,163.0,38.0,57.0,4.19,1.37,0.0,HS,"Brownwood HS (Brownwood, TX)",1
 2009,1,20,Blue Jays,Y,1359000.0,Chad Jenkins,RHP,1.4,4.0,2.0,0.0,0.0,0.0,46.0,3.0,4.0,3.31,1.25,0.0,4Yr,"Kennesaw State University (Kennesaw, GA)",0
 2009,1,21,Astros,Y,1358000.0,Jiovanni Mier,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Bonita HS (La Verne, CA)",0
 2009,1,22,Twins,Y,1850000.0,Kyle Gibson,RHP,14.0,23.0,48.0,1.0,0.167,0.429,252.0,83.0,86.0,4.48,1.39,0.0,4Yr,"University of Missouri (Columbia, MO)",1
 2009,1,23,White Sox,Y,1200000.0,Jared Mitchell,CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Louisiana State University (Baton Rouge, LA)",0
-2009,1,24,Angels ,Y,1242000.0,*Randal Grichuk,LF,10.5,951.0,3270.0,164.0,0.246,0.758,1.0,0.0,0.0,0.0,0.0,0.0,HS,"Lamar Consolidated HS (Rosenberg, TX)",1
-2009,1,25,Angels ,Y,1215000.0,*Mike Trout,CF,79.8,1362.0,4920.0,333.0,0.303,1.001,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Millville Senior HS (Millville, NJ)",1
+2009,1,24,Angels ,Y,1242000.0,Randal Grichuk,LF,10.5,951.0,3270.0,164.0,0.246,0.758,1.0,0.0,0.0,0.0,0.0,0.0,HS,"Lamar Consolidated HS (Rosenberg, TX)",1
+2009,1,25,Angels ,Y,1215000.0,Mike Trout,CF,79.8,1362.0,4920.0,333.0,0.303,1.001,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Millville Senior HS (Millville, NJ)",1
 2009,1,26,Brewers,Y,1197000.0,Eric Arnett,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Indiana University Bloomington (Bloomington, IN)",0
-2009,1,27,Mariners ,Y,1280000.0,*Nick Franklin,SS,1.2,301.0,833.0,24.0,0.214,0.644,1.0,0.0,0.0,18.0,3.0,0.0,HS,"Lake Brantley HS (Altamonte Springs, FL)",0
+2009,1,27,Mariners ,Y,1280000.0,Nick Franklin,SS,1.2,301.0,833.0,24.0,0.214,0.644,1.0,0.0,0.0,18.0,3.0,0.0,HS,"Lake Brantley HS (Altamonte Springs, FL)",0
 2009,1,28,Red Sox,Y,1134000.0,Rey Fuentes,CF,-0.6,100.0,210.0,3.0,0.238,0.595,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Fernando Callejo HS (Manati, Puerto Rico)",1
-2009,1,29,Yankees,Y,2200000.0,*Slade Heathcott,CF,0.4,17.0,25.0,2.0,0.4,1.149,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Texas HS (Texarkana, TX)",1
+2009,1,29,Yankees,Y,2200000.0,Slade Heathcott,CF,0.4,17.0,25.0,2.0,0.4,1.149,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Texas HS (Texarkana, TX)",1
 2009,1,30,Rays,N,0.0,LeVon Washington,2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"F. W. Buchholz HS (Gainesville, FL)",0
 2009,1,31,Cubs,Y,972000.0,Brett Jackson,CF,0.0,51.0,124.0,4.0,0.169,0.63,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Berkeley (Berkeley, CA)",0
-2009,1,32,Rockies ,Y,900000.0,*Tim Wheeler,CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California State University, Sacramento (Sacramento, CA)",1
-2009,1,33,Mariners,Y,980000.0,*Steven Baron,C,-0.4,13.0,26.0,0.0,0.115,0.269,0.0,0.0,0.0,0.0,0.0,0.0,HS,"John A. Ferguson School (Miami, FL)",0
-2009,1,34,Rockies,Y,969000.0,*Rex Brothers,LHP,4.4,355.0,6.0,0.0,0.0,0.0,374.0,23.0,16.0,4.08,1.49,21.0,4Yr,"Lipscomb University (Nashville, TN)",1
-2009,1,35,Diamondbacks,Y,900000.0,*Matt Davidson,3B,-0.7,306.0,1003.0,54.0,0.22,0.719,6.0,0.0,0.0,2.84,1.26,0.0,HS,"Yucaipa HS (Yucaipa, CA)",0
-2009,1,36,Dodgers,Y,889200.0,*Aaron Miller,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Baylor University (Waco, TX)",1
-2009,1,37,Blue Jays,N,0.0,*James Paxton,LHP,12.5,8.0,12.0,0.0,0.0,0.143,137.0,57.0,33.0,3.59,1.21,0.0,4Yr,"University of Kentucky (Lexington, KY)",0
-2009,1,38,White Sox,Y,858600.0,*Josh Phegley,C,2.1,387.0,1116.0,35.0,0.225,0.649,1.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Indiana University Bloomington (Bloomington, IN)",0
-2009,1,39,Brewers,Y,1200000.0,*Kentrail Davis,CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Tennessee (Knoxville, TN)",0
-2009,1,40,Angels,Y,1000000.0,*Tyler Skaggs,LHP,3.6,17.0,23.0,0.0,0.087,0.212,96.0,28.0,38.0,4.41,1.33,0.0,HS,"Santa Monica HS (Santa Monica, CA)",1
-2009,1,41,Diamondbacks,Y,950000.0,*Chris Owings,SS,2.3,710.0,2280.0,37.0,0.24,0.653,2.0,0.0,0.0,16.88,3.38,0.0,HS,"Gilbert HS (Gilbert, SC)",0
-2009,1,42,Angels,Y,802800.0,*Garrett Richards,RHP,9.0,16.0,20.0,0.0,0.05,0.15,248.0,55.0,50.0,3.78,1.3,5.0,4Yr,"University of Oklahoma (Norman, OK)",1
-2009,1,43,Reds,Y,857000.0,*Brad Boxberger,RHP,4.6,184.0,3.0,0.0,0.0,0.0,447.0,30.0,35.0,3.43,1.26,82.0,4Yr,"University of Southern California (Los Angeles, CA)",0
-2009,1,44,Rangers,Y,1250000.0,*Tanner Scheppers,RHP,0.9,12.0,0.0,0.0,0.0,0.0,180.0,12.0,7.0,4.23,1.4,3.0,None,,0
-2009,1,45,Diamondbacks,Y,725000.0,*Mike Belfiore,LHP,-0.1,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,13.5,3.0,0.0,4Yr,"Boston College (Chestnut Hill, MA)",0
-2009,1,46,Twins,Y,751500.0,*Matt Bashore,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Indiana University Bloomington (Bloomington, IN)",1
-2009,1,47,Brewers,Y,776000.0,*Kyle Heckathorn,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Kennesaw State University (Kennesaw, GA)",0
-2009,1,48,Angels,Y,728100.0,*Tyler Kehrer,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Eastern Illinois University (Charleston, IL)",1
-2009,1,49,Pirates,Y,717000.0,*Vic Black,RHP,0.5,57.0,0.0,0.0,0.0,0.0,59.0,5.0,3.0,2.96,1.32,1.0,4Yr,"Dallas Baptist University (Dallas, TX)",0
+2009,1,32,Rockies ,Y,900000.0,Tim Wheeler,CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California State University, Sacramento (Sacramento, CA)",1
+2009,1,33,Mariners,Y,980000.0,Steven Baron,C,-0.4,13.0,26.0,0.0,0.115,0.269,0.0,0.0,0.0,0.0,0.0,0.0,HS,"John A. Ferguson School (Miami, FL)",0
+2009,1,34,Rockies,Y,969000.0,Rex Brothers,LHP,4.4,355.0,6.0,0.0,0.0,0.0,374.0,23.0,16.0,4.08,1.49,21.0,4Yr,"Lipscomb University (Nashville, TN)",1
+2009,1,35,Diamondbacks,Y,900000.0,Matt Davidson,3B,-0.7,306.0,1003.0,54.0,0.22,0.719,6.0,0.0,0.0,2.84,1.26,0.0,HS,"Yucaipa HS (Yucaipa, CA)",0
+2009,1,36,Dodgers,Y,889200.0,Aaron Miller,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Baylor University (Waco, TX)",1
+2009,1,37,Blue Jays,N,0.0,James Paxton,LHP,12.5,8.0,12.0,0.0,0.0,0.143,137.0,57.0,33.0,3.59,1.21,0.0,4Yr,"University of Kentucky (Lexington, KY)",0
+2009,1,38,White Sox,Y,858600.0,Josh Phegley,C,2.1,387.0,1116.0,35.0,0.225,0.649,1.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Indiana University Bloomington (Bloomington, IN)",0
+2009,1,39,Brewers,Y,1200000.0,Kentrail Davis,CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Tennessee (Knoxville, TN)",0
+2009,1,40,Angels,Y,1000000.0,Tyler Skaggs,LHP,3.6,17.0,23.0,0.0,0.087,0.212,96.0,28.0,38.0,4.41,1.33,0.0,HS,"Santa Monica HS (Santa Monica, CA)",1
+2009,1,41,Diamondbacks,Y,950000.0,Chris Owings,SS,2.3,710.0,2280.0,37.0,0.24,0.653,2.0,0.0,0.0,16.88,3.38,0.0,HS,"Gilbert HS (Gilbert, SC)",0
+2009,1,42,Angels,Y,802800.0,Garrett Richards,RHP,9.0,16.0,20.0,0.0,0.05,0.15,248.0,55.0,50.0,3.78,1.3,5.0,4Yr,"University of Oklahoma (Norman, OK)",1
+2009,1,43,Reds,Y,857000.0,Brad Boxberger,RHP,4.6,184.0,3.0,0.0,0.0,0.0,447.0,30.0,35.0,3.43,1.26,82.0,4Yr,"University of Southern California (Los Angeles, CA)",0
+2009,1,44,Rangers,Y,1250000.0,Tanner Scheppers,RHP,0.9,12.0,0.0,0.0,0.0,0.0,180.0,12.0,7.0,4.23,1.4,3.0,None,,0
+2009,1,45,Diamondbacks,Y,725000.0,Mike Belfiore,LHP,-0.1,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,13.5,3.0,0.0,4Yr,"Boston College (Chestnut Hill, MA)",0
+2009,1,46,Twins,Y,751500.0,Matt Bashore,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Indiana University Bloomington (Bloomington, IN)",1
+2009,1,47,Brewers,Y,776000.0,Kyle Heckathorn,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Kennesaw State University (Kennesaw, GA)",0
+2009,1,48,Angels,Y,728100.0,Tyler Kehrer,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Eastern Illinois University (Charleston, IL)",1
+2009,1,49,Pirates,Y,717000.0,Vic Black,RHP,0.5,57.0,0.0,0.0,0.0,0.0,59.0,5.0,3.0,2.96,1.32,1.0,4Yr,"Dallas Baptist University (Dallas, TX)",0
 2010,1,1,Nationals,Y,6250000.0,Bryce Harper,OF,42.7,1347.0,4799.0,282.0,0.281,0.919,0.0,0.0,0.0,0.0,0.0,0.0,JC,"College of Southern Nevada (Henderson, NV)",0
 2010,1,2,Pirates,Y,6500000.0,Jameson Taillon,RHP,11.3,78.0,136.0,0.0,0.11,0.241,127.0,46.0,32.0,3.79,1.23,0.0,HS,"The Woodlands HS (The Woodlands, TX)",0
 2010,1,3,Orioles,Y,5250000.0,Manny Machado,SS,49.1,1367.0,5367.0,263.0,0.282,0.831,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Brito Miami Private School (Miami, FL)",0
@@ -467,12 +467,12 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2010,1,12,Reds,Y,2000000.0,Yasmani Grandal,C,20.6,1068.0,3406.0,174.0,0.238,0.793,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Miami (Coral Gables, FL)",1
 2010,1,13,White Sox,Y,1656000.0,Chris Sale,LHP,45.5,14.0,26.0,0.0,0.115,0.269,321.0,114.0,74.0,3.03,1.04,12.0,4Yr,"Florida Gulf Coast University (Fort Myers, FL)",0
 2010,1,14,Brewers,N,0.0,Dylan Covey,RHP,-3.0,4.0,4.0,0.0,0.0,0.0,71.0,6.0,29.0,6.57,1.59,0.0,HS,"Maranatha HS (Pasadena, CA)",0
-2010,1,15,Rangers,Y,1557000.0,*Jake Skole,CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Blessed Trinity Catholic HS (Roswell, GA)",1
+2010,1,15,Rangers,Y,1557000.0,Jake Skole,CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Blessed Trinity Catholic HS (Roswell, GA)",1
 2010,1,16,Cubs,Y,1060000.0,Hayden Simpson,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Southern Arkansas University (Magnolia, AR)",0
 2010,1,17,Rays,Y,1620000.0,Josh Sale,RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Bishop Blanchet HS (Seattle, WA)",1
-2010,1,18,Angels ,Y,2300000.0,*Kaleb Cowart,RHP,-1.4,171.0,370.0,6.0,0.176,0.53,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Cook HS (Adel, GA)",0
-2010,1,19,Astros ,Y,1305000.0,*Mike Foltynewicz,RHP,4.3,117.0,201.0,0.0,0.07,0.159,166.0,46.0,54.0,4.52,1.32,0.0,HS,"Minooka HS (Minooka, IL)",0
-2010,1,20,Red Sox ,Y,1359000.0,*Kolbrin Vitek,2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Ball State University (Muncie, IN)",0
+2010,1,18,Angels ,Y,2300000.0,Kaleb Cowart,RHP,-1.4,171.0,370.0,6.0,0.176,0.53,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Cook HS (Adel, GA)",0
+2010,1,19,Astros ,Y,1305000.0,Mike Foltynewicz,RHP,4.3,117.0,201.0,0.0,0.07,0.159,166.0,46.0,54.0,4.52,1.32,0.0,HS,"Minooka HS (Minooka, IL)",0
+2010,1,20,Red Sox ,Y,1359000.0,Kolbrin Vitek,2B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Ball State University (Muncie, IN)",0
 2010,1,21,Twins,Y,1332000.0,Alex Wimmers,RHP,0.2,2.0,0.0,0.0,0.0,0.0,22.0,1.0,3.0,4.38,1.66,0.0,4Yr,"The Ohio State University (Columbus, OH)",1
 2010,1,22,Rangers,Y,1000000.0,Kellin Deglan,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"R. E. Mountain Secondary (Langley, BC)",1
 2010,1,23,Marlins,Y,1700000.0,Christian Yelich,1B,34.9,1176.0,4447.0,168.0,0.289,0.848,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Westlake HS (Westlake Village, CA)",0
@@ -481,88 +481,88 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2010,1,26,Rockies,Y,1400000.0,Kyle Parker,RF,-1.6,64.0,132.0,3.0,0.182,0.513,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Clemson University (Clemson, SC)",0
 2010,1,27,Phillies,Y,1160000.0,Jesse Biddle,LHP,-0.6,77.0,2.0,0.0,0.5,1.5,99.0,6.0,2.0,5.07,1.6,1.0,HS,"Germantown Friends HS (Philadelphia, PA)",1
 2010,1,28,Dodgers,Y,5250000.0,Zach Lee,RHP,-0.3,4.0,5.0,0.0,0.0,0.0,4.0,1.0,1.0,8.53,2.21,0.0,HS,"McKinney HS (McKinney, TX)",0
-2010,1,29,Angels ,Y,1116000.0,*Cam Bedrosian,RHP,1.7,40.0,0.0,0.0,0.0,0.0,311.0,17.0,13.0,3.81,1.37,9.0,HS,"East Coweta HS (Sharpsburg, GA)",0
+2010,1,29,Angels ,Y,1116000.0,Cam Bedrosian,RHP,1.7,40.0,0.0,0.0,0.0,0.0,311.0,17.0,13.0,3.81,1.37,9.0,HS,"East Coweta HS (Sharpsburg, GA)",0
 2010,1,30,Angels,Y,1089000.0,Chevy Clarke,CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Marietta HS (Marietta, GA)",0
-2010,1,31,Rays,Y,1025000.0,*Justin O'Conner,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Cowan HS (Muncie, IN)",1
+2010,1,31,Rays,Y,1025000.0,Justin O'Conner,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Cowan HS (Muncie, IN)",1
 2010,1,32,Yankees,Y,954000.0,Cito Culver,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Irondequoit HS (Rochester, NY)",1
-2010,1,33,Astros,Y,936000.0,*Mike Kvasnicka,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Minnesota (Minneapolis, MN)",0
-2010,1,34,Blue Jays,Y,775000.0,*Aaron Sanchez,RHP,8.2,17.0,22.0,0.0,0.0,0.044,166.0,38.0,37.0,4.14,1.38,3.0,HS,"Barstow HS (Barstow, CA)",0
-2010,1,35,Braves,Y,800000.0,*Matt Lipka,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"McKinney HS (McKinney, TX)",1
-2010,1,36,Red Sox,Y,889200.0,*Bryce Brentz,LF,0.0,34.0,87.0,1.0,0.287,0.69,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Middle Tennessee State University (Murfreesboro, TN)",0
-2010,1,37,Angels,Y,873000.0,*Taylor Lindsey,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Desert Mountain HS (Scottsdale, AZ)",0
-2010,1,38,Blue Jays,Y,600000.0,*Noah Syndergaard,RHP,15.7,113.0,222.0,6.0,0.153,0.472,134.0,52.0,38.0,3.37,1.16,0.0,HS,"Legacy HS (Mansfield, TX)",0
-2010,1,39,Red Sox,Y,2550000.0,*Anthony Ranaudo,RHP,-1.6,5.0,10.0,1.0,0.1,0.5,20.0,5.0,5.0,7.01,1.59,0.0,4Yr,"Louisiana State University (Baton Rouge, LA)",0
-2010,1,40,Angels,Y,829800.0,*Ryan Bolden,CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Madison Central HS (Madison, MS)",0
-2010,1,41,Blue Jays,Y,815400.0,*Asher Wojciechowski,RHP,-0.3,24.0,15.0,0.0,0.067,0.133,58.0,9.0,15.0,5.93,1.46,0.0,4Yr,"The Citadel (Charleston, SC)",0
-2010,1,42,Rays,Y,845000.0,*Drew Vettleson,RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Central Kitsap HS (Silverdale, WA)",1
-2010,1,43,Mariners,Y,800000.0,*Taijuan Walker,RHP,9.8,61.0,112.0,1.0,0.161,0.388,152.0,49.0,47.0,3.87,1.22,0.0,HS,"Yucaipa HS (Yucaipa, CA)",0
-2010,1,44,Tigers,Y,3450000.0,*Nick Castellanos,3B,11.6,1167.0,4424.0,176.0,0.276,0.805,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Archbishop McCarthy HS (Southwest Ranches, FL)",0
-2010,1,45,Rangers,Y,1545000.0,*Luke Jackson,RHP,2.2,205.0,3.0,0.0,0.0,0.25,253.0,16.0,6.0,4.24,1.47,19.0,HS,"Calvary Christian HS (Fort Lauderdale, FL)",1
-2010,1,46,Cardinals,Y,751500.0,*Seth Blair,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Arizona State University (Tempe, AZ)",0
-2010,1,47,Rockies,Y,982500.0,*Pete Tago,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Dana Hills HS (Dana Point, CA)",0
-2010,1,48,Tigers,Y,1150000.0,*Chance Ruffin,RHP,-0.5,2.0,0.0,0.0,0.0,0.0,24.0,1.0,2.0,5.6,1.68,0.0,4Yr,"University of Texas at Austin (Austin, TX)",0
-2010,1,49,Rangers,Y,717300.0,*Mike Olt,3B,-1.7,135.0,352.0,16.0,0.168,0.58,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Connecticut (Storrs, CT)",1
-2010,1,50,Cardinals,Y,1300000.0,*Tyrell Jenkins,RHP,-0.4,14.0,13.0,0.0,0.0,0.0,14.0,2.0,4.0,5.88,1.69,0.0,HS,"Henderson HS (Henderson, TX)",0
+2010,1,33,Astros,Y,936000.0,Mike Kvasnicka,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Minnesota (Minneapolis, MN)",0
+2010,1,34,Blue Jays,Y,775000.0,Aaron Sanchez,RHP,8.2,17.0,22.0,0.0,0.0,0.044,166.0,38.0,37.0,4.14,1.38,3.0,HS,"Barstow HS (Barstow, CA)",0
+2010,1,35,Braves,Y,800000.0,Matt Lipka,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"McKinney HS (McKinney, TX)",1
+2010,1,36,Red Sox,Y,889200.0,Bryce Brentz,LF,0.0,34.0,87.0,1.0,0.287,0.69,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Middle Tennessee State University (Murfreesboro, TN)",0
+2010,1,37,Angels,Y,873000.0,Taylor Lindsey,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Desert Mountain HS (Scottsdale, AZ)",0
+2010,1,38,Blue Jays,Y,600000.0,Noah Syndergaard,RHP,15.7,113.0,222.0,6.0,0.153,0.472,134.0,52.0,38.0,3.37,1.16,0.0,HS,"Legacy HS (Mansfield, TX)",0
+2010,1,39,Red Sox,Y,2550000.0,Anthony Ranaudo,RHP,-1.6,5.0,10.0,1.0,0.1,0.5,20.0,5.0,5.0,7.01,1.59,0.0,4Yr,"Louisiana State University (Baton Rouge, LA)",0
+2010,1,40,Angels,Y,829800.0,Ryan Bolden,CF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Madison Central HS (Madison, MS)",0
+2010,1,41,Blue Jays,Y,815400.0,Asher Wojciechowski,RHP,-0.3,24.0,15.0,0.0,0.067,0.133,58.0,9.0,15.0,5.93,1.46,0.0,4Yr,"The Citadel (Charleston, SC)",0
+2010,1,42,Rays,Y,845000.0,Drew Vettleson,RF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Central Kitsap HS (Silverdale, WA)",1
+2010,1,43,Mariners,Y,800000.0,Taijuan Walker,RHP,9.8,61.0,112.0,1.0,0.161,0.388,152.0,49.0,47.0,3.87,1.22,0.0,HS,"Yucaipa HS (Yucaipa, CA)",0
+2010,1,44,Tigers,Y,3450000.0,Nick Castellanos,3B,11.6,1167.0,4424.0,176.0,0.276,0.805,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Archbishop McCarthy HS (Southwest Ranches, FL)",0
+2010,1,45,Rangers,Y,1545000.0,Luke Jackson,RHP,2.2,205.0,3.0,0.0,0.0,0.25,253.0,16.0,6.0,4.24,1.47,19.0,HS,"Calvary Christian HS (Fort Lauderdale, FL)",1
+2010,1,46,Cardinals,Y,751500.0,Seth Blair,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Arizona State University (Tempe, AZ)",0
+2010,1,47,Rockies,Y,982500.0,Pete Tago,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Dana Hills HS (Dana Point, CA)",0
+2010,1,48,Tigers,Y,1150000.0,Chance Ruffin,RHP,-0.5,2.0,0.0,0.0,0.0,0.0,24.0,1.0,2.0,5.6,1.68,0.0,4Yr,"University of Texas at Austin (Austin, TX)",0
+2010,1,49,Rangers,Y,717300.0,Mike Olt,3B,-1.7,135.0,352.0,16.0,0.168,0.58,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Connecticut (Storrs, CT)",1
+2010,1,50,Cardinals,Y,1300000.0,Tyrell Jenkins,RHP,-0.4,14.0,13.0,0.0,0.0,0.0,14.0,2.0,4.0,5.88,1.69,0.0,HS,"Henderson HS (Henderson, TX)",0
 2011,1,1,Pirates,Y,8000000.0,Gerrit Cole,RHP,33.3,128.0,251.0,3.0,0.163,0.393,250.0,124.0,65.0,3.19,1.11,0.0,4Yr,"University of California, Los Angeles (Los Angeles, CA)",0
 2011,1,2,Mariners,Y,6350000.0,Danny Hultzen,LHP,0.2,6.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0.0,1.8,0.0,4Yr,"University of Virginia (Charlottesville, VA)",0
 2011,1,3,Diamondbacks,Y,3400000.0,Trevor Bauer,RHP,21.0,40.0,73.0,0.0,0.069,0.185,222.0,83.0,69.0,3.79,1.24,1.0,4Yr,"University of California, Los Angeles (Los Angeles, CA)",1
 2011,1,4,Orioles,Y,4000000.0,Dylan Bundy,RHP,7.8,8.0,14.0,0.0,0.143,0.286,175.0,50.0,61.0,4.7,1.3,0.0,HS,"Owasso HS (Owasso, OK)",0
 2011,1,5,Royals,Y,7500000.0,Bubba Starling,OF,-1.8,91.0,245.0,5.0,0.204,0.544,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Gardner-Edgerton HS (Gardner, KS)",0
 2011,1,6,Nationals,Y,6000000.0,Anthony Rendon,3B,33.1,1071.0,3992.0,156.0,0.285,0.848,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Rice University (Houston, TX)",0
-2011,1,7,Diamondbacks,Y,5000000.0,*Archie Bradley,RHP,5.8,274.0,63.0,0.0,0.095,0.189,329.0,30.0,29.0,3.92,1.36,32.0,HS,"Broken Arrow HS (Broken Arrow, OK)",1
+2011,1,7,Diamondbacks,Y,5000000.0,Archie Bradley,RHP,5.8,274.0,63.0,0.0,0.095,0.189,329.0,30.0,29.0,3.92,1.36,32.0,HS,"Broken Arrow HS (Broken Arrow, OK)",1
 2011,1,8,Indians,Y,2900000.0,Francisco Lindor,SS,33.2,983.0,3904.0,171.0,0.275,0.814,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Montverde Academy (Montverde, FL)",0
 2011,1,9,Cubs,Y,2625000.0,Javier Baez,SS,23.7,930.0,3301.0,156.0,0.26,0.769,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Arlington Country Day School (Jacksonville, FL)",0
-2011,1,10,Padres,Y,1863000.0,*Cory Spangenberg,2B,4.7,419.0,1250.0,29.0,0.256,0.704,2.0,0.0,0.0,13.5,3.5,0.0,JC,"Indian River State College (Fort Pierce, FL)",0
+2011,1,10,Padres,Y,1863000.0,Cory Spangenberg,2B,4.7,419.0,1250.0,29.0,0.256,0.704,2.0,0.0,0.0,13.5,3.5,0.0,JC,"Indian River State College (Fort Pierce, FL)",0
 2011,1,11,Astros,Y,2525000.0,George Springer,OF,32.3,947.0,3660.0,211.0,0.268,0.853,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Connecticut (Storrs, CT)",0
 2011,1,12,Brewers,Y,2525000.0,Taylor Jungmann,RHP,1.2,30.0,45.0,0.0,0.244,0.55,30.0,9.0,13.0,4.54,1.38,0.0,4Yr,"University of Texas at Austin (Austin, TX)",1
 2011,1,13,Mets,Y,2100000.0,Brandon Nimmo,OF,14.7,531.0,1674.0,54.0,0.268,0.831,0.0,0.0,0.0,0.0,0.0,0.0,HS,"East HS (Cheyenne, WY)",0
 2011,1,14,Marlins,Y,2000000.0,Jose Fernandez,RHP,14.2,71.0,136.0,2.0,0.213,0.519,76.0,38.0,17.0,2.58,1.05,0.0,HS,"Braulio Alonso HS (Tampa, FL)",0
-2011,1,15,Brewers,Y,2000000.0,*Jed Bradley,LHP,0.0,6.0,0.0,0.0,0.0,0.0,6.0,1.0,1.0,5.14,1.86,0.0,4Yr,"Georgia Institute of Technology (Atlanta, GA)",1
+2011,1,15,Brewers,Y,2000000.0,Jed Bradley,LHP,0.0,6.0,0.0,0.0,0.0,0.0,6.0,1.0,1.0,5.14,1.86,0.0,4Yr,"Georgia Institute of Technology (Atlanta, GA)",1
 2011,1,16,Dodgers,Y,1589000.0,Chris Reed,LHP,0.0,2.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,4.5,1.75,0.0,4Yr,"Stanford University (Palo Alto, CA)",0
 2011,1,17,Angels,Y,1467000.0,C.J. Cron,1B,13.4,910.0,3156.0,166.0,0.265,0.808,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Utah (Salt Lake City, UT)",0
 2011,1,18,Athletics,Y,1540000.0,Sonny Gray,RHP,24.0,63.0,99.0,0.0,0.141,0.328,234.0,86.0,73.0,3.56,1.21,0.0,4Yr,"Vanderbilt University (Nashville, TN)",0
-2011,1,19,Red Sox ,Y,1500000.0,*Matt Barnes,RHP,3.2,25.0,1.0,0.0,0.0,0.0,405.0,32.0,29.0,4.2,1.35,41.0,4Yr,"University of Connecticut (Storrs, CT)",0
+2011,1,19,Red Sox ,Y,1500000.0,Matt Barnes,RHP,3.2,25.0,1.0,0.0,0.0,0.0,405.0,32.0,29.0,4.2,1.35,41.0,4Yr,"University of Connecticut (Storrs, CT)",0
 2011,1,20,Rockies,Y,1400000.0,Tyler Anderson,LHP,9.3,92.0,157.0,2.0,0.096,0.284,132.0,38.0,39.0,4.44,1.28,0.0,4Yr,"University of Oregon (Eugene, OR)",0
 2011,1,21,Blue Jays,N,0.0,Tyler Beede,RHP,0.2,28.0,40.0,0.0,0.1,0.263,46.0,5.0,12.0,5.07,1.53,0.0,HS,"Lawrence Academy (Groton, MA)",0
 2011,1,22,Cardinals,Y,1300000.0,Kolten Wong,2B,20.7,1029.0,3349.0,73.0,0.261,0.727,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Hawaii at Manoa (Honolulu, HI)",1
-2011,1,23,Nationals ,Y,2000000.0,*Alex Meyer,RHP,0.7,3.0,2.0,0.0,0.5,1.0,22.0,5.0,8.0,4.63,1.46,0.0,4Yr,"University of Kentucky (Lexington, KY)",0
-2011,1,24,Rays ,Y,1600000.0,*Taylor Guerrieri,RHP,0.2,2.0,0.0,0.0,0.0,0.0,29.0,0.0,0.0,5.5,1.69,0.0,HS,"Spring Valley HS (Columbia, SC)",1
+2011,1,23,Nationals ,Y,2000000.0,Alex Meyer,RHP,0.7,3.0,2.0,0.0,0.5,1.0,22.0,5.0,8.0,4.63,1.46,0.0,4Yr,"University of Kentucky (Lexington, KY)",0
+2011,1,24,Rays ,Y,1600000.0,Taylor Guerrieri,RHP,0.2,2.0,0.0,0.0,0.0,0.0,29.0,0.0,0.0,5.5,1.69,0.0,HS,"Spring Valley HS (Columbia, SC)",1
 2011,1,25,Padres,Y,2750000.0,Joe Ross,RHP,4.9,110.0,157.0,0.0,0.185,0.434,98.0,26.0,28.0,4.26,1.33,0.0,HS,"Bishop O'Dowd HS (Oakland, CA)",0
-2011,1,26,Red Sox ,Y,2500000.0,*Blake Swihart,C,-0.3,234.0,639.0,12.0,0.243,0.656,0.0,0.0,0.0,0.0,0.0,0.0,HS,"V Sue Cleveland HS (Rio Rancho, NM)",0
+2011,1,26,Red Sox ,Y,2500000.0,Blake Swihart,C,-0.3,234.0,639.0,12.0,0.243,0.656,0.0,0.0,0.0,0.0,0.0,0.0,HS,"V Sue Cleveland HS (Rio Rancho, NM)",0
 2011,1,27,Reds,Y,2000000.0,Robert Stephenson,RHP,-0.4,137.0,36.0,0.0,0.028,0.082,179.0,12.0,15.0,4.94,1.45,2.0,HS,"Alhambra HS (Martinez, CA)",0
 2011,1,28,Braves,Y,1134000.0,Sean Gilmartin,LHP,1.1,64.0,7.0,0.0,0.429,1.0,81.0,4.0,5.0,4.34,1.42,0.0,4Yr,"Florida State University (Tallahassee, FL)",0
 2011,1,29,Giants,Y,1116000.0,Joe Panik,SS,5.4,818.0,2778.0,42.0,0.264,0.7,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"St. John's University (Queens, NY)",0
 2011,1,30,Twins,Y,1175000.0,Levi Michael,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of North Carolina at Chapel Hill (Chapel Hill, NC)",0
-2011,1,31,Rays ,Y,1150000.0,*Mikie Mahtook,OF,0.3,291.0,884.0,33.0,0.235,0.697,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Louisiana State University (Baton Rouge, LA)",1
+2011,1,31,Rays ,Y,1150000.0,Mikie Mahtook,OF,0.3,291.0,884.0,33.0,0.235,0.697,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Louisiana State University (Baton Rouge, LA)",1
 2011,1,32,Rays,Y,963000.0,Jake Hager,SS,-0.1,42.0,76.0,0.0,0.197,0.531,3.0,0.0,0.0,7.71,1.29,0.0,HS,"Sierra Vista HS (Las Vegas, NV)",1
-2011,1,33,Rangers ,Y,936000.0,*Kevin Matthews,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Richmond Hill HS (Richmond Hill, GA)",1
-2011,1,34,Nationals,Y,3000000.0,*Brian Goodwin,OF,1.5,429.0,1244.0,50.0,0.244,0.757,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Miami Dade College, Kendall Campus (Miami, FL)",0
-2011,1,35,Blue Jays,Y,990000.0,*Jacob Anderson,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Chino HS (Chino, CA)",0
-2011,1,36,Red Sox,Y,1550000.0,*Henry Owens,LHP,0.1,1.0,2.0,0.0,0.0,0.0,16.0,4.0,6.0,5.19,1.52,0.0,HS,"Edison HS (Huntington Beach, CA)",0
-2011,1,37,Rangers,Y,873000.0,*Zach Cone,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Georgia (Athens, GA)",1
-2011,1,38,Rays,Y,860000.0,*Brandon Martin,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Santiago HS (Corona, CA)",1
-2011,1,39,Phillies,Y,1000000.0,*Larry Greene,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Berrien County HS (Nashville, GA)",1
-2011,1,40,Red Sox,Y,1100000.0,*Jackie Bradley Jr.,OF,17.4,1080.0,3507.0,105.0,0.229,0.697,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of South Carolina (Columbia, SC)",0
-2011,1,41,Rays,Y,1500000.0,*Tyler Goeddel,3B,-1.2,92.0,213.0,4.0,0.193,0.549,0.0,0.0,0.0,0.0,0.0,0.0,HS,"St. Francis HS (Mountain View, CA)",1
-2011,1,42,Rays,Y,650000.0,*Jeff Ames,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"Lower Columbia College (Longview, WA)",1
-2011,1,43,Diamondbacks,Y,875000.0,*Andrew Chafin,LHP,7.2,347.0,5.0,0.0,0.2,0.4,441.0,12.0,18.0,3.25,1.22,9.0,4Yr,"Kent State University (Kent, OH)",1
-2011,1,44,Mets,Y,937500.0,*Michael Fulmer,RHP,12.7,11.0,13.0,0.0,0.0,0.0,168.0,31.0,41.0,3.85,1.23,15.0,HS,"Deer Creek HS (Edmond, OK)",0
-2011,1,45,Rockies,Y,915000.0,*Trevor Story,SS,28.9,820.0,3107.0,172.0,0.268,0.85,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Irving HS (Irving, TX)",0
-2011,1,46,Blue Jays,Y,500000.0,*Joe Musgrove,RHP,10.0,104.0,138.0,0.0,0.145,0.358,154.0,48.0,49.0,3.81,1.16,2.0,HS,"Grossmont HS (La Mesa, CA)",0
-2011,1,47,White Sox,Y,795000.0,*Keenyn Walker,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"Central Arizona College (Coolidge, AZ)",0
-2011,1,48,Padres,Y,718000.0,*Michael Kelly,RHP,0.1,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.5,0.0,HS,"West Boca Raton Community HS (Boca Raton, FL)",0
-2011,1,49,Giants,Y,900000.0,*Kyle Crick,RHP,1.6,162.0,0.0,0.0,0.0,0.0,194.0,9.0,11.0,3.56,1.32,2.0,HS,"Sherman HS (Sherman, TX)",0
-2011,1,50,Twins,Y,1050000.0,*Travis Harrison,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Tustin HS (Tustin, CA)",0
-2011,1,51,Yankees,Y,750000.0,*Dante Bichette,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Orangewood Christian HS (Maitland, FL)",1
-2011,1,52,Rays,Y,684000.0,*Blake Snell,LHP,12.7,31.0,42.0,0.0,0.095,0.269,143.0,49.0,41.0,3.51,1.26,0.0,HS,"Shorewood HS (Shoreline, WA)",1
-2011,1,53,Blue Jays,Y,800000.0,*Dwight Smith Jr.,OF,-0.8,169.0,512.0,17.0,0.248,0.726,0.0,0.0,0.0,0.0,0.0,0.0,HS,"McIntosh HS (Peachtree City, GA)",0
-2011,1,54,Padres,N,0.0,*Brett Austin,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Providence HS (Charlotte, NC)",0
-2011,1,55,Twins,Y,1000000.0,*Hudson Boyd,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Bishop Verot HS (Fort Myers, FL)",0
-2011,1,56,Rays,Y,625000.0,*Kes Carter,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Western Kentucky University (Bowling Green, KY)",1
-2011,1,57,Blue Jays,Y,1650000.0,*Kevin Comer,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Seneca HS (Tabernacle, NJ)",0
-2011,1,58,Padres,Y,624600.0,*Jace Peterson,SS,3.6,700.0,1925.0,35.0,0.232,0.668,3.0,0.0,0.0,18.0,3.67,0.0,4Yr,"McNeese State University (Lake Charles, LA)",0
-2011,1,59,Rays,Y,370000.0,*Grayson Garvin,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Vanderbilt University (Nashville, TN)",1
-2011,1,60,Rays,Y,490000.0,*James Harris,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Oakland Technical HS (Oakland, CA)",1
+2011,1,33,Rangers ,Y,936000.0,Kevin Matthews,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Richmond Hill HS (Richmond Hill, GA)",1
+2011,1,34,Nationals,Y,3000000.0,Brian Goodwin,OF,1.5,429.0,1244.0,50.0,0.244,0.757,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Miami Dade College, Kendall Campus (Miami, FL)",0
+2011,1,35,Blue Jays,Y,990000.0,Jacob Anderson,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Chino HS (Chino, CA)",0
+2011,1,36,Red Sox,Y,1550000.0,Henry Owens,LHP,0.1,1.0,2.0,0.0,0.0,0.0,16.0,4.0,6.0,5.19,1.52,0.0,HS,"Edison HS (Huntington Beach, CA)",0
+2011,1,37,Rangers,Y,873000.0,Zach Cone,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Georgia (Athens, GA)",1
+2011,1,38,Rays,Y,860000.0,Brandon Martin,SS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Santiago HS (Corona, CA)",1
+2011,1,39,Phillies,Y,1000000.0,Larry Greene,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Berrien County HS (Nashville, GA)",1
+2011,1,40,Red Sox,Y,1100000.0,Jackie Bradley Jr.,OF,17.4,1080.0,3507.0,105.0,0.229,0.697,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of South Carolina (Columbia, SC)",0
+2011,1,41,Rays,Y,1500000.0,Tyler Goeddel,3B,-1.2,92.0,213.0,4.0,0.193,0.549,0.0,0.0,0.0,0.0,0.0,0.0,HS,"St. Francis HS (Mountain View, CA)",1
+2011,1,42,Rays,Y,650000.0,Jeff Ames,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"Lower Columbia College (Longview, WA)",1
+2011,1,43,Diamondbacks,Y,875000.0,Andrew Chafin,LHP,7.2,347.0,5.0,0.0,0.2,0.4,441.0,12.0,18.0,3.25,1.22,9.0,4Yr,"Kent State University (Kent, OH)",1
+2011,1,44,Mets,Y,937500.0,Michael Fulmer,RHP,12.7,11.0,13.0,0.0,0.0,0.0,168.0,31.0,41.0,3.85,1.23,15.0,HS,"Deer Creek HS (Edmond, OK)",0
+2011,1,45,Rockies,Y,915000.0,Trevor Story,SS,28.9,820.0,3107.0,172.0,0.268,0.85,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Irving HS (Irving, TX)",0
+2011,1,46,Blue Jays,Y,500000.0,Joe Musgrove,RHP,10.0,104.0,138.0,0.0,0.145,0.358,154.0,48.0,49.0,3.81,1.16,2.0,HS,"Grossmont HS (La Mesa, CA)",0
+2011,1,47,White Sox,Y,795000.0,Keenyn Walker,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,JC,"Central Arizona College (Coolidge, AZ)",0
+2011,1,48,Padres,Y,718000.0,Michael Kelly,RHP,0.1,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.5,0.0,HS,"West Boca Raton Community HS (Boca Raton, FL)",0
+2011,1,49,Giants,Y,900000.0,Kyle Crick,RHP,1.6,162.0,0.0,0.0,0.0,0.0,194.0,9.0,11.0,3.56,1.32,2.0,HS,"Sherman HS (Sherman, TX)",0
+2011,1,50,Twins,Y,1050000.0,Travis Harrison,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Tustin HS (Tustin, CA)",0
+2011,1,51,Yankees,Y,750000.0,Dante Bichette,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Orangewood Christian HS (Maitland, FL)",1
+2011,1,52,Rays,Y,684000.0,Blake Snell,LHP,12.7,31.0,42.0,0.0,0.095,0.269,143.0,49.0,41.0,3.51,1.26,0.0,HS,"Shorewood HS (Shoreline, WA)",1
+2011,1,53,Blue Jays,Y,800000.0,Dwight Smith Jr.,OF,-0.8,169.0,512.0,17.0,0.248,0.726,0.0,0.0,0.0,0.0,0.0,0.0,HS,"McIntosh HS (Peachtree City, GA)",0
+2011,1,54,Padres,N,0.0,Brett Austin,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Providence HS (Charlotte, NC)",0
+2011,1,55,Twins,Y,1000000.0,Hudson Boyd,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Bishop Verot HS (Fort Myers, FL)",0
+2011,1,56,Rays,Y,625000.0,Kes Carter,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Western Kentucky University (Bowling Green, KY)",1
+2011,1,57,Blue Jays,Y,1650000.0,Kevin Comer,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Seneca HS (Tabernacle, NJ)",0
+2011,1,58,Padres,Y,624600.0,Jace Peterson,SS,3.6,700.0,1925.0,35.0,0.232,0.668,3.0,0.0,0.0,18.0,3.67,0.0,4Yr,"McNeese State University (Lake Charles, LA)",0
+2011,1,59,Rays,Y,370000.0,Grayson Garvin,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Vanderbilt University (Nashville, TN)",1
+2011,1,60,Rays,Y,490000.0,James Harris,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Oakland Technical HS (Oakland, CA)",1
 2012,1,1,Astros,Y,4800000.0,Carlos Correa,SS,36.0,812.0,3054.0,142.0,0.278,0.836,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Puerto Rico Baseball Academy (Gurabo, Puerto Rico)",0
 2012,1,2,Twins,Y,6000000.0,Byron Buxton,OF,18.9,555.0,1845.0,92.0,0.246,0.775,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Appling County HS (Baxley, GA)",0
 2012,1,3,Mariners,Y,4000000.0,Mike Zunino,C,10.1,850.0,2674.0,146.0,0.2,0.681,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Florida (Gainesville, FL)",0
@@ -581,48 +581,48 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2012,1,16,Nationals,Y,2925000.0,Lucas Giolito,RHP,10.4,13.0,18.0,0.0,0.167,0.333,131.0,47.0,42.0,4.26,1.22,0.0,HS,"Harvard-Westlake HS (Los Angeles, CA)",1
 2012,1,17,Blue Jays,Y,1750000.0,D.J. Davis,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Stone County HS (Wiggins, MS)",0
 2012,1,18,Dodgers,Y,2350000.0,Corey Seager,SS,22.9,712.0,2719.0,119.0,0.289,0.853,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Northwest Cabarrus HS (Concord, NC)",0
-2012,1,19,Cardinals ,Y,1900000.0,*Michael Wacha,RHP,9.4,159.0,251.0,0.0,0.092,0.222,215.0,69.0,49.0,4.05,1.32,0.0,4Yr,"Texas A&M University (College Station, TX)",1
+2012,1,19,Cardinals ,Y,1900000.0,Michael Wacha,RHP,9.4,159.0,251.0,0.0,0.092,0.222,215.0,69.0,49.0,4.05,1.32,0.0,4Yr,"Texas A&M University (College Station, TX)",1
 2012,1,20,Giants,Y,1850000.0,Chris Stratton,RHP,1.0,138.0,64.0,0.0,0.125,0.264,211.0,29.0,23.0,4.6,1.45,11.0,4Yr,"Mississippi State University (Mississippi State, MS)",1
 2012,1,21,Braves,Y,1650000.0,Lucas Sims,RHP,0.9,89.0,27.0,0.0,0.074,0.148,120.0,14.0,10.0,4.97,1.29,8.0,HS,"Brookwood HS (Snellville, GA)",1
-2012,1,22,Blue Jays,Y,1800000.0,*Marcus Stroman,RHP,17.5,56.0,89.0,1.0,0.101,0.308,188.0,63.0,65.0,3.71,1.26,1.0,4Yr,"Duke University (Durham, NC)",0
+2012,1,22,Blue Jays,Y,1800000.0,Marcus Stroman,RHP,17.5,56.0,89.0,1.0,0.101,0.308,188.0,63.0,65.0,3.71,1.26,1.0,4Yr,"Duke University (Durham, NC)",0
 2012,1,23,Cardinals,Y,1600000.0,James Ramsey,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Florida State University (Tallahassee, FL)",1
 2012,1,24,Red Sox,Y,2050000.0,Deven Marrero,SS,-0.2,173.0,335.0,6.0,0.194,0.534,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Arizona State University (Tempe, AZ)",0
 2012,1,25,Rays,Y,1710000.0,Richie Shaffer,3B,0.0,51.0,122.0,5.0,0.213,0.72,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Clemson University (Clemson, SC)",0
 2012,1,26,Diamondbacks,Y,1700000.0,Stryker Trahan,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Acadiana HS (Lafayette, LA)",0
-2012,1,27,Brewers ,Y,1675000.0,*Clint Coulter,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Union HS (Camas, WA)",0
+2012,1,27,Brewers ,Y,1675000.0,Clint Coulter,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Union HS (Camas, WA)",0
 2012,1,28,Brewers,Y,1525000.0,Victor Roache,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Georgia Southern University (Statesboro, GA)",0
 2012,1,29,Rangers,Y,1625000.0,Lewis Brinson,OF,-3.4,341.0,1035.0,25.0,0.199,0.57,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Coral Springs HS (Coral Springs, FL)",1
 2012,1,30,Yankees,Y,1200000.0,Ty Hensley,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Edmond Santa Fe HS (Edmond, OK)",1
-2012,1,31,Red Sox,Y,1575000.0,*Brian Johnson,LHP,0.9,6.0,7.0,0.0,0.143,0.286,65.0,7.0,9.0,4.74,1.55,0.0,4Yr,"University of Florida (Gainesville, FL)",0
-2012,1,32,Twins,Y,1550000.0,*Jose Berrios,RHP,10.8,10.0,17.0,0.0,0.118,0.284,164.0,66.0,51.0,4.19,1.24,0.0,HS,"Papa Juan HS (Bayamon, Puerto Rico)",0
-2012,1,33,Padres,Y,1200000.0,*Zach Eflin,RHP,6.5,93.0,167.0,1.0,0.126,0.298,120.0,36.0,45.0,4.53,1.3,0.0,HS,"Paul J. Hagerty HS (Oviedo, FL)",0
-2012,1,34,Athletics,Y,1500000.0,*Daniel Robertson,SS,2.2,299.0,801.0,18.0,0.227,0.683,3.0,0.0,0.0,0.0,0.67,0.0,HS,"Upland HS (Upland, CA)",1
-2012,1,35,Mets,Y,1400000.0,*Kevin Plawecki,C,2.9,412.0,1173.0,22.0,0.232,0.655,7.0,0.0,0.0,4.7,0.91,0.0,4Yr,"Purdue University (West Lafayette, IN)",0
-2012,1,36,Cardinals,Y,1430000.0,*Stephen Piscotty,3B,7.0,703.0,2449.0,89.0,0.258,0.758,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Stanford University (Palo Alto, CA)",1
-2012,1,37,Red Sox,Y,1000000.0,*Pat Light,RHP,-0.7,2.0,0.0,0.0,0.0,0.0,17.0,0.0,1.0,11.34,2.28,0.0,4Yr,"Monmouth University (West Long Branch, NJ)",0
-2012,1,38,Brewers,Y,1200000.0,*Mitch Haniger,OF,14.2,516.0,1975.0,104.0,0.262,0.818,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California Polytechnic State University, San Luis Obispo (San Luis Obispo, CA)",0
-2012,1,39,Rangers,Y,2250000.0,*Joey Gallo,3B,14.3,692.0,2208.0,167.0,0.202,0.802,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Bishop Gorman HS (Las Vegas, NV)",1
-2012,1,40,Phillies,Y,1291300.0,*Shane Watson,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Lakewood HS (Lakewood, CA)",0
-2012,1,41,Astros,Y,2500000.0,*Lance McCullers Jr.,RHP,9.7,7.0,14.0,0.0,0.071,0.143,122.0,45.0,30.0,3.57,1.25,0.0,HS,"Jesuit HS (Tampa, FL)",0
-2012,1,42,Twins,Y,1227000.0,*Luke Bard,RHP,0.6,2.0,0.0,0.0,0.0,0.0,50.0,3.0,3.0,4.63,1.1,0.0,4Yr,"Georgia Institute of Technology (Atlanta, GA)",0
-2012,1,43,Cubs,Y,1196000.0,*Pierce Johnson,RHP,0.9,96.0,1.0,0.0,0.0,0.0,131.0,9.0,8.0,3.97,1.32,0.0,4Yr,"Missouri State University (Springfield, MO)",0
-2012,1,44,Padres,Y,975000.0,*Travis Jankowski,OF,2.7,459.0,1058.0,9.0,0.238,0.634,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"State University of New York at Stony Brook (Stony Brook, NY)",0
-2012,1,45,Pirates,Y,1000000.0,*Barrett Barnes,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Texas Tech University (Lubbock, TX)",0
-2012,1,46,Rockies,Y,1000000.0,*Eddie Butler,RHP,-2.3,58.0,61.0,0.0,0.049,0.129,79.0,12.0,22.0,5.8,1.66,2.0,4Yr,"Radford University (Radford, VA)",0
-2012,1,47,Athletics,Y,1079700.0,*Matt Olson,1B,19.8,656.0,2357.0,154.0,0.252,0.853,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Parkview HS (Lilburn, GA)",1
-2012,1,48,White Sox,Y,950000.0,*Keon Barnum,1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"C. Leon King HS (Tampa, FL)",0
-2012,1,49,Reds,Y,1000000.0,*Jesse Winker,RF,5.2,492.0,1591.0,72.0,0.277,0.851,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Olympia HS (Orlando, FL)",1
-2012,1,50,Blue Jays,Y,2000000.0,*Matt Smoral,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Solon HS (Solon, OH)",0
-2012,1,51,Dodgers,Y,984700.0,*Jesmuel Valentin,SS,-0.7,46.0,79.0,1.0,0.177,0.562,1.0,0.0,0.0,27.0,4.0,0.0,HS,"Puerto Rico Baseball Academy (Gurabo, Puerto Rico)",0
-2012,1,52,Cardinals,Y,678790.0,*Patrick Wisdom,3B,3.3,225.0,690.0,49.0,0.229,0.794,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Saint Mary's College of California (Moraga, CA)",1
-2012,1,53,Rangers,Y,975000.0,*Collin Wiles,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Blue Valley West HS (Stilwell, KS)",1
-2012,1,54,Phillies,Y,940200.0,*Mitch Gueller,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"W. F. West HS (Chehalis, WA)",0
-2012,1,55,Padres,Y,2000000.0,*Walker Weickel,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Olympia HS (Orlando, FL)",0
-2012,1,56,Cubs,Y,911700.0,*Paul Blackburn,RHP,2.4,2.0,5.0,0.0,0.0,0.0,46.0,12.0,14.0,4.64,1.36,0.0,HS,"Heritage HS (Brentwood, CA)",0
-2012,1,57,Reds,Y,825000.0,*Jeff Gelalich,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Los Angeles (Los Angeles, CA)",1
-2012,1,58,Blue Jays,Y,1000000.0,*Mitch Nay,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Hamilton HS (Chandler, AZ)",0
-2012,1,59,Cardinals,Y,700000.0,*Steve Bean,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Rockwall HS (Rockwall, TX)",1
-2012,1,60,Blue Jays,Y,750000.0,*Tyler Gonzales,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"James Madison HS (San Antonio, TX)",0
+2012,1,31,Red Sox,Y,1575000.0,Brian Johnson,LHP,0.9,6.0,7.0,0.0,0.143,0.286,65.0,7.0,9.0,4.74,1.55,0.0,4Yr,"University of Florida (Gainesville, FL)",0
+2012,1,32,Twins,Y,1550000.0,Jose Berrios,RHP,10.8,10.0,17.0,0.0,0.118,0.284,164.0,66.0,51.0,4.19,1.24,0.0,HS,"Papa Juan HS (Bayamon, Puerto Rico)",0
+2012,1,33,Padres,Y,1200000.0,Zach Eflin,RHP,6.5,93.0,167.0,1.0,0.126,0.298,120.0,36.0,45.0,4.53,1.3,0.0,HS,"Paul J. Hagerty HS (Oviedo, FL)",0
+2012,1,34,Athletics,Y,1500000.0,Daniel Robertson,SS,2.2,299.0,801.0,18.0,0.227,0.683,3.0,0.0,0.0,0.0,0.67,0.0,HS,"Upland HS (Upland, CA)",1
+2012,1,35,Mets,Y,1400000.0,Kevin Plawecki,C,2.9,412.0,1173.0,22.0,0.232,0.655,7.0,0.0,0.0,4.7,0.91,0.0,4Yr,"Purdue University (West Lafayette, IN)",0
+2012,1,36,Cardinals,Y,1430000.0,Stephen Piscotty,3B,7.0,703.0,2449.0,89.0,0.258,0.758,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Stanford University (Palo Alto, CA)",1
+2012,1,37,Red Sox,Y,1000000.0,Pat Light,RHP,-0.7,2.0,0.0,0.0,0.0,0.0,17.0,0.0,1.0,11.34,2.28,0.0,4Yr,"Monmouth University (West Long Branch, NJ)",0
+2012,1,38,Brewers,Y,1200000.0,Mitch Haniger,OF,14.2,516.0,1975.0,104.0,0.262,0.818,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California Polytechnic State University, San Luis Obispo (San Luis Obispo, CA)",0
+2012,1,39,Rangers,Y,2250000.0,Joey Gallo,3B,14.3,692.0,2208.0,167.0,0.202,0.802,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Bishop Gorman HS (Las Vegas, NV)",1
+2012,1,40,Phillies,Y,1291300.0,Shane Watson,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Lakewood HS (Lakewood, CA)",0
+2012,1,41,Astros,Y,2500000.0,Lance McCullers Jr.,RHP,9.7,7.0,14.0,0.0,0.071,0.143,122.0,45.0,30.0,3.57,1.25,0.0,HS,"Jesuit HS (Tampa, FL)",0
+2012,1,42,Twins,Y,1227000.0,Luke Bard,RHP,0.6,2.0,0.0,0.0,0.0,0.0,50.0,3.0,3.0,4.63,1.1,0.0,4Yr,"Georgia Institute of Technology (Atlanta, GA)",0
+2012,1,43,Cubs,Y,1196000.0,Pierce Johnson,RHP,0.9,96.0,1.0,0.0,0.0,0.0,131.0,9.0,8.0,3.97,1.32,0.0,4Yr,"Missouri State University (Springfield, MO)",0
+2012,1,44,Padres,Y,975000.0,Travis Jankowski,OF,2.7,459.0,1058.0,9.0,0.238,0.634,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"State University of New York at Stony Brook (Stony Brook, NY)",0
+2012,1,45,Pirates,Y,1000000.0,Barrett Barnes,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Texas Tech University (Lubbock, TX)",0
+2012,1,46,Rockies,Y,1000000.0,Eddie Butler,RHP,-2.3,58.0,61.0,0.0,0.049,0.129,79.0,12.0,22.0,5.8,1.66,2.0,4Yr,"Radford University (Radford, VA)",0
+2012,1,47,Athletics,Y,1079700.0,Matt Olson,1B,19.8,656.0,2357.0,154.0,0.252,0.853,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Parkview HS (Lilburn, GA)",1
+2012,1,48,White Sox,Y,950000.0,Keon Barnum,1B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"C. Leon King HS (Tampa, FL)",0
+2012,1,49,Reds,Y,1000000.0,Jesse Winker,RF,5.2,492.0,1591.0,72.0,0.277,0.851,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Olympia HS (Orlando, FL)",1
+2012,1,50,Blue Jays,Y,2000000.0,Matt Smoral,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Solon HS (Solon, OH)",0
+2012,1,51,Dodgers,Y,984700.0,Jesmuel Valentin,SS,-0.7,46.0,79.0,1.0,0.177,0.562,1.0,0.0,0.0,27.0,4.0,0.0,HS,"Puerto Rico Baseball Academy (Gurabo, Puerto Rico)",0
+2012,1,52,Cardinals,Y,678790.0,Patrick Wisdom,3B,3.3,225.0,690.0,49.0,0.229,0.794,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Saint Mary's College of California (Moraga, CA)",1
+2012,1,53,Rangers,Y,975000.0,Collin Wiles,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Blue Valley West HS (Stilwell, KS)",1
+2012,1,54,Phillies,Y,940200.0,Mitch Gueller,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"W. F. West HS (Chehalis, WA)",0
+2012,1,55,Padres,Y,2000000.0,Walker Weickel,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Olympia HS (Orlando, FL)",0
+2012,1,56,Cubs,Y,911700.0,Paul Blackburn,RHP,2.4,2.0,5.0,0.0,0.0,0.0,46.0,12.0,14.0,4.64,1.36,0.0,HS,"Heritage HS (Brentwood, CA)",0
+2012,1,57,Reds,Y,825000.0,Jeff Gelalich,OF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of California, Los Angeles (Los Angeles, CA)",1
+2012,1,58,Blue Jays,Y,1000000.0,Mitch Nay,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Hamilton HS (Chandler, AZ)",0
+2012,1,59,Cardinals,Y,700000.0,Steve Bean,C,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Rockwall HS (Rockwall, TX)",1
+2012,1,60,Blue Jays,Y,750000.0,Tyler Gonzales,RHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"James Madison HS (San Antonio, TX)",0
 2013,1,1,Astros,Y,6350000.0,Mark Appel,RHP,0.1,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.5,0.0,4Yr,"Stanford University (Palo Alto, CA)",0
 2013,1,2,Cubs,Y,6708400.0,Kris Bryant,3B,28.5,907.0,3375.0,167.0,0.278,0.875,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of San Diego (San Diego, CA)",0
 2013,1,3,Rockies,Y,4800000.0,Jon Gray,RHP,11.3,140.0,242.0,1.0,0.091,0.25,166.0,57.0,53.0,4.54,1.32,0.0,4Yr,"University of Oklahoma (Norman, OK)",0
@@ -631,7 +631,7 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2013,1,6,Marlins,Y,3516500.0,Colin Moran,3B,-0.2,497.0,1511.0,49.0,0.263,0.742,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of North Carolina at Chapel Hill (Chapel Hill, NC)",0
 2013,1,7,Red Sox,Y,2750000.0,Trey Ball,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"New Castle Chrysler HS (New Castle, IN)",1
 2013,1,8,Royals,Y,2200000.0,Hunter Dozier,SS,-1.4,506.0,1804.0,67.0,0.244,0.748,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Stephen F. Austin State University (Nacogdoches, TX)",0
-2013,1,9,Pirates,Y,3029600.0,*Austin Meadows,CF,6.7,411.0,1486.0,70.0,0.259,0.809,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Grayson HS (Loganville, GA)",1
+2013,1,9,Pirates,Y,3029600.0,Austin Meadows,CF,6.7,411.0,1486.0,70.0,0.259,0.809,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Grayson HS (Loganville, GA)",1
 2013,1,10,Blue Jays,N,0.0,Phil Bickford,RHP,0.9,57.0,3.0,0.0,0.333,0.667,85.0,4.0,3.0,3.84,1.1,1.0,HS,"Oaks Christian HS (Westlake, CA)",0
 2013,1,11,Mets,Y,2600000.0,Dominic Smith,1B,0.6,437.0,1217.0,46.0,0.249,0.74,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Junipero Serra HS (Gardena, CA)",0
 2013,1,12,Mariners,Y,2759100.0,D.J. Peterson,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of New Mexico (Albuquerque, NM)",0
@@ -650,12 +650,12 @@ Year,Rnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G.1,W,L,ERA,WHIP,SV,T
 2013,1,25,Giants,Y,1866500.0,Christian Arroyo,SS,1.3,181.0,547.0,19.0,0.234,0.685,1.0,0.0,0.0,0.0,2.0,0.0,HS,"Hernando HS (Brooksville, FL)",0
 2013,1,26,Yankees,Y,1839400.0,Eric Jagielo,3B,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"University of Notre Dame (South Bend, IN)",0
 2013,1,27,Reds,Y,1812400.0,Phil Ervin,CF,0.4,237.0,586.0,17.0,0.247,0.728,1.0,0.0,0.0,0.0,0.0,0.0,4Yr,"Samford University (Homewood, AL)",1
-2013,1,28,Cardinals ,Y,1785300.0,*Rob Kaminsky,LHP,-0.1,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,1.93,1.07,0.0,HS,"St. Joseph Regional HS (Montvale, NJ)",1
-2013,1,29,Rays ,Y,1755800.0,*Ryne Stanek,RHP,3.1,35.0,0.0,0.0,0.0,0.0,254.0,6.0,12.0,3.52,1.27,4.0,4Yr,"University of Arkansas (Fayetteville, AR)",1
-2013,1,30,Rangers ,Y,1900000.0,*Travis Demeritte,SS,-1.8,92.0,287.0,6.0,0.216,0.605,1.0,0.0,0.0,36.0,4.0,0.0,HS,"Winder-Barrow HS (Winder, GA)",0
-2013,1,31,Braves ,Y,1704200.0,*Jason Hursh,RHP,-0.2,11.0,0.0,0.0,0.0,0.0,11.0,1.0,0.0,8.25,2.0,0.0,4Yr,"Oklahoma State University (Stillwater, OK)",1
-2013,1,32,Yankees ,Y,1800000.0,*Aaron Judge,CF,29.9,650.0,2362.0,187.0,0.277,0.945,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California State University, Fresno (Fresno, CA)",0
-2013,1,33,Yankees ,Y,1650100.0,*Ian Clarkin,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Madison HS (San Diego, CA)",0
+2013,1,28,Cardinals ,Y,1785300.0,Rob Kaminsky,LHP,-0.1,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,1.93,1.07,0.0,HS,"St. Joseph Regional HS (Montvale, NJ)",1
+2013,1,29,Rays ,Y,1755800.0,Ryne Stanek,RHP,3.1,35.0,0.0,0.0,0.0,0.0,254.0,6.0,12.0,3.52,1.27,4.0,4Yr,"University of Arkansas (Fayetteville, AR)",1
+2013,1,30,Rangers ,Y,1900000.0,Travis Demeritte,SS,-1.8,92.0,287.0,6.0,0.216,0.605,1.0,0.0,0.0,36.0,4.0,0.0,HS,"Winder-Barrow HS (Winder, GA)",0
+2013,1,31,Braves ,Y,1704200.0,Jason Hursh,RHP,-0.2,11.0,0.0,0.0,0.0,0.0,11.0,1.0,0.0,8.25,2.0,0.0,4Yr,"Oklahoma State University (Stillwater, OK)",1
+2013,1,32,Yankees ,Y,1800000.0,Aaron Judge,CF,29.9,650.0,2362.0,187.0,0.277,0.945,0.0,0.0,0.0,0.0,0.0,0.0,4Yr,"California State University, Fresno (Fresno, CA)",0
+2013,1,33,Yankees ,Y,1650100.0,Ian Clarkin,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"Madison HS (San Diego, CA)",0
 2013,1,34,Royals,Y,3550000.0,Sean Manaea,LHP,12.8,8.0,14.0,0.0,0.214,0.552,144.0,53.0,45.0,3.9,1.21,0.0,4Yr,"Indiana State University (Terre Haute, IN)",0
 2013,1,35,Marlins,N,0.0,Matt Krook,LHP,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,HS,"St. Ignatius College Preparatory (San Francisco, CA)",0
 2013,1,36,Diamondbacks,Y,1435000.0,Aaron Blair,RHP,-2.0,16.0,22.0,0.0,0.091,0.221,16.0,2.0,8.0,7.89,1.73,0.0,4Yr,"Marshall University (Huntington, WV)",0
