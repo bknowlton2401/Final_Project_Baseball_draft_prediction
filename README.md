@@ -50,7 +50,44 @@ The data sources used are Baseball Reference [link](https://www.baseball-referen
  ![roundpick_yearsplayed_team](https://user-images.githubusercontent.com/96890065/178833534-aa21da0b-167b-42eb-a591-4c2912bdfccd.png)
 
 ### Analyze data
- - TBD
+ - Average years played per Round pick
+   - Using a box-and-whisker plot (using Seaborn) and a list, it appears that players who are picked in the first 7 round picks, on average have a longer career than those picked in a later round. 
+![roundpick_yearsplayed_team](https://user-images.githubusercontent.com/96890065/180075826-96f11693-2c58-4620-b754-1a0cebd94cec.png)
+   - Numerically the average years played per round pick
+<img width="132" alt="AvgYrsPlayed_perRdPck" src="https://user-images.githubusercontent.com/96890065/180075772-656b5c96-6d45-46d1-bb54-d9dc949749e1.png">
+![scatterplt_year_yrspld_rdpck](https://user-images.githubusercontent.com/96890065/180079385-23471355-755d-49de-b247-2976a140179d.png)
+
+
+ - Correlation between Round pick and years played
+   - using a linear regression model there is a weak negative correlation between when a player is picked in the first round and the length of their careers. 
+![lnreg_rdpck_yrspld](https://user-images.githubusercontent.com/96890065/180076609-8d02997d-46d4-4995-89e6-e6dbbfee25da.png)
+<img width="351" alt="Correlation_coefficient" src="https://user-images.githubusercontent.com/96890065/180076723-bfd627bb-fb82-4a7b-b1bb-5ab0b38fad04.png">
+ - Division breakdown of first round draft picks. The NL West (64) and AL West (66) have had more first round draft picks than other divisions from 2000-2015. This could be due to the Houston Astros switch from NL Central to AL West.
+    - NL West
+<img width="191" alt="NLWest_playerspckd" src="https://user-images.githubusercontent.com/96890065/180077000-b30aee2d-de43-48b6-ad54-277d1e9211bb.png">
+
+
+    - NL East
+<img width="272" alt="NLEast_playerspckd" src="https://user-images.githubusercontent.com/96890065/180076991-8eb512b7-93cc-49c7-8929-29d27e3cf247.png">
+
+
+    - NL Central
+<img width="200" alt="NLCentral_playerspckd" src="https://user-images.githubusercontent.com/96890065/180076984-134c37ab-0a1f-494b-81f1-20aa8e38b4e7.png">
+
+
+    - AL West
+<img width="272" alt="ALWest_playerspckd" src="https://user-images.githubusercontent.com/96890065/180076971-e922f952-fa91-4f91-ae9d-c67a7f2dedd8.png">
+
+
+    - AL East
+<img width="200" alt="ALEast_playerespckd" src="https://user-images.githubusercontent.com/96890065/180076957-27f739c1-0037-46f6-828c-b3fc790fe154.png">
+
+
+    - AL Central
+<img width="200" alt="ALCentral_playerspckd" src="https://user-images.githubusercontent.com/96890065/180076943-c2d8f259-2cd7-44ae-80b8-fd75d5570e07.png">
+
+
+
 
 ### Machine Learning
  - Preprocessing
