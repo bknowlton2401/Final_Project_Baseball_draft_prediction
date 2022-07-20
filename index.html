@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baseball Stats Final Project</title>
+    
+    <!-- add a link to Bootstrap's content delivery network CDN -->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+      integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+      crossorigin="anonymous"
+    />
+    <!-- add a link to stylesheet (style.css)-->
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+    <body class="bg-light"></body>
+    <!--add a Navbar-->
+    <div class="wrapper">
+        <nav class="navbar navbar-light bg-light navbar-expand-lg">
+            <a class="navbar-brand" href="index.html">Final Project - B. Nowlton, D. Silvaggio, L. McCanna, J. Braun</a>
+        </nav>
+    </div>
+
+    <!--add a Jumbotron-->
+    <div class="jumbotron">
+        <h1 class="display-4">2000-2015 MLB First Round Draft Data</h1>
+    </div>
+
+    <!--Add the article title and paragraph-->
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-4">
+                <h3>Baseball Stats 
+                    <small>Insert Title here</small>
+                </h3>
+            </div>
+            <div class="col-md-8">
+                <p>
+                    Insert paragraph describing final project here
+                </p>  
+            </div>
+        </div>
+    </div>
+
+    <!--Create the Draft Pick table filter-->
+    <div class="container-fluid">
+        <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-3">
+                <form class="bg-light">
+                    <p>Draft Pick Search</p>
+                    <ul class="list-group bg-light">
+                        <!-- add two line items - one for the input and one for the button -->
+                        <li class="list-group-item bg-danger">
+                            <label for="date">Enter Draft Year</label>
+                            <!-- add the input, type = text means code will look for text to be input, id = function will look for this variable-->
+                            <input type="text" placeholder="2006" id="Year" />
+                        </li>
+                        
+                        <li class="list-group-item bg-danger">
+                            <label for="city">Enter Overall Pick</label>
+                            <input type="text" placeholder="7" id="Overall_Pick" />
+                        </li>
+
+                        <li class="list-group-item bg-danger">
+                            <label for="state">Enter Team</label>
+                            <input type="text" placeholder="Dodgers" id="Team" />
+                        </li>
+
+                        <li class="list-group-item bg-danger">
+                            <label for="country">Enter Name</label>
+                            <input type="text" placeholder="Clayton Kershaw" id="Name" />
+                        </li>
+                        
+                        <li class="list-group-item bg-danger">
+                            <label for="shape">Enter Position</label>
+                            <input type="text" placeholder="LHP" id="Position" />
+                        </li>
+                          
+                    </ul>
+                </form>    
+              </div>
+              <div class="col-md-9">
+                <table class="table table-striped">
+                    <thead>
+                      <tr>
+                        <th>Year</th>
+                        <th>Round</th>
+                        <th>Overall Pick</th>
+                        <th>Team</th>
+                        <th>Signed</th>
+                        <th>Bonus</th>
+                        <th>Name</th>
+                        <th>Position</th>
+                        <th>WAR</th>
+                        <th>G</th>
+                        <th>AB</th>
+                        <th>HR</th>
+                        <th>BA</th>
+                        <th>OPS</th>
+                        <th>G1</th>
+                        <th>W</th>
+                        <th>L</th>
+                        <th>ERA</th>
+                        <th>WHIP</th>
+                        <th>SV</th>
+                        <th>Draft Type</th>
+                        <th>Drafted Out Of</th>
+                        <th>Team Made Playoffs</th>
+                      </tr>
+                    </thead>
+                    <tbody></tbody>
+                  </table>
+    
+              </div>
+            </div>
+          </div>        
+    </div> 
+    
+    <!-- add scripts -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+    <script src="static/js/HTML_column_data.js"></script>
+    <script src="static/js/app.js"></script>
+</body>
+</html>

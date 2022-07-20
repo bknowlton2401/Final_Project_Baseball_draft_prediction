@@ -1,0 +1,20 @@
+body {
+    color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .jumbotron {
+    background-image: url("../images/baseball_background5.jpg");
+    background-size: cover;
+    text-align: center;
+  }
+
+  .list-group-item {
+    color:aliceblue;
+  }
+
+  .display-4 {
+    color:#ffffff;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bold;
+  }
