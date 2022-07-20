@@ -63,7 +63,8 @@ The data sources used are Baseball Reference [link](https://www.baseball-referen
 ![lnreg_rdpck_yrspld](https://user-images.githubusercontent.com/96890065/180076609-8d02997d-46d4-4995-89e6-e6dbbfee25da.png)
 <img width="351" alt="Correlation_coefficient" src="https://user-images.githubusercontent.com/96890065/180076723-bfd627bb-fb82-4a7b-b1bb-5ab0b38fad04.png">
  - Division breakdown of first round draft picks. The NL West (64) and AL West (66) have had more first round draft picks than other divisions from 2000-2015. This could be due to the Houston Astros switch from NL Central to AL West.
-    - NL West
+   
+   - NL West
 <img width="191" alt="NLWest_playerspckd" src="https://user-images.githubusercontent.com/96890065/180077000-b30aee2d-de43-48b6-ad54-277d1e9211bb.png">
 
 
