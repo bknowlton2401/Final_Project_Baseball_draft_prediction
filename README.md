@@ -13,8 +13,11 @@ The data sources used are Baseball Reference [link](https://www.baseball-referen
 ## Questions
 ### Correlations
  - Is there a correlation between first round draft picks and the team making it to playoffs?
+      - Based on our research it does not appear that there is a correlation between a team making playoffs and also picking in the first round
  - Is there a correlation between first round draft picks and longevity in the MLB?
+      - Players picked in the first seven overall round pick, tend to have longer careers than those picked in a later draft pick. 
  - Is there a correlation between Rookie of the Year and the team making it to the playoffs?
+      - We were not able to measure this at this time, but is of interest for a future time. 
  
  ### Stats to include
  - Initial signing salary/bonus
