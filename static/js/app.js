@@ -1,27 +1,56 @@
 // from HTML_column_data.js
 const tableData = data;
 
+// Add variables for paging
+const pageSize = 25;
+let curPage = 1;
+
+
 // get table references
 var tbody = d3.select("tbody");
+
+// Add click handlers for the Next/Previous buttons
+document.querySelector('#nextButton').addEventListener('click', nextPage, false);
+document.querySelector('#prevButton').addEventListener('click', previousPage, false);
+
+
 
 function buildTable(data) {
   // First, clear out any existing data
   tbody.html("");
 
-  // Next, loop through each object in the data
-  // and append a row and cells for each value in the row
-  data.forEach((dataRow) => {
-    // Append a row to the table body
-    let row = tbody.append("tr");
+  data.filter((row, index) => {
+    let start = (curPage-1)*pageSize;
+    let end =curPage*pageSize;
+    if(index >= start && index < end) return true;
+  
+    // Next, loop through each object in the data
+    // and append a row and cells for each value in the row
+  }).forEach((dataRow) => {
+      // Append a row to the table body
+      let row = tbody.append("tr");
 
-    // Loop through each field in the dataRow and add
-    // each value as a table cell (td)
-    Object.values(dataRow).forEach((val) => {
-      let cell = row.append("td");
-      cell.text(val);
+      // Loop through each field in the dataRow and add
+      // each value as a table cell (td)
+      Object.values(dataRow).forEach((val) => {
+        let cell = row.append("td");
+        cell.text(val);
+      });
     });
-  });
 }
+
+
+// Add functions for previous/next page buttons
+function previousPage() {
+  if(curPage > 1) curPage--;
+  buildTable(tableData);
+}
+
+function nextPage() {
+  if((curPage * pageSize) < data.length) curPage++;
+  buildTable(tableData);
+}
+
 
 // Create a variable to keep track of all the filters as an object.
 var filters = {};
@@ -76,36 +105,6 @@ function updateFilters() {
   // Attach an event to listen for changes to each filter
   d3.selectAll("input").on("click", updateFilters);
   
+
   // Build the table when the page loads
   buildTable(tableData);
-
-
-
-
-
-// Number of Pages Displayed in the Table
-
-
-
-// Number of records per page
-$(document).ready(function() {
-  $('.datatable').dataTable({
-    "sPaginationType": "bs_four_button"
-  });
-  $('.datatable').each(function(){
-    var datatable = $(this);
-    // Length 
-    var length_sel = datatable.closest('.DataTables_wrapper').find('div[id$=_length] select');
-    length_sel.addClass('form-control input-sm')
-  });
-});
-
-
-// Not exactly sure what this does yet ** TBD 
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-58067950-1', 'auto');
-  ga('send', 'pageview');
