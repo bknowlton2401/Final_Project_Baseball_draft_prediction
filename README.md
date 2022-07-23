@@ -19,7 +19,7 @@ The data sources used are Baseball Reference [link](https://www.baseball-referen
  - Is there a correlation between Rookie of the Year and the team making it to the playoffs?
       - We were not able to measure this at this time, but is of interest for a future time. 
  
- ### Stats to include
+ ### Stats to include (viewable in HTML)
  - Initial signing salary/bonus
  - Average annual salary over the length of players career
  - What awards did the players accummulate?
