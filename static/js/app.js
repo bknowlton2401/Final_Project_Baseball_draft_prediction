@@ -78,3 +78,34 @@ function updateFilters() {
   
   // Build the table when the page loads
   buildTable(tableData);
+
+
+
+
+
+// Number of Pages Displayed in the Table
+
+
+
+// Number of records per page
+$(document).ready(function() {
+  $('.datatable').dataTable({
+    "sPaginationType": "bs_four_button"
+  });
+  $('.datatable').each(function(){
+    var datatable = $(this);
+    // Length 
+    var length_sel = datatable.closest('.DataTables_wrapper').find('div[id$=_length] select');
+    length_sel.addClass('form-control input-sm')
+  });
+});
+
+
+// Not exactly sure what this does yet ** TBD 
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-58067950-1', 'auto');
+  ga('send', 'pageview');
