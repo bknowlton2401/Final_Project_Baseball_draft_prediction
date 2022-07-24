@@ -13,6 +13,25 @@
       integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
       crossorigin="anonymous"
     />
+    <!-- jQuery -->
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js">
+    </script>
+    <!-- DataTables CSS -->
+    <link rel="stylesheet" href= "https://cdn.datatables.net/1.10.23/css/jquery.dataTables.min.css">
+    <!-- DataTables JS -->
+    <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js">
+    </script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.12.1/datatables.min.css"/>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.12.1/datatables.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js" ></script>
+    <script src="https://cdn.datatables.net/searchpanes/1.1.1/js/dataTables.searchPanes.min.js" ></script>
+    <script src="https://cdn.datatables.net/select/1.3.1/js/dataTables.select.min.js" ></script>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/searchpanes/1.1.1/css/searchPanes.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/select/1.3.1/css/select.dataTables.min.css">
+    
+
     <!-- add a link to stylesheet (style.css)-->
     <link rel="stylesheet" href="static/css/style.css">
 </head>
@@ -50,75 +69,10 @@
     <div class="container-fluid">
         <div class="container-fluid">
             <div class="row">
-              <div class="col-md-3">
-                <form class="bg-light">
-                    <p>Draft Pick Search</p>
-                    <ul class="list-group bg-light">
-                        <!-- add line items for search filters -->
-                        <li class="list-group-item bg-danger">
-                            <label for="date">Enter Draft Year</label>
-                            <!-- add the input, type = text means code will look for text to be input, id = function will look for this variable-->
-                            <input type="text" placeholder="2006" id="Year" />
-                        </li>
-                        
-                        <li class="list-group-item bg-danger">
-                            <label for="city">Enter Overall Pick</label>
-                            <input type="text" placeholder="7" id="Overall_Pick" />
-                        </li>
-
-                        <li class="list-group-item bg-danger">
-                            <label for="state">Enter Team</label>
-                            <input type="text" placeholder="Dodgers" id="Team" />
-                        </li>
-
-                        <li class="list-group-item bg-danger">
-                            <label for="country">Enter Name</label>
-                            <input type="text" placeholder="Clayton Kershaw" id="Name" />
-                        </li>
-                        
-                        <li class="list-group-item bg-danger">
-                            <label for="shape">Enter Position</label>
-                            <input type="text" placeholder="LHP" id="Position" />
-                        </li>
-                          
-                    </ul>
-                </form>    
-              </div>
-              <div class="col-md-9">
-                <table class="table table-striped" id="DataTables_0">
-                    <thead>
-                      <tr>
-                        <th>Year</th>
-                        <th>Round</th>
-                        <th>Overall Pick</th>
-                        <th>Team</th>
-                        <th>Signed</th>
-                        <th>Bonus</th>
-                        <th>Name</th>
-                        <th>Position</th>
-                        <th>WAR</th>
-                        <th>G</th>
-                        <th>AB</th>
-                        <th>HR</th>
-                        <th>BA</th>
-                        <th>OPS</th>
-                        <th>G1</th>
-                        <th>W</th>
-                        <th>L</th>
-                        <th>ERA</th>
-                        <th>WHIP</th>
-                        <th>SV</th>
-                        <th>Draft Type</th>
-                        <th>Drafted Out Of</th>
-                        <th>Team Made Playoffs</th>
-                      </tr>
-                    </thead>
+                <table class="table table-striped" id="DataTables_0" style="width:100%">
+                    <thead></thead>
                     <tbody></tbody>
                   </table>
-                  <div class="row">
-                    <button id="prevButton">Previous</button>
-                    <button id="nextButton">Next</button>
-                  </div>
               </div>
             </div>
           </div>        
@@ -126,7 +80,7 @@
     
     <!-- Add the scripts -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
-    <script src="static/js/html_data.js"></script>
+    <script src="static/js/data_list.js"></script>
     <script src="static/js/app.js"></script>
 </body>
 </html>

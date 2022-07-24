@@ -1,110 +1,138 @@
 // from HTML_column_data.js
-const tableData = data;
+const tableData = data_list;
 
-// Add variables for paging
-const pageSize = 25;
-let curPage = 1;
 
 
 // get table references
 var tbody = d3.select("tbody");
 
-// Add click handlers for the Next/Previous buttons
-document.querySelector('#nextButton').addEventListener('click', nextPage, false);
-document.querySelector('#prevButton').addEventListener('click', previousPage, false);
+// Define Columns of the datatable
+let columnData = [                        
+  {title: "Year"},
+  {title: "Round"},
+  {title: "Overall Pick"},
+  {title: "Team"}, 
+  {title: "Signed"}, 
+  {title: "Bonus"}, 
+  {title: "Name"}, 
+  {title: "Position"}, 
+  {title: "WAR"}, 
+  {title: "G"}, 
+  {title: "AB"}, 
+  {title: "HR"}, 
+  {title: "BA"}, 
+  {title: "OPS"}, 
+  {title: "G1"}, 
+  {title: "W"}, 
+  {title: "L"}, 
+  {title: "ERA"}, 
+  {title: "WHIP"}, 
+  {title: "SV"}, 
+  {title: "Draft Type"}, 
+  {title: "Drafted Out Of"}, 
+  {title: "Team Made Playoffs"}
+];
 
-
-
-function buildTable(data) {
+//function buildTable(data) {
   // First, clear out any existing data
-  tbody.html("");
+  //tbody.html("");
 
-  data.filter((row, index) => {
-    let start = (curPage-1)*pageSize;
-    let end =curPage*pageSize;
-    if(index >= start && index < end) return true;
+    // Initialize the DataTable
+    $(document).ready(function () {
+      var dt = $('#DataTables_0').DataTable({
+        data: tableData,
+        columns: columnData,
+        pageLength: 10, 
   
-    // Next, loop through each object in the data
-    // and append a row and cells for each value in the row
-  }).forEach((dataRow) => {
-      // Append a row to the table body
-      let row = tbody.append("tr");
+        // Specify the paging type to be used
+        // in the DataTable
+        //pagingType: "simple_numbers", 
 
-      // Loop through each field in the dataRow and add
-      // each value as a table cell (td)
-      Object.values(dataRow).forEach((val) => {
-        let cell = row.append("td");
-        cell.text(val);
+        // create the search/filter pane
+        searchPanes: {
+          viewTotal: true, 
+          show: true,
+          layout: `columns-5`,
+          columns: [0, 2, 3, 7, 22]
+        },
+
+        dom: 'Plfrtip',
+
+        columnDefs: [
+          {
+            orderable: true,
+            searchPanes: {
+              show: true,
+            },
+            targets: [0]
+          },
+          {
+            searchPanes: {
+              show: true,
+              options: [
+                {
+                  label: '1 to 10', 
+                  value: function(rowData, rowIdx) {
+                    return rowData[2] < 11;
+                  }
+                },
+                {
+                  label: '11 to 20', 
+                  value: function(rowData, rowIdx) {
+                    return rowData[2] <= 21 && rowData[2] >=11;
+                  }
+                },
+                {
+                  label: '21 to 30',
+                  value: function(rowData, rowIdx) {
+                    return rowData[2] <= 30 && rowData[2] >=21;
+                  }
+                },
+                {
+                  label: '31 to 40',
+                  value: function(rowData, rowIdx) {
+                    return rowData[2] <= 40 && rowData[2] >= 31; 
+                  }
+                },
+                {
+                  label: '41 to 50',
+                  value: function(rowData, rowIdx) {
+                    return rowData[2] <= 50 && rowData[2] >= 41; 
+                  }
+                },
+                {
+                  label: '51 and up',
+                  value: function(rowData, rowIdx) {
+                    return rowData[2] >= 51; 
+                  }
+                }
+              ]
+            },
+            targets: [2]
+          },
+          {
+            searchPanes: {
+              show: true,
+            },
+            targets: [3]
+          }
+        ],
+        select: {
+          style: 'os', 
+          selector: 'td:first-child'
+        },
+        order: [[1, 'asc']]
+      });
+
+      dt.on('select.dt', () => {
+        dt.searchPanes.rebuildPane(0, true);
+      });
+
+      dt.on('deselect.dt', () => {
+        dt.searchPanes.rebuildPane(0, true);
       });
     });
-}
-
-
-// Add functions for previous/next page buttons
-function previousPage() {
-  if(curPage > 1) curPage--;
-  buildTable(tableData);
-}
-
-function nextPage() {
-  if((curPage * pageSize) < data.length) curPage++;
-  buildTable(tableData);
-}
-
-
-// Create a variable to keep track of all the filters as an object.
-var filters = {};
-
-// Use this function to update the filters. 
-function updateFilters() {
-
-    // Save the element that was changed as a variable.
-    let filterInput = d3.select(this);
-
-    // Save the value that was changed as a variable.
-    let filterInputValue = filterInput.property("value");
-    console.log(filterInputValue);
-
-    // Save the id of the filter that was changed as a variable.
-    let filterInputID = filterInput.attr("id");
-    console.log(filterInputID);
-
-    // If a filter value was entered then add that filterId and value
-    // to the filters list. Otherwise, clear that filter from the filters object.
- 
-    if (filterInputValue) {
-      filters[filterInputID] = filterInputValue;
-    }
-
-    else {delete filters[filterId];
-    }
-
-    // Call function to apply all filters and rebuild the table
-    filterTable();
-  
-  }
-  
-  // Use this function to filter the table when data is entered.
-  function filterTable() {
-  
-    // Set the filtered data to the tableData.
-    var filteredData = tableData;
-  
-    // Loop through all of the filters and keep any data that
-    // matches the filter values
-  
-      // Loop through each field in the dataRow and add each value as a table cell (td)
-      Object.entries(filters).forEach(([key, value]) => {
-        filteredData = filteredData.filter(row => row[key] === value);
-      });
-
-    // Finally, rebuild the table using the filtered data
-    buildTable(filteredData);
-  }
-  
-  // Attach an event to listen for changes to each filter
-  d3.selectAll("input").on("click", updateFilters);
-  
+  //}  
 
   // Build the table when the page loads
-  buildTable(tableData);
+  //buildTable(tableData);
