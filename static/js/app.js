@@ -43,6 +43,11 @@ let columnData = [
         data: tableData,
         columns: columnData,
         pageLength: 10, 
+
+        //specify row colors
+        stripeClasses: ['stripe-1',
+                        'stripe-2'],
+        
   
         // Specify the paging type to be used
         // in the DataTable

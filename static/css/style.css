@@ -18,3 +18,34 @@ body {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight:bold;
   }
+
+  /* Define the colors to be used in the table */
+  .stripe-1 {
+    background-color: rgba(250, 3, 3, 0.021) !important;
+
+  }
+    
+  .stripe-2 {
+    background-color: rgba(255, 0, 0, 0.11) !important;
+
+  }
+
+
+  table.table-hover tbody tr:nth-child(even):hover td{
+    background-color: rgba(255, 0, 0, 0.274) !important;
+}
+
+  table.table-hover tbody tr:nth-child(odd):hover td {
+    background-color: rgba(255, 0, 0, 0.274) !important;
+}
+
+  table.table-hover thead tr {
+    background-color: rgba(0, 128, 0, 0.719);
+    color: white;
+}
+  
+  table.table-bordered {
+    border-color: #000000;
+}
+
+
