@@ -107,4 +107,5 @@ The data sources used are Baseball Reference [link](https://www.baseball-referen
 <img width="367" alt="Screen Shot 2022-07-02 at 9 53 52 PM" src="https://user-images.githubusercontent.com/96890065/178836689-1eef0013-6aa9-4680-b595-0f227c1daef1.png">
 
 ### Dashboard/Presentation
-TBD
+![5 first round ](https://user-images.githubusercontent.com/99921692/181100524-5b4d6d27-e5f9-4b7e-a372-8fcbc2837f13.png)
+
