@@ -108,4 +108,7 @@ The data sources used are Baseball Reference [link](https://www.baseball-referen
 
 ### Dashboard/Presentation
 ![5 first round ](https://user-images.githubusercontent.com/99921692/181100524-5b4d6d27-e5f9-4b7e-a372-8fcbc2837f13.png)
+![Box Pl<img width="132" alt="average years played " src="https://user-images.githubusercontent.com/99921692/181126133-c2cc47cf-aa0e-4198-9b55-d199768d37a5.png">
+ot Fi<img width="132" alt="average years played " src="https://user-images.githubusercontent.com/99921692/181126178-9fafe100-0429-49e7-8fff-bbc3312c508c.png">
+rst Round](https://user-images.githubusercontent.com/99921692/181126027-425b2caa-ff3d-4e64-b650-a3c361bc8365.png)
 
