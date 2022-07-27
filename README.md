@@ -112,3 +112,14 @@ The data sources used are Baseball Reference [link](https://www.baseball-referen
 ot Fi<img width="132" alt="average years played " src="https://user-images.githubusercontent.com/99921692/181126178-9fafe100-0429-49e7-8fff-bbc3312c508c.png">
 rst Round](https://user-images.githubusercontent.com/99921692/181126027-425b2caa-ff3d-4e64-b650-a3c361bc8365.png)
 
+### Future information
+Successes:
+ - Great communication and clear direction on the project
+ - Compiling, joining and merging dataframes went well
+ - Running graphs to show correlations went well
+ - Organizing dashboards and initial creation of HTML page
+ - Machine learning to show predictions
+ - Making adjustments to our project as the data lead us
+
+Areas of Improvement:
+ - minor issues in HTML development with repetition in names
