@@ -48,4 +48,8 @@ body {
     border-color: #000000;
 }
 
-
+  .col-md-4,
+    div.h3   {
+    background-color: rgba(13, 112, 38, 0.226);
+    color:black; 
+  }
