@@ -45,6 +45,18 @@ CREATE TABLE team_player (
 );
 
 
+
+-- Joining career_length and team_player tables
+SELECT career_length.player_name,
+     career_length.years_played,
+     team_player.franchise_id,
+     team_player.RdPck
+FROM career_length
+INNER JOIN team_player
+ON career_length.player_name = team_player.Player_name;
+
+
+
 SELECT * from career_length;
 
 SELECT * from team_player;
